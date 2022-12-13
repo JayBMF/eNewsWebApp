@@ -14,10 +14,13 @@
 <div class="container-fluid mt-4 mb-3">
     <div class="row">
         <div class="col-sm-3">
-
+            <jsp:include page="../../Views/partials/Left.jsp" />
         </div>
-        <div class="col-sm-9">
+        <div class="col-sm-7">
             <jsp:doBody/>
+        </div>
+        <div class="col">
+            <jsp:include page="../../Views/partials/Right.jsp" />
         </div>
     </div>
 </div>
