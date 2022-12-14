@@ -21,7 +21,7 @@
             <div class="card shadow w-50 mx-auto">
                 <div class="card-body">
                     <h1 class="card-title">Ooooops!</h1>
-                    <h2 class="text-danger">404. Page not found found</h2>
+                    <h2 class="text-danger">404. Page not found fund</h2>
                     <p class="card-text">
                         Sorry, an error has occured. The requested page not found.
                     </p>
