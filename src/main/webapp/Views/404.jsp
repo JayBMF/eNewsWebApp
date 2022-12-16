@@ -1,6 +1,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html lang="en">
 <head>
+
     <meta charset="UTF-8">
     <title>404</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -20,7 +21,7 @@
             <div class="card shadow w-50 mx-auto">
                 <div class="card-body">
                     <h1 class="card-title">Ooooops!</h1>
-                    <h2 class="text-danger">404. Page not found</h2>
+                    <h2 class="text-danger">404. Page not found fund</h2>
                     <p class="card-text">
                         Sorry, an error has occured. The requested page not found.
                     </p>
