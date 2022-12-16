@@ -21,7 +21,7 @@
   </h4>
   <div class="list-group list-group-flush">
     <a href="#" class="list-group-item list-group-item-action active">
-      The current link item
+      The current link
     </a>
     <a href="#" class="list-group-item list-group-item-action">A second link item</a>
     <a href="#" class="list-group-item list-group-item-action">A third link item</a>
