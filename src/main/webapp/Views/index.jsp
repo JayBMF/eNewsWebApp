@@ -2390,7 +2390,7 @@
                     target="_blank">
                 <img
                         height="26"
-                        src="../cdnweb.dantri.com.vn/dist/static-avatar-default.1-0-1.b474c6ca2d1abee5b89b.png"
+                        src="../cdnweb/dist/static-avatar-default.1-0-1.b474c6ca2d1abee5b89b.png"
                         width="26"
                 />
                 International Version
@@ -2487,9 +2487,9 @@
         <li class="has-child">
             <a href="kinh-doanh.html">Kinh doanh</a>
             <ol class="submenu">
-                <li><a href="kinh-doanh/tai-chinh.html">Tài chính</a></li>
+                <li><a href="#">Tài chính</a></li>
 
-                <li><a href="kinh-doanh/doanh-nghiep.html">Doanh nghiệp</a></li>
+                <li><a href="#">Doanh nghiệp</a></li>
                 <li><a href="kinh-doanh/khoi-nghiep.html">Khởi nghiệp</a></li>
                 <li><a href="kinh-doanh/tieu-dung.html">Tiêu dùng</a></li>
 
@@ -2498,11 +2498,11 @@
         <li class="has-child">
             <a href="bat-dong-san.html">Bất động sản</a>
             <ol class="submenu">
-                <li><a href="bat-dong-san/du-an.html">Dự án</a></li>
-                <li><a href="bat-dong-san/thi-truong.html">Thị trường</a></li>
+                <li><a href="#">Dự án</a></li>
+                <li><a href="#">Thị trường</a></li>
                 <li><a href="bat-dong-san/nha-dat.html">Nhà đất</a></li>
                 <li>
-                    <a href="bat-dong-san/nhip-song-do-thi.html">Nhịp sống đô thị</a>
+                    <a href="#">Nhịp sống đô thị</a>
                 </li>
                 <li><a href="#">Sống xanh</a></li>
                 <li><a href="bat-dong-san/noi-that.html">Nội thất</a></li>
@@ -2617,9 +2617,9 @@
                 <li>
                     <a href="kinh-doanh.html">Kinh doanh</a>
                     <ol class="nf-submenu">
-                        <li><a href="kinh-doanh/tai-chinh.html">Tài chính</a></li>
+                        <li><a href="#">Tài chính</a></li>
                         <li><a href="kinh-doanh/chung-khoan.html">Chứng khoán</a></li>
-                        <li><a href="kinh-doanh/doanh-nghiep.html">Doanh nghiệp</a></li>
+                        <li><a href="#">Doanh nghiệp</a></li>
                         <li><a href="kinh-doanh/khoi-nghiep.html">Khởi nghiệp</a></li>
                         <li><a href="kinh-doanh/tieu-dung.html">Tiêu dùng</a></li>
 
@@ -2629,11 +2629,11 @@
                 <li>
                     <a href="bat-dong-san.html">Bất động sản</a>
                     <ol class="nf-submenu">
-                        <li><a href="bat-dong-san/du-an.html">Dự án</a></li>
-                        <li><a href="bat-dong-san/thi-truong.html">Thị trường</a></li>
+                        <li><a href="#">Dự án</a></li>
+                        <li><a href="#">Thị trường</a></li>
                         <li><a href="bat-dong-san/nha-dat.html">Nhà đất</a></li>
                         <li>
-                            <a href="bat-dong-san/nhip-song-do-thi.html"
+                            <a href="#"
                             >Nhịp sống đô thị</a
                             >
                         </li>
@@ -3761,9 +3761,9 @@
                 <div class="category-head">
                     <h2 class="title"><a href="kinh-doanh.html">Kinh doanh</a></h2>
                     <ol class="category-nav">
-                        <li><a href="kinh-doanh/tai-chinh.html">Tài chính</a></li>
+                        <li><a href="#">Tài chính</a></li>
 
-                        <li><a href="kinh-doanh/doanh-nghiep.html">Doanh nghiệp</a></li>
+                        <li><a href="#">Doanh nghiệp</a></li>
                     </ol>
                 </div>
                 <div class="category-container">
@@ -3776,7 +3776,7 @@
                     >
                         <div class="article-thumb">
                             <a
-                                    href="kinh-doanh/thu-tuong-chi-dao-bo-cong-thuong-khong-de-thieu-hut-xang-dau-dip-tet-20221224162858354.html"
+                                    href="#"
                             >
                                 <img
                                         alt="Thủ tướng chỉ đạo Bộ Công Thương không để thiếu hụt xăng dầu dịp Tết"
@@ -3791,14 +3791,14 @@
                         <div class="article-content">
                             <h3 class="article-title">
                                 <a
-                                        href="kinh-doanh/thu-tuong-chi-dao-bo-cong-thuong-khong-de-thieu-hut-xang-dau-dip-tet-20221224162858354.html"
+                                        href="#"
                                 >Thủ tướng chỉ đạo Bộ Công Thương không để thiếu hụt xăng
                                     dầu dịp Tết</a
                                 >
                             </h3>
                             <div class="article-excerpt">
                                 <a
-                                        href="kinh-doanh/thu-tuong-chi-dao-bo-cong-thuong-khong-de-thieu-hut-xang-dau-dip-tet-20221224162858354.html"
+                                        href="#"
                                 >
                                     Thủ tướng Phạm Minh Chính giao Bộ Công Thương chỉ đạo các
                                     doanh nghiệp, đơn vị bảo đảm nguồn cung xăng dầu cho
@@ -3816,7 +3816,7 @@
                     >
                         <div class="article-thumb">
                             <a
-                                    href="kinh-doanh/khach-bat-ngo-bi-rut-tien-khoi-the-tin-dung-chuyen-gia-chi-meo-phong-tranh-20221223123311491.html"
+                                    href="#"
                             >
                                 <img
                                         alt="Khách bất ngờ bị rút tiền khỏi thẻ tín dụng, chuyên gia chỉ mẹo phòng tránh"
@@ -3830,7 +3830,7 @@
                         </div>
                         <h3 class="article-title">
                             <a
-                                    href="kinh-doanh/khach-bat-ngo-bi-rut-tien-khoi-the-tin-dung-chuyen-gia-chi-meo-phong-tranh-20221223123311491.html"
+                                    href="#"
                             >Khách bất ngờ bị rút tiền khỏi thẻ tín dụng, chuyên gia chỉ
                                 mẹo phòng tránh</a
                             >
@@ -3845,7 +3845,7 @@
                     >
                         <div class="article-thumb">
                             <a
-                                    href="kinh-doanh/nam-khung-khiep-cua-tien-dien-tu-bitcoin-danh-bai-moi-du-doan-20221224084259560.html"
+                                    href="#"
                             >
                                 <img
                                         alt="Năm khủng khiếp của tiền điện tử: Bitcoin đánh bại mọi dự đoán"
@@ -3859,7 +3859,7 @@
                         </div>
                         <h3 class="article-title">
                             <a
-                                    href="kinh-doanh/nam-khung-khiep-cua-tien-dien-tu-bitcoin-danh-bai-moi-du-doan-20221224084259560.html"
+                                    href="#"
                             >Năm khủng khiếp của tiền điện tử: Bitcoin đánh bại mọi dự
                                 đoán</a
                             >
@@ -3874,7 +3874,7 @@
                     >
                         <div class="article-thumb">
                             <a
-                                    href="kinh-doanh/gia-vang-giam-sau-dau-hieu-kha-quan-cua-kinh-te-my-20221224012650880.html"
+                                    href="#"
                             >
                                 <img
                                         alt="Giá vàng giảm sau dấu hiệu khả quan của kinh tế Mỹ"
@@ -3888,7 +3888,7 @@
                         </div>
                         <h3 class="article-title">
                             <a
-                                    href="kinh-doanh/gia-vang-giam-sau-dau-hieu-kha-quan-cua-kinh-te-my-20221224012650880.html"
+                                    href="#"
                             >Giá vàng giảm sau dấu hiệu khả quan của kinh tế Mỹ</a
                             >
                         </h3>
@@ -3902,7 +3902,7 @@
                     >
                         <div class="article-thumb">
                             <a
-                                    href="kinh-doanh/ha-gia-xe-rolls-royce-ma-vang-12-ty-dong-de-tim-khach-mua-20221223173551601.html"
+                                    href="#"
                             >
                                 <img
                                         alt="Hạ giá xe Rolls-Royce mạ vàng 1,2 tỷ đồng để tìm khách mua"
@@ -3916,7 +3916,7 @@
                         </div>
                         <h3 class="article-title">
                             <a
-                                    href="kinh-doanh/ha-gia-xe-rolls-royce-ma-vang-12-ty-dong-de-tim-khach-mua-20221223173551601.html"
+                                    href="#"
                             >Hạ giá xe Rolls-Royce mạ vàng 1,2 tỷ đồng để tìm khách
                                 mua</a
                             >
@@ -3931,10 +3931,10 @@
                         <a href="bat-dong-san.html">Bất động sản</a>
                     </h2>
                     <ol class="category-nav">
-                        <li><a href="bat-dong-san/du-an.html">Dự án</a></li>
-                        <li><a href="bat-dong-san/thi-truong.html">Thị trường</a></li>
+                        <li><a href="#">Dự án</a></li>
+                        <li><a href="#">Thị trường</a></li>
                         <li>
-                            <a href="bat-dong-san/nhip-song-do-thi.html"
+                            <a href="#"
                             >Nhịp sống đô thị</a
                             >
                         </li>
@@ -3951,7 +3951,7 @@
                     >
                         <div class="article-thumb">
                             <a
-                                    href="kinh-doanh/cao-toc-tuyen-quang-phu-tho-dieu-chinh-dau-tu-can-them-hon-4000-ty-dong-20221223180348340.html"
+                                    href="#"
                             >
                                 <img
                                         alt="Cao tốc Tuyên Quang - Phú Thọ: Điều chỉnh đầu tư cần thêm hơn 4.000 tỷ đồng"
@@ -3966,14 +3966,14 @@
                         <div class="article-content">
                             <h3 class="article-title">
                                 <a
-                                        href="kinh-doanh/cao-toc-tuyen-quang-phu-tho-dieu-chinh-dau-tu-can-them-hon-4000-ty-dong-20221223180348340.html"
+                                        href="#"
                                 >Cao tốc Tuyên Quang - Phú Thọ: Điều chỉnh đầu tư cần thêm
                                     hơn 4.000 tỷ đồng</a
                                 >
                             </h3>
                             <div class="article-excerpt">
                                 <a
-                                        href="kinh-doanh/cao-toc-tuyen-quang-phu-tho-dieu-chinh-dau-tu-can-them-hon-4000-ty-dong-20221223180348340.html"
+                                        href="#"
                                 >
                                     Sau khi được điều chỉnh đầu tư, cao tốc Tuyên Quang - Phú
                                     Thọ dài 40,2km, 4 làn xe cần nguồn vốn khoảng 7.800...
@@ -3990,7 +3990,7 @@
                     >
                         <div class="article-thumb">
                             <a
-                                    href="bat-dong-san/dat-nen-giam-gia-hang-loat-chu-nha-dat-trong-pho-van-het-gia-cao-20221223140955840.html"
+                                    href="#"
                             >
                                 <img
                                         alt="Đất nền giảm giá hàng loạt, chủ nhà đất trong phố vẫn hét giá cao"
@@ -4004,7 +4004,7 @@
                         </div>
                         <h3 class="article-title">
                             <a
-                                    href="bat-dong-san/dat-nen-giam-gia-hang-loat-chu-nha-dat-trong-pho-van-het-gia-cao-20221223140955840.html"
+                                    href="#"
                             >Đất nền giảm giá hàng loạt, chủ nhà đất trong phố vẫn hét
                                 giá cao</a
                             >
@@ -4019,7 +4019,7 @@
                     >
                         <div class="article-thumb">
                             <a
-                                    href="bat-dong-san/bo-xay-dung-co-hien-tuong-cac-san-cau-ket-om-hang-lam-gia-tao-song-20221223143143630.html"
+                                    href="#"
                             >
                                 <img
                                         alt="Bộ Xây dựng: Có hiện tượng các sàn câu kết ôm hàng, làm giá, tạo sóng"
@@ -4033,7 +4033,7 @@
                         </div>
                         <h3 class="article-title">
                             <a
-                                    href="bat-dong-san/bo-xay-dung-co-hien-tuong-cac-san-cau-ket-om-hang-lam-gia-tao-song-20221223143143630.html"
+                                    href="#"
                             >Bộ Xây dựng: Có hiện tượng các sàn câu kết ôm hàng, làm
                                 giá, tạo sóng</a
                             >
@@ -4048,7 +4048,7 @@
                     >
                         <div class="article-thumb">
                             <a
-                                    href="bat-dong-san/gia-chung-cu-van-neo-cao-nguoi-mua-kho-voi-20221223135201919.html"
+                                    href="#"
                             >
                                 <img
                                         alt="Giá chung cư vẫn neo cao, người mua khó với"
@@ -4062,7 +4062,7 @@
                         </div>
                         <h3 class="article-title">
                             <a
-                                    href="bat-dong-san/gia-chung-cu-van-neo-cao-nguoi-mua-kho-voi-20221223135201919.html"
+                                    href="#"
                             >Giá chung cư vẫn neo cao, người mua khó với</a
                             >
                         </h3>
@@ -4076,7 +4076,7 @@
                     >
                         <div class="article-thumb">
                             <a
-                                    href="bat-dong-san/qua-kho-khan-nhieu-doanh-nghiep-dia-oc-buoc-phai-giam-lao-dong-20221222104714053.html"
+                                    href="#"
                             >
                                 <img
                                         alt="Quá khó khăn, nhiều doanh nghiệp địa ốc buộc phải giảm lao động"
@@ -4090,7 +4090,7 @@
                         </div>
                         <h3 class="article-title">
                             <a
-                                    href="bat-dong-san/qua-kho-khan-nhieu-doanh-nghiep-dia-oc-buoc-phai-giam-lao-dong-20221222104714053.html"
+                                    href="#"
                             >Quá khó khăn, nhiều doanh nghiệp địa ốc buộc phải giảm lao
                                 động</a
                             >
@@ -5052,7 +5052,7 @@
 </script>
 <script
         defer
-        src="../cdnweb.dantri.com.vn/dist/common-1-0-1.315fee480ea216469b0e.js"
+        src="../cdnweb/dist/common.js"
 ></script>
 <script type="application/ld+json">
     {
