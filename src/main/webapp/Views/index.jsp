@@ -1,5 +1,6 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <!DOCTYPE html>
-<html lang="vi" xmlns="http://www.w3.org/1999/xhtml">
+<html>
 <head>
     <link href="favicon.ico" type="image/x-icon" rel="shortcut icon" />
     <meta charset="UTF-8" />
@@ -2378,7 +2379,7 @@
                 <img
                         alt="Báo điện tử - Tin tức cập nhật liên tục 24/7"
                         height="40"
-                        src="../icdn.dantri.com.vn/2022/12/14/2-1671004462496.png"
+                        src="../icdn/2022/12/14/2-1671004462496.png"
                         width="0"
                 />
             </a>
@@ -2490,8 +2491,8 @@
                 <li><a href="#">Tài chính</a></li>
 
                 <li><a href="#">Doanh nghiệp</a></li>
-                <li><a href="kinh-doanh/khoi-nghiep.html">Khởi nghiệp</a></li>
-                <li><a href="kinh-doanh/tieu-dung.html">Tiêu dùng</a></li>
+                <li><a href="#">Khởi nghiệp</a></li>
+                <li><a href="#">Tiêu dùng</a></li>
 
             </ol>
         </li>
@@ -2500,30 +2501,30 @@
             <ol class="submenu">
                 <li><a href="#">Dự án</a></li>
                 <li><a href="#">Thị trường</a></li>
-                <li><a href="bat-dong-san/nha-dat.html">Nhà đất</a></li>
+                <li><a href="#">Nhà đất</a></li>
                 <li>
                     <a href="#">Nhịp sống đô thị</a>
                 </li>
                 <li><a href="#">Sống xanh</a></li>
-                <li><a href="bat-dong-san/noi-that.html">Nội thất</a></li>
+                <li><a href="#">Nội thất</a></li>
             </ol>
         </li>
         <li class="has-child">
             <a href="the-thao.html">Thể thao</a>
             <ol class="submenu">
                 <li><a href="#">AFF Cup 2022</a></li>
-                <li><a href="the-thao/world-cup-2022.html">World Cup 2022</a></li>
+                <li><a href="#">World Cup 2022</a></li>
                 <li><a href="#">Bóng đá Châu Âu</a></li>
-                <li><a href="the-thao/tennis.html">Tennis</a></li>
-                <li><a href="the-thao/golf.html">Golf</a></li>
+                <li><a href="#">Tennis</a></li>
+                <li><a href="#">Golf</a></li>
                 <li><a href="#">Võ thuật</a></li>
                 <li>
-                    <a href="the-thao/cac-mon-the-thao-khac.html"
+                    <a href="#"
                     >Các môn Thể thao khác</a
                     >
                 </li>
-                <li><a href="the-thao/hau-truong.html">Hậu trường</a></li>
-                <li><a href="the-thao/lich-thi-dau.html">Lịch thi đấu</a></li>
+                <li><a href="#">Hậu trường</a></li>
+                <li><a href="#">Lịch thi đấu</a></li>
             </ol>
         </li>
 
@@ -2620,8 +2621,8 @@
                         <li><a href="#">Tài chính</a></li>
                         <li><a href="kinh-doanh/chung-khoan.html">Chứng khoán</a></li>
                         <li><a href="#">Doanh nghiệp</a></li>
-                        <li><a href="kinh-doanh/khoi-nghiep.html">Khởi nghiệp</a></li>
-                        <li><a href="kinh-doanh/tieu-dung.html">Tiêu dùng</a></li>
+                        <li><a href="#">Khởi nghiệp</a></li>
+                        <li><a href="#">Tiêu dùng</a></li>
 
 
                     </ol>
@@ -2631,14 +2632,14 @@
                     <ol class="nf-submenu">
                         <li><a href="#">Dự án</a></li>
                         <li><a href="#">Thị trường</a></li>
-                        <li><a href="bat-dong-san/nha-dat.html">Nhà đất</a></li>
+                        <li><a href="#">Nhà đất</a></li>
                         <li>
                             <a href="#"
                             >Nhịp sống đô thị</a
                             >
                         </li>
                         <li><a href="#">Sống xanh</a></li>
-                        <li><a href="bat-dong-san/noi-that.html">Nội thất</a></li>
+                        <li><a href="#">Nội thất</a></li>
                     </ol>
                 </li>
                 <li>
@@ -2646,21 +2647,21 @@
                     <ol class="nf-submenu">
                         <li><a href="#">AFF Cup 2022</a></li>
                         <li>
-                            <a href="the-thao/world-cup-2022.html">World Cup 2022</a>
+                            <a href="#">World Cup 2022</a>
                         </li>
                         <li>
                             <a href="#">Bóng đá Châu Âu</a>
                         </li>
-                        <li><a href="the-thao/tennis.html">Tennis</a></li>
-                        <li><a href="the-thao/golf.html">Golf</a></li>
+                        <li><a href="#">Tennis</a></li>
+                        <li><a href="#">Golf</a></li>
                         <li><a href="#">Võ thuật</a></li>
                         <li>
-                            <a href="the-thao/cac-mon-the-thao-khac.html"
+                            <a href="#"
                             >Các môn Thể thao khác</a
                             >
                         </li>
-                        <li><a href="the-thao/hau-truong.html">Hậu trường</a></li>
-                        <li><a href="the-thao/lich-thi-dau.html">Lịch thi đấu</a></li>
+                        <li><a href="#">Hậu trường</a></li>
+                        <li><a href="#">Lịch thi đấu</a></li>
                     </ol>
                 </li>
 
@@ -2686,7 +2687,7 @@
                         <img
                                 alt="Chiến thuật của Nga khi đưa 50 xe tăng &#34;sát thủ chiến trường&#34; tới Donbass"
                                 height="344"
-                                src="../icdn.dantri.com.vn/zoom/516_344/2022/12/24/t90-1505122875203-crop-1671845381239.png"
+                                src="../icdn/zoom/516_344/2022/12/24/t90-1505122875203-crop-1671845381239.png"
                                 srcset="
                     https://icdn.dantri.com.vn/zoom/516_344/2022/12/24/t90-1505122875203-crop-1671845381239.jpeg  1x,
                     https://icdn.dantri.com.vn/zoom/1032_688/2022/12/24/t90-1505122875203-crop-1671845381239.jpeg 2x
@@ -2728,7 +2729,7 @@
                         <img
                                 alt="Không khí người dân đón Giáng sinh vui tươi, ấm áp trên khắp cả nước"
                                 height="156"
-                                src="../icdn.dantri.com.vn/zoom/234_156/2022/12/24/dem-giang-sinh-35-edited-1671898569998.png"
+                                src="../icdn/zoom/234_156/2022/12/24/dem-giang-sinh-35-edited-1671898569998.png"
                                 srcset="
                     https://icdn.dantri.com.vn/zoom/234_156/2022/12/24/dem-giang-sinh-35-edited-1671898569998.jpeg 1x,
                     https://icdn.dantri.com.vn/zoom/468_312/2022/12/24/dem-giang-sinh-35-edited-1671898569998.jpeg 2x
@@ -2771,7 +2772,7 @@
                             <img
                                     alt="Truyền thông về người tốt, việc tốt là một sứ mệnh lớn lao của báo chí"
                                     height="80"
-                                    src="../icdn.dantri.com.vn/zoom/120_80/2022/12/24/nguyen-thanh-lam-2-crop-1671883425591.png"
+                                    src="../icdn/zoom/120_80/2022/12/24/nguyen-thanh-lam-2-crop-1671883425591.png"
                                     srcset="
                       https://icdn.dantri.com.vn/zoom/120_80/2022/12/24/nguyen-thanh-lam-2-crop-1671883425591.jpeg  1x,
                       https://icdn.dantri.com.vn/zoom/240_160/2022/12/24/nguyen-thanh-lam-2-crop-1671883425591.jpeg 2x
@@ -2805,7 +2806,7 @@
                             <img
                                     alt="5 vũ khí đáng chú ý trong gói viện trợ mới của Mỹ cho Ukraine"
                                     height="80"
-                                    src="../icdn.dantri.com.vn/zoom/120_80/2022/12/24/5-vu-khi-dang-chu-y-trong-goi-vien-tro-moi-cua-my-cho-ukraine-3-edited-crop-1671895534677.jpg"
+                                    src="../icdn/zoom/120_80/2022/12/24/5-vu-khi-dang-chu-y-trong-goi-vien-tro-moi-cua-my-cho-ukraine-3-edited-crop-1671895534677.jpg"
                                     srcset="
                       https://icdn.dantri.com.vn/zoom/120_80/2022/12/24/5-vu-khi-dang-chu-y-trong-goi-vien-tro-moi-cua-my-cho-ukraine-3-edited-crop-1671895534677.jpeg  1x,
                       https://icdn.dantri.com.vn/zoom/240_160/2022/12/24/5-vu-khi-dang-chu-y-trong-goi-vien-tro-moi-cua-my-cho-ukraine-3-edited-crop-1671895534677.jpeg 2x
@@ -2839,7 +2840,7 @@
                             <img
                                     alt="Khởi công Nhà ga T3 sân bay Tân Sơn Nhất"
                                     height="80"
-                                    src="../icdn.dantri.com.vn/zoom/120_80/2022/12/24/nha-1-crop-1671887218413.jpg"
+                                    src="../icdn/zoom/120_80/2022/12/24/nha-1-crop-1671887218413.jpg"
                                     srcset="
                       https://icdn.dantri.com.vn/zoom/120_80/2022/12/24/nha-1-crop-1671887218413.jpeg  1x,
                       https://icdn.dantri.com.vn/zoom/240_160/2022/12/24/nha-1-crop-1671887218413.jpeg 2x
