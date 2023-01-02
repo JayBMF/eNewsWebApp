@@ -13,10 +13,10 @@ public class HomeServlet extends HttpServlet {
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
     String path = request.getPathInfo();
     if (path == null || path.equals("/")){
-        path = "/Index";
+        path = "/index";
     }
     switch (path){
-        case "/Index":
+        case "/index":
             ServletUtils.forward("/Views/index.jsp", request, response);
             break;
         default:

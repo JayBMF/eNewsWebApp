@@ -52,17 +52,24 @@
                 </div>
                 <div class="form-group d-flex">
                     <div>
-                        <a class="btn btn-lg btn-outline-info" href="${pageContext.request.contextPath}/Home" role="button">
-                            <i class="fa fa-home" aria-hidden="true"></i>
-                            Home
+                        <a class="btn btn-lg btn-outline-info" href="${pageContext.request.contextPath}/Account/Register" role="button">
+                            Đăng Kí
                         </a>
                     </div>
+                    <div class="flex-fill ml-1">
+                        <a class="btn btn-lg btn-info btn-block" href="${pageContext.request.contextPath}/Home" role="button">
+                            Quên Mật Khẩu
+                        </a>
+                    </div>
+                </div>
+                <div class="form-group d-flex">
                     <div class="flex-fill ml-1">
                         <button type="submit" class="btn btn-lg btn-info btn-block">
                             <i class="fa fa-sign-in" aria-hidden="true"></i>
                             Sign In
                         </button>
                     </div>
+
                 </div>
             </form>
         </div>
