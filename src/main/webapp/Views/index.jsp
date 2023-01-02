@@ -2874,7 +2874,7 @@
                         </h3>
                     </div>
                     <div class="article-avatar">
-                        <a href="tac-gia/bich-diep-58.html">
+                        <a href="#">
                             <i
                                     style="
                       background-image: url(https://icdn.dantri.com.vn/zoom/88_88/2022/06/12/bich-diep-1655011205498.jpg;
@@ -4985,106 +4985,11 @@
 
 </main>
 
-
 <!-- show hình ảnh -->
-<script>
-    window.DT_GLOBAL = window.DT_GLOBAL || {};
-    window.DT_GLOBAL.trackingNames = {
-        BANNER: "banners-position_{0}-zone_{1}",
-        HOME_EVENTS: "home-events",
-        HOME_HIGHLIGHTS: "home-highlights",
-        HOME_SPECIALS: "home-specials",
-        HOME_CATEGORY_HIGHLIGHTS: "home-category_highlights",
-        HOME_TOP_SPOTLIGHTS: "home-top-spotlights",
-        HOME_CATEGORY: "home-category_{0}",
-        HOME_SPOTLIGHTS: "home-spotlights",
-        HOME_MEDIA: "home-media",
-        CATEGORY_HIGHLIGHTS: "category-highlights",
-        CATEGORY_TIMELINE: "category-timeline_page_{0}",
-        CATEGORY_CHILDREN: "category-children",
-        CATEGORY_MEDIA: "category-media",
-        CATEGORY_POPULAR: "category-popular",
-        ARTICLE_ACTIONS: "article-actions",
-        ARTICLE_BREADCRUMB: "article-breadcrumb",
-        ARTICLE_TAGS: "article-tags",
-        ARTICLE_RELATED: "article-related",
-        ARTICLE_POPULAR: "article-popular",
-        ARTICLE_RECOMMEND: "article-recommend",
-        ARTICLE_RECOMMEND_2: "article-recommend-2",
-        ARTICLE_CONTENT_IMAGE: "article-content-image",
-        ARTICLE_CONTENT_AUTOLINK: "article-content-autolink",
-        EMBEDBOX_HOME: "embed_box-type_{0}-home",
-        EMBEDBOX_CATEGORY: "embed_box-type_{0}-category_{1}",
-        THREAD_EMBEDBOX_HOME: "thread-embed_box-type_{0}-home",
-        THREAD_EMBEDBOX_CATEGORY: "thread-embed_box-type_{0}-category_{1}",
-    };
-    window.DT_GLOBAL.trackingPieces = {
-        BANNER: "banners-banner_{0}",
-        HOME_EVENTS: "home-events-position_{0}",
-        HOME_HIGHLIGHTS: "home-highlights-position_{0}",
-        HOME_SPECIALS: "home-specials-position_{0}",
-        HOME_CATEGORY_HIGHLIGHTS: "home-category_highlights-position_{0}",
-        HOME_TOP_SPOTLIGHTS: "home-top-spotlights-position_{0}",
-        HOME_CATEGORY: "home-category_{0}-position_{1}",
-        HOME_SPOTLIGHTS: "home-spotlights-position_{0}",
-        HOME_MEDIA: "home-media-position_{0}",
-        CATEGORY_HIGHLIGHTS: "category-highlights-position_{0}",
-        CATEGORY_TIMELINE: "category-timeline_page_{0}-position_{1}",
-        CATEGORY_CHILDREN: "category-children-position_{0}_{1}",
-        CATEGORY_MEDIA: "category-media-position_{0}",
-        CATEGORY_POPULAR: "category-popular-position_{0}",
-        ARTICLE_CONTENT_IMAGE: "article-content-image_{0}",
-        ARTICLE_CONTENT_AUTOLINK: "article-content-autolink_{0}",
-        ARTICLE_ACTIONS: "article-actions-{0}",
-        ARTICLE_BREADCRUMB: "article-breadcrumb-position_{0}",
-        ARTICLE_TAGS: "article-tags-position_{0}",
-        ARTICLE_RELATED: "article-related-position_{0}",
-        ARTICLE_POPULAR: "article-popular-position_{0}",
-        ARTICLE_RECOMMEND: "article-recommend-position_{0}",
-        ARTICLE_RECOMMEND_2: "article-recommend-2-position_{0}",
-        EMBEDBOX_HOME: "embed_box-type_{0}-home-article_{1}",
-        EMBEDBOX_CATEGORY: "embed_box-type_{0}-category_{1}-article_{2}",
-        THREAD_EMBEDBOX_HOME: "thread-embed_box-type_{0}-home-thread_{1}",
-        THREAD_EMBEDBOX_CATEGORY:
-            "thread-embed_box-type_{0}-category_{1}-thread_{2}",
-    };
-    window.DT_GLOBAL.ForceDisableVideoAds = 0;
-    window.DT_GLOBAL.vastUrl =
-        "https://pubads.g.doubleclick.net/gampad/ads?iu=/21899300285/dtadnetwork/desktop_video&amp;description_url=[placeholder]&amp;tfcd=0&amp;npa=0&amp;ad_type=audio_video&amp;sz=400x300%7C640x360%7C640x480&amp;ciu_szs=970x90%2C728x90%2C300x50%2C320x50%2C468x60&amp;gdfp_req=1&amp;output=vast&amp;unviewed_position_start=1&amp;env=vp&amp;impl=s&amp;correlator=";
-    window.DT_GLOBAL.wConfigCustomLazyLoad = null;
-</script>
 <script
-        defer
         src="../cdnweb/dist/common.js"
 ></script>
-<script type="application/ld+json">
-    {
-        "@context": "http://schema.org",
-        "@type": "Organization",
-        "slogan": "Tin tức Việt Nam và quốc tế nóng, nhanh, cập nhật 24h",
-        "logo": "https://cdnweb.dantri.com.vn/images/logo.svg",
-        "email": "info@dantri.com.vn",
-        "additionalType": "https://vi.wikipedia.org/wiki/B%C3%A1o_%C4%91i%E1%BB%87n_t%E1%BB%AD",
-        "sameAs": [
-            "https://www.facebook.com/baodantridientu",
-            "https://vi.wikipedia.org/wiki/D%C3%A2n_tr%C3%AD_(b%C3%A1o)"
-        ],
-        "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Nhà 48, ngõ 2 Giảng Võ, Cát Linh, Đống Đa",
-            "addressLocality": "Hà Nội"
-        },
-        "contactPoint": [
-            {
-                "@type": "ContactPoint",
-                "telephone": "+842437366491",
-                "contactOption": "TollFree",
-                "contactType": "customer service",
-                "areaServed": "VN"
-            }
-        ]
-    }
-</script>
+
 
 
 </body>
