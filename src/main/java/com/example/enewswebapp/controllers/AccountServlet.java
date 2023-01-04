@@ -56,10 +56,6 @@ public class AccountServlet extends HttpServlet {
                 break;
 
 
-//            case "/Logout":
-//                logout(request, response);
-//                break;
-
             default:
                 ServletUtils.forward("/Home", request, response);
                 break;
@@ -79,8 +75,7 @@ public class AccountServlet extends HttpServlet {
 
         User c = new User( username,name ,bcryptHashString , email, dob);
         UserModel.add(c);
-        ServletUtils.forward("Account/login", request, response);
-    }
+        ServletUtils.forward("/Views/vwAccount/Register.jsp", request, response);    }
 
     private void login(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         String username = request.getParameter("username");

@@ -20,7 +20,7 @@ public class HomeServlet extends HttpServlet {
             ServletUtils.forward("/Views/index.jsp", request, response);
             break;
         default:
-            ServletUtils.forward("/Home", request, response);
+            ServletUtils.forward("/Views/404.jsp", request, response);
             break;
     }
     }

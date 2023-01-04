@@ -2792,11 +2792,11 @@
                         </h3>
                     </div>
                     <div class="article-avatar">
-                        <a href="#">
+                        <a href="#/Home">
                             <i
                                     style="
                       background-image: url(https://icdn.dantri.com.vn/zoom/88_88/2022/06/12/bich-diep-1655011205498.jpg;
-                    "
+                  "
                             >
                             </i>
                         </a>

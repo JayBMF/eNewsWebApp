@@ -23,8 +23,12 @@
                 <li class="nav-item active">
                     <a class="nav-link" href="${pageContext.request.contextPath}/Account/profile">Thông tin người dùng <span class="sr-only">(current)</span></a>
                 </li>
-                <li class="nav-item active">
-                    <a class="nav-link" href="#">Đăng bài <span class="sr-only">(current)</span></a>
+                <li class="nav-item active d-flex">
+                    <i class="fa fa-plus mt-3 " aria-hidden="true"></i>
+<%--                    <a class="nav-link" href="#">Đăng bài <span class="sr-only">(current)</span></a>--%>
+                    <a class="btn btn-lg btn-info btn-block" href="${pageContext.request.contextPath}/MiscServlet/Upload" role="button">
+                        Đăng bài
+                    </a>
                 </li>
             </ul>
         </div>
