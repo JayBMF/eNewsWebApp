@@ -16,6 +16,18 @@
 </head>
 <body>
 <div class="container-fluid h-100">
+    <div>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ">
+                    <li class="nav-item active d-flex btn btn-lg btn-info btn-block">
+                        <i class="fa fa-home mt-3" aria-hidden="true"></i>
+                        <a class="nav-link" href="${pageContext.request.contextPath}/Home">Home <span class="sr-only">(current)</span></a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
     <div class="row h-100 justify-content-center align-items-center">
         <div class="col-sm-4">
             <c:if test="${hasError}">

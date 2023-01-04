@@ -81,6 +81,12 @@
             </table>
         </c:otherwise>
     </c:choose>
+    <div class="flex-fill ml-1">
+        <button type="submit" class="btn btn-lg btn-info btn-block">
+            <i class="fa fa-sign-in" aria-hidden="true"></i>
+            Đổi mật khẩu
+        </button>
+    </div>
 
 </div>
 

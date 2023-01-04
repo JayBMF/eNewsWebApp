@@ -28,7 +28,7 @@ public class MiscServlet extends HttpServlet {
                 break;
 
             default:
-//                ServletUtils.forward("/Views/404.jsp", request, response);
+                ServletUtils.forward("/Views/404.jsp", request, response);
                 break;
         }
     }

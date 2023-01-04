@@ -23,9 +23,9 @@
             dropZoneEnabled: false,
             allowedFileExtensions: ['jpg', 'png', 'gif']
         });
-        $('#txtInf').height(
-            350
-        );
+        // $('#txtInf').height(
+        //     350
+        // );
         $('#menu').width(
             1448
         )
@@ -53,9 +53,11 @@
                             <option value="the_thao">THỂ THAO</option>
                         </select>
                     </div>
-                    <div class="form-group">
+                    <div class="form-group ">
                         <label for="txtProName">Nội dung</label>
-                        <input type="text" class="form-control" id="txtInf" name="Inf" autofocus>
+                        <textarea class="d-block" name="Inf" rows="20" cols="190" id="txtInf">
+                        </textarea>
+
                     </div>
                     <div class="form-group">
                         <input id="fuMain" name="fuMain" type="file" />

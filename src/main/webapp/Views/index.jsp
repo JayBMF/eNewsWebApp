@@ -2380,7 +2380,7 @@
         <h1 class="header-logo dtnewyear flex-jcc">
             <a
                     aria-label="Báo điện tử - Tin tức cập nhật liên tục 24/7"
-                    href="index.jsp"
+                    href="${pageContext.request.contextPath}/Home"
             >
                 <img
                         alt="Báo điện tử - Tin tức cập nhật liên tục 24/7"
@@ -2430,7 +2430,7 @@
         <li class="home">
             <a
                     aria-label="Báo điện tử - Tin tức cập nhật liên tục 24/7"
-                    href="index.jsp"
+                    href="${pageContext.request.contextPath}/Views/index.jsp"
             >
                 <svg
                         aria-hidden="true"
@@ -2471,7 +2471,7 @@
             </ol>
         </li>
         <li class="has-child">
-            <a href="the-gioi.jsp">Thế giới</a>
+            <a href="${pageContext.request.contextPath}/Views/the-gioi.jsp">Thế giới</a>
             <ol class="submenu">
                 <li><a href="#">Quân sự</a></li>
                 <li>
