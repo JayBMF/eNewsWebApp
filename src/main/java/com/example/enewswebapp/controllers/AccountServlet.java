@@ -24,10 +24,6 @@ public class AccountServlet extends HttpServlet {
                 break;
             case "/login":
                 ServletUtils.forward("/Views/vwAccount/login.jsp", request, response);
-//                HttpSession session = request.getSession();
-//                if ((boolean) session.getAttribute("auth")) {
-//                    ServletUtils.redirect("/Home", request, response);
-//                } else ServletUtils.forward("/Views/vwAccount/login.jsp", request, response);
                 break;
             case "/profile":
                 ServletUtils.forward("/Views/vwAccount/profile.jsp", request, response);
@@ -83,7 +79,7 @@ public class AccountServlet extends HttpServlet {
 
         User c = new User( username,name ,bcryptHashString , email, dob);
         UserModel.add(c);
-        ServletUtils.forward("/Views/vwAccount/login.jsp", request, response);
+        ServletUtils.forward("/Home", request, response);
     }
 
     private void login(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {

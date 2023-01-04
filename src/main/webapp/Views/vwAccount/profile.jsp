@@ -1,6 +1,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 
+<%--<jsp:useBean id="authUser" scope="session" type="com.example.enewswebapp.beans.User"/>--%>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -16,37 +17,67 @@
 </head>
 <body>
 <div>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item active">
                     <a class="nav-link" href="${pageContext.request.contextPath}/Account/profile">Thông tin người dùng <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Đăng bài <span class="sr-only">(current)</span></a>
                 </li>
             </ul>
         </div>
     </nav>
 </div>
 <div>
-    <table class="table">
-        <tbody>
-        <tr>
-            <th scope="row">Họ tên</th>
-            <td>Mark</td>
-        </tr>
-        <tr>
-            <th scope="row">Bút Danh</th>
-            <td>Jacob</td>
-        </tr>
-        <tr>
-            <th scope="row">Email</th>
-            <td>Larry</td>
-        </tr>
-        <tr>
-            <th scope="row">Ngày sinh</th>
-            <td>Larry</td>
-        </tr>
-        </tbody>
-    </table>
+    <c:choose>
+        <c:when test="${auth}">
+            <table class="table">
+                <tbody>
+                <tr>
+                    <th scope="row">Họ tên</th>
+                    <td>${authUser.username}</td>
+                </tr>
+                <tr>
+                    <th scope="row">Bút Danh</th>
+                    <td>${authUser.name}</td>
+                </tr>
+                <tr>
+                    <th scope="row">Email</th>
+                    <td>${authUser.email}</td>
+                </tr>
+                <tr>
+                    <th scope="row">Ngày sinh</th>
+                    <td>${authUser.dob}</td>
+                </tr>
+                </tbody>
+            </table>
+        </c:when>
+        <c:otherwise>
+            <table class="table">
+                <tbody>
+                <tr>
+                    <th scope="row">Họ tên</th>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th scope="row">Bút Danh</th>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th scope="row">Email</th>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th scope="row">Ngày sinh</th>
+                    <td></td>
+                </tr>
+                </tbody>
+            </table>
+        </c:otherwise>
+    </c:choose>
+
 </div>
 
 
