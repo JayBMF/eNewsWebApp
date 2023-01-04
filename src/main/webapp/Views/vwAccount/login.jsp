@@ -57,7 +57,7 @@
                         </a>
                     </div>
                     <div class="flex-fill ml-1">
-                        <a class="btn btn-lg btn-info btn-block" href="${pageContext.request.contextPath}/Home" role="button">
+                        <a class="btn btn-lg btn-info btn-block" href="${pageContext.request.contextPath}/*" role="button">
                             Quên Mật Khẩu
                         </a>
                     </div>
@@ -66,7 +66,7 @@
                     <div class="flex-fill ml-1">
                         <button type="submit" class="btn btn-lg btn-info btn-block">
                             <i class="fa fa-sign-in" aria-hidden="true"></i>
-                            Sign In
+                            Đăng nhập
                         </button>
                     </div>
 
