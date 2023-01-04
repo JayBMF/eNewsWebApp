@@ -9,6 +9,7 @@ import javax.servlet.*;
 import javax.servlet.http.*;
 import javax.servlet.annotation.*;
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
@@ -22,13 +23,22 @@ public class AccountServlet extends HttpServlet {
                 ServletUtils.forward("/Views/vwAccount/Register.jsp", request, response);
                 break;
             case "/login":
-                HttpSession session = request.getSession();
-                if ((boolean) session.getAttribute("auth")) {
-                    ServletUtils.redirect("/Home", request, response);
-                } else ServletUtils.forward("/Views/vwAccount/login.jsp", request, response);
+                ServletUtils.forward("/Views/vwAccount/login.jsp", request, response);
                 break;
             case "/profile":
                 ServletUtils.forward("/Views/vwAccount/profile.jsp", request, response);
+                break;
+            case "/IsAvailable":
+                String username = request.getParameter("user");
+                User user = UserModel.findByUsername(username);
+                boolean isAvailable = (user == null);
+
+                PrintWriter out = response.getWriter();
+                response.setContentType("application/json");
+                response.setCharacterEncoding("utf-8");
+
+                out.print(isAvailable);
+                out.flush();
                 break;
         }
     }
@@ -45,12 +55,13 @@ public class AccountServlet extends HttpServlet {
                 login(request, response);
                 break;
 
+
 //            case "/Logout":
 //                logout(request, response);
 //                break;
 
             default:
-                ServletUtils.forward("/views/404.jsp", request, response);
+                ServletUtils.forward("/Home", request, response);
                 break;
         }
     }
@@ -65,11 +76,10 @@ public class AccountServlet extends HttpServlet {
         String username = request.getParameter("username");
         String name = request.getParameter("name");
         String email = request.getParameter("email");
-        int permission = 0;
 
-        User c = new User( username, bcryptHashString, name, email, dob);
+        User c = new User( username,name ,bcryptHashString , email, dob);
         UserModel.add(c);
-        ServletUtils.forward("/views/vwAccount/Register.jsp", request, response);
+        ServletUtils.forward("Account/login", request, response);
     }
 
     private void login(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
@@ -83,7 +93,6 @@ public class AccountServlet extends HttpServlet {
                 HttpSession session = request.getSession();
                 session.setAttribute("auth", true);
                 session.setAttribute("authUser", user);
-                // response.addCookie(new Cookie("ecWebAppAuthUser", user.getUsername()));
 
                 String url = (String) session.getAttribute("retUrl");
                 if (url == null)
@@ -92,25 +101,16 @@ public class AccountServlet extends HttpServlet {
             } else {
                 request.setAttribute("hasError", true);
                 request.setAttribute("errorMessage", "Invalid login.");
-                ServletUtils.forward("/views/vwAccount/Login.jsp", request, response);
+                ServletUtils.forward("/Views/vwAccount/login.jsp", request, response);
             }
         } else {
             request.setAttribute("hasError", true);
             request.setAttribute("errorMessage", "Invalid login.");
-            ServletUtils.forward("/views/vwAccount/Login.jsp", request, response);
+            ServletUtils.forward("/Views/vwAccount/login.jsp", request, response);
         }
     }
 
-    private void logout(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        HttpSession session = request.getSession();
-        session.setAttribute("auth", false);
-        session.setAttribute("authUser", new User());
 
-        String url = request.getHeader("referer");
-        if (url == null)
-            url = "/Home";
-        ServletUtils.redirect(url, request, response);
-    }
 
 
 }

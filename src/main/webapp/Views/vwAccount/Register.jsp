@@ -17,14 +17,14 @@
           alert('Invalid username.');
           return;
         }
-
-        $.getJSON('${pageContext.request.contextPath}/Account/IsAvailable?user=' + username, function (data) {
-          if (data === true) {
-            $('#frmRegister').off('submit').submit();
-          } else {
-            alert('Username is not available.');
-          }
-        });
+        $('#frmRegister').off('submit').submit();
+        <%--$.getJSON('${pageContext.request.contextPath}/Account/IsAvailable?user=' + username, function (data) {--%>
+        <%--  if (data === true) {--%>
+        <%--    $('#frmRegister').off('submit').submit();--%>
+        <%--  } else {--%>
+        <%--    alert('Username is not available.');--%>
+        <%--  }--%>
+        <%--});--%>
       });
       $('#txtDOB').datetimepicker({
         format: 'd/m/Y',

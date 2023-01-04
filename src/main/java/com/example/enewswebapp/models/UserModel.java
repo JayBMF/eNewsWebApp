@@ -8,7 +8,7 @@ import java.util.List;
 
 public class UserModel {
     public static User findByUsername(String username) {
-        final String query = "select * from users where username = :username";
+        final String query = "select * from user where username = :username";
         try (Connection con = DbUtils.getConnection()) {
             List<User> list = con.createQuery(query)
                     .addParameter("username", username)
@@ -23,15 +23,16 @@ public class UserModel {
 
     }
     public static void add(User c) {
-        String insertSql = "INSERT INTO users (username, name, password, email, dob) VALUES (:username,:password,:name,:email,:dob)";
+        String insertSql = "INSERT INTO user (username, name, password, email, dob) VALUES (:username,:name,:password,:email,:dob)";
         try (Connection con = DbUtils.getConnection()) {
             con.createQuery(insertSql)
                     .addParameter("username", c.getUsername())
                     .addParameter("name", c.getName())
-                    .addParameter("passoword", c.getPassword())
+                    .addParameter("password", c.getPassword())
                     .addParameter("email", c.getEmail())
                     .addParameter("dob", c.getDob())
                     .executeUpdate();
+
         }
     }
 }

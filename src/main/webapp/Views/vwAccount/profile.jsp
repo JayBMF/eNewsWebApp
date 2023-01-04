@@ -1,11 +1,12 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 
+<%--<jsp:useBean id="authUser" scope="session" type="com.example.enewswebapp.beans.User"/>--%>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>E-Commerce Web Application</title>
+    <title>Báo điện tử</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <style>
@@ -16,37 +17,67 @@
 </head>
 <body>
 <div>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item active">
                     <a class="nav-link" href="${pageContext.request.contextPath}/Account/profile">Thông tin người dùng <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Đăng bài <span class="sr-only">(current)</span></a>
                 </li>
             </ul>
         </div>
     </nav>
 </div>
 <div>
-    <table class="table">
-        <tbody>
-        <tr>
-            <th scope="row">Họ tên</th>
-            <td>Mark</td>
-        </tr>
-        <tr>
-            <th scope="row">Bút Danh</th>
-            <td>Jacob</td>
-        </tr>
-        <tr>
-            <th scope="row">Email</th>
-            <td>Larry</td>
-        </tr>
-        <tr>
-            <th scope="row">Ngày sinh</th>
-            <td>Larry</td>
-        </tr>
-        </tbody>
-    </table>
+    <c:choose>
+        <c:when test="${auth}">
+            <table class="table">
+                <tbody>
+                <tr>
+                    <th scope="row">Họ tên</th>
+                    <td>${auther.username}</td>
+                </tr>
+                <tr>
+                    <th scope="row">Bút Danh</th>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th scope="row">Email</th>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th scope="row">Ngày sinh</th>
+                    <td></td>
+                </tr>
+                </tbody>
+            </table>
+        </c:when>
+        <c:otherwise>
+            <table class="table">
+                <tbody>
+                <tr>
+                    <th scope="row">Họ tên</th>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th scope="row">Bút Danh</th>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th scope="row">Email</th>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th scope="row">Ngày sinh</th>
+                    <td></td>
+                </tr>
+                </tbody>
+            </table>
+        </c:otherwise>
+    </c:choose>
+
 </div>
 
 

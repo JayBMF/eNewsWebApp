@@ -2995,7 +2995,7 @@
             >
               <div class="article-thumb">
                 <a
-                  href="the-gioi/chien-thuat-cua-nga-khi-dua-50-xe-tang-sat-thu-chien-truong-toi-donbass-20221224083224103.html"
+                  href="the-gioi/chien-thuat-cua-nga-khi-dua-50-xe-tang-sat-thu-chien-truong-toi-donbass-20221224083224103.jsp"
                 >
                   <img
                     alt="Chiến thuật của Nga khi đưa 50 xe tăng &#34;sát thủ chiến trường&#34; tới Donbass"
@@ -3011,7 +3011,7 @@
               </div>
               <h3 class="article-title">
                 <a
-                  href="the-gioi/chien-thuat-cua-nga-khi-dua-50-xe-tang-sat-thu-chien-truong-toi-donbass-20221224083224103.html"
+                  href="the-gioi/chien-thuat-cua-nga-khi-dua-50-xe-tang-sat-thu-chien-truong-toi-donbass-20221224083224103.jsp"
                   >Chiến thuật của Nga khi đưa 50 xe tăng &quot;sát thủ chiến
                   trường&quot; tới Donbass</a
                 >

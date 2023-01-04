@@ -1,13 +1,11 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <!DOCTYPE html>
-<<<<<<< HEAD
+
 <html>
-=======
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%--<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>--%>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
->>>>>>> origin/master
 <head>
 
     <link href="favicon.ico" type="image/x-icon" rel="shortcut icon" />
@@ -2395,8 +2393,8 @@
         <div class="header-area flex-jcb">
             <a
                     class="international flex-jcc"
-                    href="#"
-                    target="_blank">
+                    href="${pageContext.request.contextPath}/Account/login"
+                    target="_parent">
                 Đăng Nhập
             </a>
 
@@ -2604,7 +2602,7 @@
             >
                 <div class="article-thumb">
                     <a
-                            href="the-gioi/chien-thuat-cua-nga-khi-dua-50-xe-tang-sat-thu-chien-truong-toi-donbass-20221224083224103.html"
+                            href="the-gioi/chien-thuat-cua-nga-khi-dua-50-xe-tang-sat-thu-chien-truong-toi-donbass-20221224083224103.jsp"
                     >
                         <img
                                 alt="Chiến thuật của Nga khi đưa 50 xe tăng &#34;sát thủ chiến trường&#34; tới Donbass"
