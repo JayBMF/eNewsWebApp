@@ -1,5 +1,12 @@
-<!DOCTYPE html>
+
+
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!DOCTYPE html>
+
+<html>
+
+<%--<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>--%>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -149,14 +156,14 @@
         }
         .international {
             height: 37px;
-            padding: 4px 12px 4px 5px;
+            padding: 4px 12px 4px 15px;
             border: 1px solid #ccc;
             border-radius: 18px;
             font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI",
             "Helvetica Neue", "Arial", "Apple Color Emoji", "Segoe UI Emoji",
             "Segoe UI Symbol", sans-serif;
             margin: 0 30px 0 0;
-            font-weight: 400;
+            font-weight: 600;
             line-height: 1;
         }
         .international img {
@@ -805,7 +812,6 @@
         .nf-submenu > li > a:hover {
             color: #2361ff;
         }
-
         .nfs-menu {
             margin: 20px 0 0;
             padding: 0;
@@ -889,7 +895,6 @@
             width: 22px;
             background-image: url(https://cdnweb.dantri.com.vn/dist/e84c1388df2f58641617.svg);
         }
-
         .no-gutters {
             margin-right: 0;
             margin-left: 0;
@@ -1008,7 +1013,6 @@
         )::before {
             max-width: 100%;
         }
-
         #desktop-top-page {
             background: #f4f6fa none;
         }
@@ -1298,7 +1302,6 @@
             display: block;
             background: transparent none no-repeat center/100% 100%;
         }
-
         .logo-blog {
             width: 64px;
             height: 16px;
@@ -2315,8 +2318,6 @@
             font-weight: 500;
             line-height: 20px;
         }
-
-
         .home-widget-ads {
             margin: 30px 0;
             padding: 12px;
@@ -2376,12 +2377,12 @@
         <h1 class="header-logo dtnewyear flex-jcc">
             <a
                     aria-label="Báo điện tử - Tin tức cập nhật liên tục 24/7"
-                    href="index.html"
+                    href="index.jsp"
             >
                 <img
                         alt="Báo điện tử - Tin tức cập nhật liên tục 24/7"
                         height="40"
-                        src="../icdn.dantri.com.vn/2022/12/14/2-1671004462496.png"
+                        src="../icdn/2022/12/14/2-1671004462496.png"
                         width="0"
                 />
             </a>
@@ -2389,14 +2390,9 @@
         <div class="header-area flex-jcb">
             <a
                     class="international flex-jcc"
-                    href="http://dtinews.vn/Default.aspx?lang=en"
+                    href="#"
                     target="_blank">
-                <img
-                        height="26"
-                        src="../cdnweb/dist/static-avatar-default.1-0-1.b474c6ca2d1abee5b89b.png"
-                        width="26"
-                />
-                International Version
+                Đăng Nhập
             </a>
 
             <div data-module="authen-header"></div>
@@ -2431,7 +2427,7 @@
         <li class="home">
             <a
                     aria-label="Báo điện tử - Tin tức cập nhật liên tục 24/7"
-                    href="index.html"
+                    href="index.jsp"
             >
                 <svg
                         aria-hidden="true"
@@ -2472,7 +2468,7 @@
             </ol>
         </li>
         <li class="has-child">
-            <a href="the-gioi.html">Thế giới</a>
+            <a href="the-gioi.jsp">Thế giới</a>
             <ol class="submenu">
                 <li><a href="#">Quân sự</a></li>
                 <li>
@@ -2488,45 +2484,45 @@
             </ol>
         </li>
         <li class="has-child">
-            <a href="kinh-doanh.html">Kinh doanh</a>
+            <a href="kinh-doanh.jsp">Kinh doanh</a>
             <ol class="submenu">
                 <li><a href="#">Tài chính</a></li>
 
                 <li><a href="#">Doanh nghiệp</a></li>
-                <li><a href="kinh-doanh/khoi-nghiep.html">Khởi nghiệp</a></li>
-                <li><a href="kinh-doanh/tieu-dung.html">Tiêu dùng</a></li>
+                <li><a href="#">Khởi nghiệp</a></li>
+                <li><a href="#">Tiêu dùng</a></li>
 
             </ol>
         </li>
         <li class="has-child">
-            <a href="bat-dong-san.html">Bất động sản</a>
+            <a href="bat-dong-san.jsp">Bất động sản</a>
             <ol class="submenu">
                 <li><a href="#">Dự án</a></li>
                 <li><a href="#">Thị trường</a></li>
-                <li><a href="bat-dong-san/nha-dat.html">Nhà đất</a></li>
+                <li><a href="#">Nhà đất</a></li>
                 <li>
                     <a href="#">Nhịp sống đô thị</a>
                 </li>
                 <li><a href="#">Sống xanh</a></li>
-                <li><a href="bat-dong-san/noi-that.html">Nội thất</a></li>
+                <li><a href="#">Nội thất</a></li>
             </ol>
         </li>
         <li class="has-child">
-            <a href="the-thao.html">Thể thao</a>
+            <a href="the-thao.jsp">Thể thao</a>
             <ol class="submenu">
                 <li><a href="#">AFF Cup 2022</a></li>
-                <li><a href="the-thao/world-cup-2022.html">World Cup 2022</a></li>
+                <li><a href="#">World Cup 2022</a></li>
                 <li><a href="#">Bóng đá Châu Âu</a></li>
-                <li><a href="the-thao/tennis.html">Tennis</a></li>
-                <li><a href="the-thao/golf.html">Golf</a></li>
+                <li><a href="#">Tennis</a></li>
+                <li><a href="#">Golf</a></li>
                 <li><a href="#">Võ thuật</a></li>
                 <li>
-                    <a href="the-thao/cac-mon-the-thao-khac.html"
+                    <a href="#"
                     >Các môn Thể thao khác</a
                     >
                 </li>
-                <li><a href="the-thao/hau-truong.html">Hậu trường</a></li>
-                <li><a href="the-thao/lich-thi-dau.html">Lịch thi đấu</a></li>
+                <li><a href="#">Hậu trường</a></li>
+                <li><a href="#">Lịch thi đấu</a></li>
             </ol>
         </li>
 
@@ -2589,88 +2585,7 @@
             </svg>
         </li>
     </ol>
-    <div class="nav-full bg-wrap">
-        <div class="nf-wrap container">
-            <ol class="nf-menu">
-                <li>
-                    <a href="#">Xã hội</a>
-                    <ol class="nf-submenu">
-                        <li><a href="#">Chính trị</a></li>
-                        <li><a href="#">Môi trường</a></li>
-                        <li><a href="#">Nóng trên mạng</a></li>
 
-                    </ol>
-                </li>
-                <li>
-                    <a href="the-gioi.html">Thế giới</a>
-                    <ol class="nf-submenu">
-                        <li><a href="#">Quân sự</a></li>
-
-                        <li>
-                            <a href="#">Thế giới đó đây</a>
-                        </li>
-
-                        <li>
-                            <a href="#"
-                            >Căng thẳng Nga - Ukraine</a
-                            >
-                        </li>
-                    </ol>
-                </li>
-                <li>
-                    <a href="kinh-doanh.html">Kinh doanh</a>
-                    <ol class="nf-submenu">
-                        <li><a href="#">Tài chính</a></li>
-                        <li><a href="kinh-doanh/chung-khoan.html">Chứng khoán</a></li>
-                        <li><a href="#">Doanh nghiệp</a></li>
-                        <li><a href="kinh-doanh/khoi-nghiep.html">Khởi nghiệp</a></li>
-                        <li><a href="kinh-doanh/tieu-dung.html">Tiêu dùng</a></li>
-
-
-                    </ol>
-                </li>
-                <li>
-                    <a href="bat-dong-san.html">Bất động sản</a>
-                    <ol class="nf-submenu">
-                        <li><a href="#">Dự án</a></li>
-                        <li><a href="#">Thị trường</a></li>
-                        <li><a href="bat-dong-san/nha-dat.html">Nhà đất</a></li>
-                        <li>
-                            <a href="#"
-                            >Nhịp sống đô thị</a
-                            >
-                        </li>
-                        <li><a href="#">Sống xanh</a></li>
-                        <li><a href="bat-dong-san/noi-that.html">Nội thất</a></li>
-                    </ol>
-                </li>
-                <li>
-                    <a href="the-thao.html">Thể thao</a>
-                    <ol class="nf-submenu">
-                        <li><a href="#">AFF Cup 2022</a></li>
-                        <li>
-                            <a href="the-thao/world-cup-2022.html">World Cup 2022</a>
-                        </li>
-                        <li>
-                            <a href="#">Bóng đá Châu Âu</a>
-                        </li>
-                        <li><a href="the-thao/tennis.html">Tennis</a></li>
-                        <li><a href="the-thao/golf.html">Golf</a></li>
-                        <li><a href="#">Võ thuật</a></li>
-                        <li>
-                            <a href="the-thao/cac-mon-the-thao-khac.html"
-                            >Các môn Thể thao khác</a
-                            >
-                        </li>
-                        <li><a href="the-thao/hau-truong.html">Hậu trường</a></li>
-                        <li><a href="the-thao/lich-thi-dau.html">Lịch thi đấu</a></li>
-                    </ol>
-                </li>
-
-            </ol>
-
-        </div>
-    </div>
 </nav>
 <main class="body container">
     <div class="grid highlight">
@@ -2689,7 +2604,7 @@
                         <img
                                 alt="Chiến thuật của Nga khi đưa 50 xe tăng &#34;sát thủ chiến trường&#34; tới Donbass"
                                 height="344"
-                                src="../icdn.dantri.com.vn/zoom/516_344/2022/12/24/t90-1505122875203-crop-1671845381239.png"
+                                src="../icdn/zoom/516_344/2022/12/24/t90-1505122875203-crop-1671845381239.png"
                                 srcset="
                     https://icdn.dantri.com.vn/zoom/516_344/2022/12/24/t90-1505122875203-crop-1671845381239.jpeg  1x,
                     https://icdn.dantri.com.vn/zoom/1032_688/2022/12/24/t90-1505122875203-crop-1671845381239.jpeg 2x
@@ -2731,7 +2646,7 @@
                         <img
                                 alt="Không khí người dân đón Giáng sinh vui tươi, ấm áp trên khắp cả nước"
                                 height="156"
-                                src="../icdn.dantri.com.vn/zoom/234_156/2022/12/24/dem-giang-sinh-35-edited-1671898569998.png"
+                                src="../icdn/zoom/234_156/2022/12/24/dem-giang-sinh-35-edited-1671898569998.png"
                                 srcset="
                     https://icdn.dantri.com.vn/zoom/234_156/2022/12/24/dem-giang-sinh-35-edited-1671898569998.jpeg 1x,
                     https://icdn.dantri.com.vn/zoom/468_312/2022/12/24/dem-giang-sinh-35-edited-1671898569998.jpeg 2x
@@ -2774,7 +2689,7 @@
                             <img
                                     alt="Truyền thông về người tốt, việc tốt là một sứ mệnh lớn lao của báo chí"
                                     height="80"
-                                    src="../icdn.dantri.com.vn/zoom/120_80/2022/12/24/nguyen-thanh-lam-2-crop-1671883425591.png"
+                                    src="../icdn/zoom/120_80/2022/12/24/nguyen-thanh-lam-2-crop-1671883425591.png"
                                     srcset="
                       https://icdn.dantri.com.vn/zoom/120_80/2022/12/24/nguyen-thanh-lam-2-crop-1671883425591.jpeg  1x,
                       https://icdn.dantri.com.vn/zoom/240_160/2022/12/24/nguyen-thanh-lam-2-crop-1671883425591.jpeg 2x
@@ -2808,7 +2723,7 @@
                             <img
                                     alt="5 vũ khí đáng chú ý trong gói viện trợ mới của Mỹ cho Ukraine"
                                     height="80"
-                                    src="../icdn.dantri.com.vn/zoom/120_80/2022/12/24/5-vu-khi-dang-chu-y-trong-goi-vien-tro-moi-cua-my-cho-ukraine-3-edited-crop-1671895534677.jpg"
+                                    src="../icdn/zoom/120_80/2022/12/24/5-vu-khi-dang-chu-y-trong-goi-vien-tro-moi-cua-my-cho-ukraine-3-edited-crop-1671895534677.jpg"
                                     srcset="
                       https://icdn.dantri.com.vn/zoom/120_80/2022/12/24/5-vu-khi-dang-chu-y-trong-goi-vien-tro-moi-cua-my-cho-ukraine-3-edited-crop-1671895534677.jpeg  1x,
                       https://icdn.dantri.com.vn/zoom/240_160/2022/12/24/5-vu-khi-dang-chu-y-trong-goi-vien-tro-moi-cua-my-cho-ukraine-3-edited-crop-1671895534677.jpeg 2x
@@ -2842,7 +2757,7 @@
                             <img
                                     alt="Khởi công Nhà ga T3 sân bay Tân Sơn Nhất"
                                     height="80"
-                                    src="../icdn.dantri.com.vn/zoom/120_80/2022/12/24/nha-1-crop-1671887218413.jpg"
+                                    src="../icdn/zoom/120_80/2022/12/24/nha-1-crop-1671887218413.jpg"
                                     srcset="
                       https://icdn.dantri.com.vn/zoom/120_80/2022/12/24/nha-1-crop-1671887218413.jpeg  1x,
                       https://icdn.dantri.com.vn/zoom/240_160/2022/12/24/nha-1-crop-1671887218413.jpeg 2x
@@ -3596,7 +3511,7 @@
             </div>
             <div class="category-wrap line">
                 <div class="category-head">
-                    <h2 class="title"><a href="the-gioi.html">Thế giới</a></h2>
+                    <h2 class="title"><a href="the-gioi.jsp">Thế giới</a></h2>
                     <ol class="category-nav">
                         <li><a href="#">Quân sự</a></li>
 
@@ -3762,7 +3677,7 @@
             </div>
             <div class="category-wrap line">
                 <div class="category-head">
-                    <h2 class="title"><a href="kinh-doanh.html">Kinh doanh</a></h2>
+                    <h2 class="title"><a href="kinh-doanh.jsp">Kinh doanh</a></h2>
                     <ol class="category-nav">
                         <li><a href="#">Tài chính</a></li>
 
@@ -3931,7 +3846,7 @@
             <div class="category-wrap line">
                 <div class="category-head">
                     <h2 class="title">
-                        <a href="bat-dong-san.html">Bất động sản</a>
+                        <a href="bat-dong-san.jsp">Bất động sản</a>
                     </h2>
                     <ol class="category-nav">
                         <li><a href="#">Dự án</a></li>
@@ -4103,7 +4018,7 @@
             </div>
             <div class="category-wrap line">
                 <div class="category-head">
-                    <h2 class="title"><a href="the-thao.html">Thể thao</a></h2>
+                    <h2 class="title"><a href="the-thao.jsp">Thể thao</a></h2>
                     <ol class="category-nav">
                         <li><a href="#">AFF Cup 2022</a></li>
                         <li><a href="#">Võ thuật</a></li>
@@ -4987,10 +4902,7 @@
 
 <!-- show hình ảnh -->
 <script
-        src="../cdnweb/dist/common.js"
+        src="../cdnweb/common.js"
 ></script>
-
-
-
 </body>
 </html>
