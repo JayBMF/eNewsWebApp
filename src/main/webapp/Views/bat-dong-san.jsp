@@ -1,13 +1,9 @@
-<<<<<<< HEAD
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-=======
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
->>>>>>> origin/master
 <!DOCTYPE html>
-<html>
+<html lang="vi" xmlns="http://www.w3.org/1999/xhtml">
   <meta http-equiv="content-type" content="text/html;charset=utf-8" />
-  <head>
+<head>
     <meta charset="UTF-8" />
     <meta
       name="viewport"
@@ -98,15 +94,9 @@
     <meta http-equiv="audience" content="General" />
     <meta http-equiv="content-language" content="vi" />
     <meta name="revisit-after" content="1 days" />
-<<<<<<< HEAD
     <link rel="alternate" href="the-thao.jsp" hreflang="vi-vn" />
     <link href="https://amp.dantri.com.vn/the-thao.htm" rel="amphtml" />
     <link rel="canonical" href="the-thao.jsp" />
-=======
-    <link rel="alternate" href="the-thao.html" hreflang="vi-vn" />
-    <link href="https://amp.dantri.com.vn/the-thao.htm" rel="amphtml" />
-    <link rel="canonical" href="the-thao.html" />
->>>>>>> origin/master
     <meta http-equiv="x-dns-prefetch-control" content="on" />
 
     <style>
@@ -250,22 +240,14 @@
       }
       .international {
         height: 37px;
-<<<<<<< HEAD
         padding: 4px 12px 4px 15px;
-=======
-        padding: 4px 12px 4px 5px;
->>>>>>> origin/master
         border: 1px solid #ccc;
         border-radius: 18px;
         font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI",
           "Helvetica Neue", "Arial", "Apple Color Emoji", "Segoe UI Emoji",
           "Segoe UI Symbol", sans-serif;
         margin: 0 30px 0 0;
-<<<<<<< HEAD
         font-weight: 600;
-=======
-        font-weight: 400;
->>>>>>> origin/master
         line-height: 1;
       }
       .international img {
@@ -2363,85 +2345,65 @@
           min-height: 250px;
         }
       </style>
-    </div>
-    <header class="header container bg-wrap">
-      <div class="header-top flex-jcb">
-        <h1 class="header-logo dtnewyear flex-jcc">
-<<<<<<< HEAD
-          <a aria-label="" href="index.jsp">
-            <img
-              alt=""
-=======
-          <a
-            aria-label="Báo điện tử - Tin tức cập nhật liên tục 24/7"
-            href="index.html"
-          >
-            <img
-              alt="Báo điện tử - Tin tức cập nhật liên tục 24/7"
->>>>>>> origin/master
-              height="40"
-              src="../icdn/2022/12/14/2-1671004462496.png"
-              width="0"
-            />
-          </a>
-        </h1>
-        <div class="header-area flex-jcb">
-<<<<<<< HEAD
-          <a class="international flex-jcc" href="#" target="_blank">
-            Đăng Nhập
-=======
-          <a
-            class="international flex-jcc"
-            href="http://dtinews.vn/Default.aspx?lang=en"
-            target="_blank"
-          >
-            <img
-              height="26"
-              src="../cdnweb/dist/static-avatar-default.1-0-1.b474c6ca2d1abee5b89b.png"
-              width="26"
-            />
-            International Version
->>>>>>> origin/master
-          </a>
-
-          <div data-module="authen-header"></div>
-          <a class="search-link" href="#">
-            <svg
-              aria-hidden="true"
-              width="24"
-              height="24"
-              viewBox="0 0 24 24"
-              fill="none"
-              xmlns="http://www.w3.org/2000/svg"
+     
+      <header class="header container bg-wrap">
+        <div class="header-top flex-jcb">
+          <h1 class="header-logo dtnewyear flex-jcc">
+            <a
+              aria-label=""
+              href="index.jsp"
             >
-              <path
-                d="M11 19C15.4183 19 19 15.4183 19 11C19 6.58172 15.4183 3 11 3C6.58172 3 3 6.58172 3 11C3 15.4183 6.58172 19 11 19Z"
-                stroke-width="1.5"
-                stroke-linecap="round"
-                stroke-linejoin="round"
+              <img
+                alt=""
+                height="40"
+                src="../icdn/2022/12/14/2-1671004462496.png"
+                width="0"
               />
-              <path
-                d="M21 20.9999L16.65 16.6499"
-                stroke-width="1.5"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-              />
-            </svg>
-          </a>
+            </a>
+          </h1>
+          <div class="header-area flex-jcb">
+            <a
+              class="international flex-jcc"
+              href="#"
+              target="_blank"
+            >
+              
+               Đăng Nhập
+            </a>
+  
+            <div data-module="authen-header"></div>
+            <a class="search-link" href="#">
+              <svg
+                aria-hidden="true"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M11 19C15.4183 19 19 15.4183 19 11C19 6.58172 15.4183 3 11 3C6.58172 3 3 6.58172 3 11C3 15.4183 6.58172 19 11 19Z"
+                  stroke-width="1.5"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                />
+                <path
+                  d="M21 20.9999L16.65 16.6499"
+                  stroke-width="1.5"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                />
+              </svg>
+            </a>
+          </div>
         </div>
-      </div>
-    </header>
+      </header>
     <nav class="menu container bg-wrap">
       <ol class="menu-wrap bg-wrap">
         <li class="home">
           <a
-<<<<<<< HEAD
-            aria-label="Báo điện tử - Tin tức cập nhật liên tục 24/7"
+            aria-label=""
             href="index.jsp"
-=======
-            aria-label="Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
-            href="index.html"
->>>>>>> origin/master
           >
             <svg
               aria-hidden="true"
@@ -2482,11 +2444,7 @@
           </ol>
         </li>
         <li class="has-child">
-<<<<<<< HEAD
           <a href="the-gioi.jsp">Thế giới</a>
-=======
-          <a href="the-gioi.html">Thế giới</a>
->>>>>>> origin/master
           <ol class="submenu">
             <li><a href="#">Quân sự</a></li>
             <li>
@@ -2500,11 +2458,7 @@
           </ol>
         </li>
         <li class="has-child">
-<<<<<<< HEAD
           <a href="kinh-doanh.jsp">Kinh doanh</a>
-=======
-          <a href="kinh-doanh.html">Kinh doanh</a>
->>>>>>> origin/master
           <ol class="submenu">
             <li><a href="#">Tài chính</a></li>
 
@@ -2514,11 +2468,7 @@
           </ol>
         </li>
         <li class="has-child">
-<<<<<<< HEAD
           <a href="bat-dong-san.jsp">Bất động sản</a>
-=======
-          <a href="bat-dong-san.html">Bất động sản</a>
->>>>>>> origin/master
           <ol class="submenu">
             <li><a href="#">Dự án</a></li>
             <li><a href="#">Thị trường</a></li>
@@ -2531,11 +2481,7 @@
           </ol>
         </li>
         <li class="has-child">
-<<<<<<< HEAD
           <a href="the-thao.jsp">Thể thao</a>
-=======
-          <a href="the-thao.html">Thể thao</a>
->>>>>>> origin/master
           <ol class="submenu">
             <li><a href="#">AFF Cup 2022</a></li>
             <li><a href="#">World Cup 2022</a></li>
@@ -2551,421 +2497,20 @@
           </ol>
         </li>
       </ol>
-<<<<<<< HEAD
-=======
-      <div class="nav-full bg-wrap">
-        <div class="nf-wrap container">
-          <ol class="nf-menu">
-            <li>
-              <a href="xa-hoi.html">Xã hội</a>
-              <ol class="nf-submenu">
-                <li><a href="xa-hoi/chinh-tri.html">Chính trị</a></li>
-                <li><a href="xa-hoi/hoc-tap-bac.html">Học tập Bác</a></li>
-                <li><a href="xa-hoi/moi-truong.html">Môi trường</a></li>
-                <li><a href="xa-hoi/giao-thong.html">Giao thông</a></li>
-                <li><a href="xa-hoi/nong-tren-mang.html">Nóng trên mạng</a></li>
-                <li>
-                  <a href="https://sangkienatgt.dantri.com.vn/"
-                    >Sáng kiến an toàn giao thông</a
-                  >
-                </li>
-              </ol>
-            </li>
-            <li>
-              <a href="the-gioi.html">Thế giới</a>
-              <ol class="nf-submenu">
-                <li><a href="the-gioi/quan-su.html">Quân sự</a></li>
-                <li>
-                  <a href="the-gioi/ho-so-phan-tich.html">Hồ sơ - Phân tích</a>
-                </li>
-                <li>
-                  <a href="the-gioi/the-gioi-do-day.html">Thế giới đó đây</a>
-                </li>
-                <li><a href="the-gioi/kieu-bao.html">Kiều bào</a></li>
-                <li>
-                  <a href="the-gioi/cang-thang-nga-ukraine.html"
-                    >Căng thẳng Nga - Ukraine</a
-                  >
-                </li>
-              </ol>
-            </li>
-            <li>
-              <a href="kinh-doanh.html">Kinh doanh</a>
-              <ol class="nf-submenu">
-                <li><a href="kinh-doanh/tai-chinh.html">Tài chính</a></li>
-                <li><a href="kinh-doanh/chung-khoan.html">Chứng khoán</a></li>
-                <li><a href="kinh-doanh/doanh-nghiep.html">Doanh nghiệp</a></li>
-                <li><a href="kinh-doanh/khoi-nghiep.html">Khởi nghiệp</a></li>
-                <li><a href="kinh-doanh/tieu-dung.html">Tiêu dùng</a></li>
-                <li>
-                  <a href="kinh-doanh/amaccao-doanh-nghiep-tien-phong.html"
-                    >Amaccao - Doanh nghiệp tiên phong</a
-                  >
-                </li>
-                <li>
-                  <a href="kinh-doanh/thanh-toan-thong-minh.html"
-                    >Thanh toán thông minh</a
-                  >
-                </li>
-              </ol>
-            </li>
-            <li>
-              <a href="bat-dong-san.html">Bất động sản</a>
-              <ol class="nf-submenu">
-                <li><a href="bat-dong-san/du-an.html">Dự án</a></li>
-                <li><a href="bat-dong-san/thi-truong.html">Thị trường</a></li>
-                <li><a href="bat-dong-san/nha-dat.html">Nhà đất</a></li>
-                <li>
-                  <a href="bat-dong-san/nhip-song-do-thi.html"
-                    >Nhịp sống đô thị</a
-                  >
-                </li>
-                <li><a href="bat-dong-san/song-xanh.html">Sống xanh</a></li>
-                <li><a href="bat-dong-san/noi-that.html">Nội thất</a></li>
-              </ol>
-            </li>
-            <li>
-              <a href="the-thao.html">Thể thao</a>
-              <ol class="nf-submenu">
-                <li><a href="the-thao/aff-cup-2022.html">AFF Cup 2022</a></li>
-                <li>
-                  <a href="the-thao/world-cup-2022.html">World Cup 2022</a>
-                </li>
-                <li>
-                  <a href="the-thao/bong-da-chau-au.html">Bóng đá Châu Âu</a>
-                </li>
-                <li><a href="the-thao/tennis.html">Tennis</a></li>
-                <li><a href="the-thao/golf.html">Golf</a></li>
-                <li><a href="the-thao/vo-thuat.html">Võ thuật</a></li>
-                <li>
-                  <a href="the-thao/cac-mon-the-thao-khac.html"
-                    >Các môn Thể thao khác</a
-                  >
-                </li>
-                <li><a href="the-thao/hau-truong.html">Hậu trường</a></li>
-                <li><a href="the-thao/lich-thi-dau.html">Lịch thi đấu</a></li>
-              </ol>
-            </li>
-            <li>
-              <a href="lao-dong-viec-lam.html">Việc làm</a>
-              <ol class="nf-submenu">
-                <li>
-                  <a href="lao-dong-viec-lam/chinh-sach.html">Chính sách</a>
-                </li>
-                <li><a href="lao-dong-viec-lam/lam-giau.html">Làm giàu</a></li>
-                <li>
-                  <a href="lao-dong-viec-lam/chuyen-nghe.html">Chuyện nghề</a>
-                </li>
-                <li>
-                  <a href="lao-dong-viec-lam/nhan-luc-moi.html">Nhân lực mới</a>
-                </li>
-              </ol>
-            </li>
-            <li>
-              <a href="tam-long-nhan-ai.html">Nhân ái</a>
-              <ol class="nf-submenu">
-                <li>
-                  <a href="tam-long-nhan-ai/danh-sach-ung-ho.html"
-                    >Danh sách ủng hộ</a
-                  >
-                </li>
-                <li>
-                  <a href="tam-long-nhan-ai/danh-sach-ket-chuyen.html"
-                    >Danh sách kết chuyển</a
-                  >
-                </li>
-                <li><a href="tam-long-nhan-ai/hoan-canh.html">Hoàn cảnh</a></li>
-              </ol>
-            </li>
-            <li>
-              <a href="suc-khoe.html">Sức khỏe</a>
-              <ol class="nf-submenu">
-                <li><a href="suc-khoe/ung-thu.html">Ung thư</a></li>
-                <li><a href="suc-khoe/song-khoe.html">Sống khỏe</a></li>
-                <li>
-                  <a href="suc-khoe/dich-vu-y-te-quoc-te.html"
-                    >Dịch vụ y tế quốc tế</a
-                  >
-                </li>
-                <li>
-                  <a href="suc-khoe/kien-thuc-gioi-tinh.html"
-                    >Kiến thức giới tính</a
-                  >
-                </li>
-                <li><a href="suc-khoe/tu-van.html">Tư vấn</a></li>
-                <li><a href="suc-khoe/khoe-dep.html">Khỏe đẹp</a></li>
-              </ol>
-            </li>
-            <li>
-              <a href="van-hoa.html">Văn hóa</a>
-              <ol class="nf-submenu">
-                <li>
-                  <a href="van-hoa/doi-song-van-hoa.html">Đời sống văn hóa</a>
-                </li>
-                <li><a href="van-hoa/dien-anh.html">Điện ảnh</a></li>
-                <li><a href="van-hoa/am-nhac.html">Âm nhạc</a></li>
-                <li><a href="van-hoa/van-hoc.html">Văn học</a></li>
-                <li>
-                  <a href="van-hoa/hat-giong-tam-hon.html">Hạt giống tâm hồn</a>
-                </li>
-              </ol>
-            </li>
-            <li>
-              <a href="giai-tri.html">Giải trí</a>
-              <ol class="nf-submenu">
-                <li><a href="giai-tri/hau-truong.html">Hậu trường</a></li>
-                <li><a href="giai-tri/thoi-trang.html">Thời trang</a></li>
-                <li><a href="giai-tri/tvshow.html">TVshow</a></li>
-              </ol>
-            </li>
-            <li>
-              <a href="o-to-xe-may.html">Xe &#x2B;&#x2B;</a>
-              <ol class="nf-submenu">
-                <li>
-                  <a href="o-to-xe-may/thi-truong-xe.html">Thị trường xe</a>
-                </li>
-                <li><a href="o-to-xe-may/xe-dien.html">Xe điện</a></li>
-                <li><a href="o-to-xe-may/danh-gia.html">Đánh giá</a></li>
-                <li>
-                  <a href="o-to-xe-may/cong-dong-xe.html">Cộng đồng xe</a>
-                </li>
-                <li>
-                  <a href="o-to-xe-may/kinh-nghiem-tu-van.html"
-                    >Kinh nghiệm - Tư vấn</a
-                  >
-                </li>
-                <li>
-                  <a href="o-to-xe-may/bang-gia-o-to.html">Bảng giá ô tô</a>
-                </li>
-              </ol>
-            </li>
-            <li>
-              <a href="suc-manh-so.html">Sức mạnh số</a>
-              <ol class="nf-submenu">
-                <li><a href="suc-manh-so/san-pham.html">Sản phẩm</a></li>
-                <li>
-                  <a href="suc-manh-so/di-dong-vien-thong.html"
-                    >Di động - Viễn thông</a
-                  >
-                </li>
-                <li>
-                  <a href="suc-manh-so/phan-mem-bao-mat.html"
-                    >Phần mềm - Bảo mật</a
-                  >
-                </li>
-                <li>
-                  <a href="suc-manh-so/cong-dong-mang.html">Cộng đồng mạng</a>
-                </li>
-              </ol>
-            </li>
-            <li>
-              <a href="giao-duc-huong-nghiep.html">Giáo dục</a>
-              <ol class="nf-submenu">
-                <li>
-                  <a href="giao-duc-huong-nghiep/goc-phu-huynh.html"
-                    >Góc phụ huynh</a
-                  >
-                </li>
-                <li>
-                  <a href="giao-duc-huong-nghiep/khuyen-hoc.html">Khuyến học</a>
-                </li>
-                <li>
-                  <a href="giao-duc-huong-nghiep/guong-sang.html">Gương sáng</a>
-                </li>
-                <li>
-                  <a href="giao-duc-huong-nghiep/giao-duc-nghe-nghiep.html"
-                    >Giáo dục - Nghề nghiệp</a
-                  >
-                </li>
-                <li><a href="giao-duc-huong-nghiep/du-hoc.html">Du học</a></li>
-                <li>
-                  <a href="giao-duc-huong-nghiep/tuyen-sinh.html">Tuyển sinh</a>
-                </li>
-              </ol>
-            </li>
-            <li>
-              <a href="an-sinh.html">An sinh</a>
-              <ol class="nf-submenu">
-                <li><a href="an-sinh/chuyen-doi.html">Chuyện đời</a></li>
-                <li><a href="an-sinh/dan-sinh.html">Dân sinh</a></li>
-                <li><a href="an-sinh/chuyen-dong.html">Chuyển động</a></li>
-              </ol>
-            </li>
-            <li>
-              <a href="phap-luat.html">Pháp luật</a>
-              <ol class="nf-submenu">
-                <li><a href="phap-luat/ho-so-vu-an.html">Hồ sơ vụ án</a></li>
-                <li><a href="phap-luat/phap-dinh.html">Pháp đình</a></li>
-              </ol>
-            </li>
-            <li>
-              <a href="du-lich.html">Du lịch</a>
-              <ol class="nf-submenu">
-                <li><a href="du-lich/tin-tuc.html">Tin tức</a></li>
-                <li><a href="du-lich/kham-pha.html">Khám phá</a></li>
-                <li>
-                  <a href="du-lich/mon-ngon-diem-dep.html"
-                    >Món ngon - Điểm đẹp</a
-                  >
-                </li>
-                <li>
-                  <a href="du-lich/tour-hay-khuyen-mai.html"
-                    >Tour hay - Khuyến mại</a
-                  >
-                </li>
-                <li><a href="du-lich/video-anh.html">Video - Ảnh</a></li>
-              </ol>
-            </li>
-            <li>
-              <a href="doi-song.html">Đời sống</a>
-              <ol class="nf-submenu">
-                <li><a href="doi-song/cong-dong.html">Cộng đồng</a></li>
-                <li><a href="doi-song/nha-dep.html">Nhà đẹp</a></li>
-                <li><a href="doi-song/thuong-luu.html">Thượng lưu</a></li>
-                <li><a href="doi-song/chuyen-la.html">Chuyện lạ</a></li>
-                <li><a href="doi-song/cho-online.html">Chợ online</a></li>
-              </ol>
-            </li>
-            <li>
-              <a href="tinh-yeu-gioi-tinh.html">Tình yêu</a>
-              <ol class="nf-submenu">
-                <li>
-                  <a href="tinh-yeu-gioi-tinh/chuyen-cua-toi.html"
-                    >Chuyện của tôi</a
-                  >
-                </li>
-                <li><a href="tinh-yeu-gioi-tinh/gia-dinh.html">Gia đình</a></li>
-                <li><a href="tinh-yeu-gioi-tinh/tinh-yeu.html">Tình yêu</a></li>
-              </ol>
-            </li>
-          </ol>
-          <div class="nf-sidebar">
-            <ol class="nfs-menu">
-              <li>
-                <a class="flex-jcc" href="#">
-                  <img
-                    alt=""
-                    data-src="https://cdnweb.dantri.com.vn/dist/static-ads-240x36.1-0-1.962e3fae7be5aac3ad73.jpg"
-                    height="36"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 240 36'%2F%3E"
-                    width="240"
-                  />
-                </a>
-              </li>
-              <li>
-                <a class="uppercase" href="su-kien.html">Sự kiện nổi bật</a>
-              </li>
-              <li>
-                <a class="uppercase" href="video-page.html">Dân trí TV</a>
-              </li>
-              <li class="line"></li>
-              <li><a href="dmagazine.html">DMagazine</a></li>
-              <li><a href="infographic.html">Infographic</a></li>
-              <li><a href="photo-story.html">Photo Story</a></li>
-              <li class="line"></li>
-              <li><a href="nhip-song-tre.html">Nhịp sống trẻ</a></li>
-              <li><a href="khoa-hoc-cong-nghe.html">Khoa học</a></li>
-              <li><a href="tam-diem.html">Tâm điểm</a></li>
-              <li><a href="ban-doc.html">Bạn đọc</a></li>
-              <li class="line"></li>
-              <li>
-                <a class="email" href="mailto:info@dantri.com.vn">
-                  <svg
-                    aria-hidden="true"
-                    width="18"
-                    height="18"
-                    viewBox="0 0 18 18"
-                    fill="none"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <path
-                      d="M3 3H15C15.825 3 16.5 3.675 16.5 4.5V13.5C16.5 14.325 15.825 15 15 15H3C2.175 15 1.5 14.325 1.5 13.5V4.5C1.5 3.675 2.175 3 3 3Z"
-                      stroke="#666666"
-                      stroke-width="1.5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    />
-                    <path
-                      d="M16.5 4.5L9 9.75L1.5 4.5"
-                      stroke="#666666"
-                      stroke-width="1.5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    />
-                  </svg>
-                  Gửi thư cho toà soạn
-                </a>
-              </li>
-              <li>
-                <a class="headphone" href="tel:0945540303">
-                  <svg
-                    aria-hidden="true"
-                    width="18"
-                    height="18"
-                    viewBox="0 0 18 18"
-                    fill="none"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <path
-                      d="M2.25 13.5V9C2.25 7.20979 2.96116 5.4929 4.22703 4.22703C5.4929 2.96116 7.20979 2.25 9 2.25C10.7902 2.25 12.5071 2.96116 13.773 4.22703C15.0388 5.4929 15.75 7.20979 15.75 9V13.5"
-                      stroke="#666666"
-                      stroke-width="1.5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    />
-                    <path
-                      d="M15.75 14.25C15.75 14.6478 15.592 15.0294 15.3107 15.3107C15.0294 15.592 14.6478 15.75 14.25 15.75H13.5C13.1022 15.75 12.7206 15.592 12.4393 15.3107C12.158 15.0294 12 14.6478 12 14.25V12C12 11.6022 12.158 11.2206 12.4393 10.9393C12.7206 10.658 13.1022 10.5 13.5 10.5H15.75V14.25ZM2.25 14.25C2.25 14.6478 2.40804 15.0294 2.68934 15.3107C2.97064 15.592 3.35218 15.75 3.75 15.75H4.5C4.89782 15.75 5.27936 15.592 5.56066 15.3107C5.84196 15.0294 6 14.6478 6 14.25V12C6 11.6022 5.84196 11.2206 5.56066 10.9393C5.27936 10.658 4.89782 10.5 4.5 10.5H2.25V14.25Z"
-                      stroke="#666666"
-                      stroke-width="1.5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    /></svg
-                  >Liên hệ quảng cáo
-                </a>
-              </li>
-            </ol>
-            <div class="social flex-jcc">
-              <label class="social-label">Theo dõi <b>Dân trí</b>:</label>
-              <div class="social-list flex-jcc">
-                <a
-                  class="facebook"
-                  target="_blank"
-                  rel="nofollow"
-                  href="https://www.facebook.com/baodantridientu"
-                  >Facebook</a
-                >
-                <a
-                  class="youtube"
-                  target="_blank"
-                  rel="nofollow"
-                  href="https://www.youtube.com/channel/UC4t5NcR9V40MB7rQru8AUew"
-                  >Youtube</a
-                >
-                <a
-                  class="tiktok"
-                  target="_blank"
-                  rel="nofollow"
-                  href="https://vt.tiktok.com/ZSeAnvhnH/"
-                  >Tiktok</a
-                >
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
->>>>>>> origin/master
+     
     </nav>
+
+
+
     <main class="body container">
       <div class="title-container flex-jcb">
         <div class="title-breadcrumbs">
-<<<<<<< HEAD
-          <h1 class="title-page"><a href="the-thao.jsp">Thể thao</a></h1>
-=======
-          <h1 class="title-page"><a href="the-thao.html">Thể thao</a></h1>
->>>>>>> origin/master
+          <h1 class="title-page">
+            <a href="bat-dong-san.jsp">Bất động sản</a>
+          </h1>
         </div>
       </div>
-
+     
       <div class="grid highlight">
         <div class="article-wrap">
           <article class="article grid">
@@ -2976,14 +2521,16 @@
               data-track-content=""
             >
               <div class="article-thumb">
-                <a href="#">
+                <a
+                  href="#"
+                >
                   <img
-                    alt="Quang Hải chạy đua với thời gian trước trận gặp Malaysia"
+                    alt="Căn hộ chung cư đi ngược làn sóng cắt lỗ"
                     height="344"
-                    src="../icdn/zoom/516_344/2022/12/24/dtvn-tap-chieu-24-crop-1671887068773.png"
+                    src="../icdn.dantri.com.vn/zoom/516_344/2022/12/24/3093983198283965949535934816610527942469677n-edited-1671850656149.png"
                     srcset="
-                      https://icdn.dantri.com.vn/zoom/516_344/2022/12/24/dtvn-tap-chieu-24-crop-1671887068773.jpeg  1x,
-                      https://icdn.dantri.com.vn/zoom/1032_688/2022/12/24/dtvn-tap-chieu-24-crop-1671887068773.jpeg 2x
+                      https://icdn.dantri.com.vn/zoom/516_344/2022/12/24/3093983198283965949535934816610527942469677n-edited-1671850656149.jpeg  1x,
+                      https://icdn.dantri.com.vn/zoom/1032_688/2022/12/24/3093983198283965949535934816610527942469677n-edited-1671850656149.jpeg 2x
                     "
                     width="516"
                   />
@@ -2991,16 +2538,18 @@
               </div>
               <div class="article-content">
                 <h3 class="article-title">
-                  <a href="#"
-                    >Quang Hải chạy đua với thời gian trước trận gặp Malaysia</a
+                  <a
+                    href="#"
+                    >Căn hộ chung cư đi ngược làn sóng cắt lỗ</a
                   >
                 </h3>
                 <div class="article-excerpt">
-                  <a href="#">
-                    Tiền vệ Nguyễn Quang Hải trở lại tập luyện nhưng anh vẫn
-                    phải tập riêng cùng bác sĩ. Tiền vệ tuyển Việt Nam chạy đua
-                    vời thời gian để kịp bình phục trước trận đấu rất quan trọng
-                    gặp Malaysia.
+                  <a
+                    href="#"
+                  >
+                    Đi ngược làn sóng cắt lỗ, giảm giá của nhiều sản phẩm bất
+                    động sản có tính đầu cơ, căn hộ chung cư thời gian qua đã
+                    ghi nhận xu hướng tăng giá bởi nhu cầu thực.
                   </a>
                 </div>
               </div>
@@ -3009,25 +2558,30 @@
               class="article-item"
               data-content-name="category-highlights"
               data-content-piece="category-highlights-position_2"
+              data-content-target="/kinh-doanh/cao-toc-tuyen-quang-phu-tho-dieu-chinh-dau-tu-can-them-hon-4000-ty-dong-20221223180348340.htm"
               data-track-content=""
             >
               <div class="article-thumb">
-                <a href="#">
+                <a
+                  href="#"
+                >
                   <img
-                    alt="Top 10 ngôi sao tăng giá mạnh nhất sau World Cup 2022"
+                    alt="Cao tốc Tuyên Quang - Phú Thọ: Điều chỉnh đầu tư cần thêm hơn 4.000 tỷ đồng"
                     height="168"
-                    src="../icdn/zoom/252_168/2022/12/24/9bd8795b10e8bf5c8df20a42e37cb3a6-crop-crop-1671886549163.png"
+                    src="../icdn.dantri.com.vn/zoom/252_168/2022/11/16/cao-toc-mai-son-quoc-lo-45-1668614187378.jpg"
                     srcset="
-                      https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/9bd8795b10e8bf5c8df20a42e37cb3a6-crop-crop-1671886549163.jpeg 1x,
-                      https://icdn.dantri.com.vn/zoom/504_336/2022/12/24/9bd8795b10e8bf5c8df20a42e37cb3a6-crop-crop-1671886549163.jpeg 2x
+                      https://icdn.dantri.com.vn/zoom/252_168/2022/11/16/cao-toc-mai-son-quoc-lo-45-1668614187378.jpg 1x,
+                      https://icdn.dantri.com.vn/zoom/504_336/2022/11/16/cao-toc-mai-son-quoc-lo-45-1668614187378.jpg 2x
                     "
                     width="252"
                   />
                 </a>
               </div>
               <h3 class="article-title">
-                <a href="#"
-                  >Top 10 ngôi sao tăng giá mạnh nhất sau World Cup 2022</a
+                <a
+                  href="#"
+                  >Cao tốc Tuyên Quang - Phú Thọ: Điều chỉnh đầu tư cần thêm hơn
+                  4.000 tỷ đồng</a
                 >
               </h3>
             </article>
@@ -3038,24 +2592,26 @@
               data-track-content=""
             >
               <div class="article-thumb">
-                <a href="#">
+                <a
+                  href="#"
+                >
                   <img
-                    alt="Đại thắng 5-0 trước Lào, Malaysia gửi lời thách thức tới Việt Nam"
+                    alt="Đất nền giảm giá hàng loạt, chủ nhà đất trong phố vẫn hét giá cao"
                     height="168"
-                    src="../icdn/zoom/252_168/2022/12/24/fasas1671892395-crop-1671892994088.png"
+                    src="../icdn.dantri.com.vn/zoom/252_168/2022/12/23/3195517455215515866002617965556936442923133n-edited-1671779062331.png"
                     srcset="
-                      https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/fasas1671892395-crop-1671892994088.jpeg 1x,
-                      https://icdn.dantri.com.vn/zoom/504_336/2022/12/24/fasas1671892395-crop-1671892994088.jpeg 2x
+                      https://icdn.dantri.com.vn/zoom/252_168/2022/12/23/3195517455215515866002617965556936442923133n-edited-1671779062331.jpeg 1x,
+                      https://icdn.dantri.com.vn/zoom/504_336/2022/12/23/3195517455215515866002617965556936442923133n-edited-1671779062331.jpeg 2x
                     "
                     width="252"
                   />
-                  <div class="article-ico"><i class="video"></i></div>
                 </a>
               </div>
               <h3 class="article-title">
-                <a href="#"
-                  >Đại thắng 5-0 trước Lào, Malaysia gửi lời thách thức tới Việt
-                  Nam</a
+                <a
+                  href="#"
+                  >Đất nền giảm giá hàng loạt, chủ nhà đất trong phố vẫn hét giá
+                  cao</a
                 >
               </h3>
             </article>
@@ -3068,23 +2624,26 @@
               data-track-content=""
             >
               <div class="article-thumb">
-                <a href="#">
+                <a
+                  href="#"
+                >
                   <img
-                    alt="Khung thành sân Mỹ Đình được bắt vít chắc chắn trước trận gặp Malaysia"
+                    alt="Bộ Xây dựng: Có hiện tượng các sàn câu kết ôm hàng, làm giá, tạo sóng"
                     height="124"
-                    src="../icdn/zoom/186_124/2022/12/24/khung-thanhdocx-1671880175007.jpg"
+                    src="../icdn.dantri.com.vn/zoom/186_124/2022/12/23/bds-crop-1671780644620.png"
                     srcset="
-                      https://icdn.dantri.com.vn/zoom/186_124/2022/12/24/khung-thanhdocx-1671880175007.jpeg 1x,
-                      https://icdn.dantri.com.vn/zoom/372_248/2022/12/24/khung-thanhdocx-1671880175007.jpeg 2x
+                      https://icdn.dantri.com.vn/zoom/186_124/2022/12/23/bds-crop-1671780644620.jpeg 1x,
+                      https://icdn.dantri.com.vn/zoom/372_248/2022/12/23/bds-crop-1671780644620.jpeg 2x
                     "
                     width="186"
                   />
                 </a>
               </div>
               <h3 class="article-title">
-                <a href="#"
-                  >Khung thành sân Mỹ Đình được bắt vít chắc chắn trước trận gặp
-                  Malaysia</a
+                <a
+                  href="#"
+                  >Bộ Xây dựng: Có hiện tượng các sàn câu kết ôm hàng, làm giá,
+                  tạo sóng</a
                 >
               </h3>
             </article>
@@ -3095,23 +2654,25 @@
               data-track-content=""
             >
               <div class="article-thumb">
-                <a href="#">
+                <a
+                  href="#"
+                >
                   <img
-                    alt="Rượt đuổi tỉ số nghẹt thở, Singapore ngược dòng hạ Myanmar"
+                    alt="Giá chung cư vẫn neo cao, người mua khó với"
                     height="124"
-                    src="../icdn/zoom/186_124/2022/12/24/ilhancelebs1-1671884741645.jpg"
+                    src="../icdn.dantri.com.vn/zoom/186_124/2022/12/23/chung-cuha-phong-crop-1671778256325.png"
                     srcset="
-                      https://icdn.dantri.com.vn/zoom/186_124/2022/12/24/ilhancelebs1-1671884741645.jpg 1x,
-                      https://icdn.dantri.com.vn/zoom/372_248/2022/12/24/ilhancelebs1-1671884741645.jpg 2x
+                      https://icdn.dantri.com.vn/zoom/186_124/2022/12/23/chung-cuha-phong-crop-1671778256325.jpeg 1x,
+                      https://icdn.dantri.com.vn/zoom/372_248/2022/12/23/chung-cuha-phong-crop-1671778256325.jpeg 2x
                     "
                     width="186"
                   />
-                  <div class="article-ico"><i class="video"></i></div>
                 </a>
               </div>
               <h3 class="article-title">
-                <a href="#"
-                  >Rượt đuổi tỉ số nghẹt thở, Singapore ngược dòng hạ Myanmar</a
+                <a
+                  href="#"
+                  >Giá chung cư vẫn neo cao, người mua khó với</a
                 >
               </h3>
             </article>
@@ -3122,23 +2683,26 @@
               data-track-content=""
             >
               <div class="article-thumb">
-                <a href="#">
+                <a
+                  href="#"
+                >
                   <img
-                    alt="Động thái bất ngờ của HLV Ten Hag với nhà vô địch World Cup"
+                    alt="Quá khó khăn, nhiều doanh nghiệp địa ốc buộc phải giảm lao động"
                     height="124"
-                    src="../icdn/zoom/186_124/2022/12/24/lisandro-martinez-world-cup-352-1671857110686.jpg"
+                    src="../icdn.dantri.com.vn/zoom/186_124/2022/12/13/dji0203-1665116466843-crop-1670924384930.png"
                     srcset="
-                      https://icdn.dantri.com.vn/zoom/186_124/2022/12/24/lisandro-martinez-world-cup-352-1671857110686.jpg 1x,
-                      https://icdn.dantri.com.vn/zoom/372_248/2022/12/24/lisandro-martinez-world-cup-352-1671857110686.jpg 2x
+                      https://icdn.dantri.com.vn/zoom/186_124/2022/12/13/dji0203-1665116466843-crop-1670924384930.jpeg 1x,
+                      https://icdn.dantri.com.vn/zoom/372_248/2022/12/13/dji0203-1665116466843-crop-1670924384930.jpeg 2x
                     "
                     width="186"
                   />
                 </a>
               </div>
               <h3 class="article-title">
-                <a href="#"
-                  >Động thái bất ngờ của HLV Ten Hag với nhà vô địch World
-                  Cup</a
+                <a
+                  href="#"
+                  >Quá khó khăn, nhiều doanh nghiệp địa ốc buộc phải giảm lao
+                  động</a
                 >
               </h3>
             </article>
@@ -3149,23 +2713,25 @@
               data-track-content=""
             >
               <div class="article-thumb">
-                <a href="#">
+                <a
+                  href="#"
+                >
                   <img
-                    alt="Enzo Fernandez tăng giá chóng mặt sau chức vô địch World Cup"
+                    alt="Hà Nội kiên quyết thu hồi dự án khu đô thị chậm tiến độ"
                     height="124"
-                    src="../icdn/zoom/186_124/2022/12/17/fernandez-3-1671261312926.jpg"
+                    src="../icdn.dantri.com.vn/zoom/186_124/2022/12/13/12-edited-1670944378406.png"
                     srcset="
-                      https://icdn.dantri.com.vn/zoom/186_124/2022/12/17/fernandez-3-1671261312926.jpg 1x,
-                      https://icdn.dantri.com.vn/zoom/372_248/2022/12/17/fernandez-3-1671261312926.jpg 2x
+                      https://icdn.dantri.com.vn/zoom/186_124/2022/12/13/12-edited-1670944378406.jpeg 1x,
+                      https://icdn.dantri.com.vn/zoom/372_248/2022/12/13/12-edited-1670944378406.jpeg 2x
                     "
                     width="186"
                   />
                 </a>
               </div>
               <h3 class="article-title">
-                <a href="#"
-                  >Enzo Fernandez tăng giá chóng mặt sau chức vô địch World
-                  Cup</a
+                <a
+                  href="#"
+                  >Hà Nội kiên quyết thu hồi dự án khu đô thị chậm tiến độ</a
                 >
               </h3>
             </article>
@@ -3183,11 +2749,13 @@
               data-track-content=""
             >
               <div class="article-thumb">
-                <a href="#">
+                <a
+                  href="#"
+                >
                   <img
-                    alt="HLV Aston Villa không hài lòng với cách ăn mừng của Emiliano Martinez"
-                    data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/martinez-3-1671854500963.jpg"
-                    data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/martinez-3-1671854500963.jpg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/24/martinez-3-1671854500963.jpg 2x"
+                    alt="Văn phòng môi giới bất động sản đóng cửa, thành nơi rửa xe, bán trà đá"
+                    data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/20/z3973686325505484587caa243112136c56258dd06c9df-crop-1671528422743.jpeg"
+                    data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/20/z3973686325505484587caa243112136c56258dd06c9df-crop-1671528422743.jpeg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/20/z3973686325505484587caa243112136c56258dd06c9df-crop-1671528422743.jpeg 2x"
                     height="168"
                     src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
                     width="252"
@@ -3196,17 +2764,19 @@
               </div>
               <div class="article-content">
                 <h3 class="article-title">
-                  <a href="#"
-                    >HLV Aston Villa không hài lòng với cách ăn mừng của
-                    Emiliano Martinez</a
+                  <a
+                    href="#"
+                    >Văn phòng môi giới bất động sản đóng cửa, thành nơi rửa xe,
+                    bán trà đá</a
                   >
                 </h3>
                 <div class="article-excerpt">
-                  <a href="#">
-                    HLV Unai Emery cho biết ông rất mừng khi thủ thành Emiliano
-                    Martinez góp công lớn giúp Argentina vô địch World Cup 2022
-                    nhưng không hài lòng vì cách mà học trò mình ăn mừng chiến
-                    thắng.
+                  <a
+                    href="#"
+                  >
+                    Dù bước vào giai đoạn cuối năm, không ít văn phòng môi giới
+                    bất động sản ở Hà Nội lại trong trạng thái vắng vẻ, có nơi
+                    biến thành chỗ rửa ô tô, bán trà đá.
                   </a>
                 </div>
               </div>
@@ -3218,11 +2788,13 @@
               data-track-content=""
             >
               <div class="article-thumb">
-                <a href="#">
+                <a
+                  href="#"
+                >
                   <img
-                    alt="Nếu Quang Hải không thi đấu, đội tuyển Việt Nam có thắng nổi Malaysia?"
-                    data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/21/vn-lao1k21-12-22-1671638826149.jpg"
-                    data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/21/vn-lao1k21-12-22-1671638826149.jpg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/21/vn-lao1k21-12-22-1671638826149.jpg 2x"
+                    alt="Cầm tiền chờ giá nhà năm 2023 giảm để bắt đáy, chuyên gia khuyên gì?"
+                    data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/15/chung-cu-khu-phia-tay-ha-noi-15-crop-1671064974248.jpeg"
+                    data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/15/chung-cu-khu-phia-tay-ha-noi-15-crop-1671064974248.jpeg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/15/chung-cu-khu-phia-tay-ha-noi-15-crop-1671064974248.jpeg 2x"
                     height="168"
                     src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
                     width="252"
@@ -3231,17 +2803,18 @@
               </div>
               <div class="article-content">
                 <h3 class="article-title">
-                  <a href="#"
-                    >Nếu Quang Hải không thi đấu, đội tuyển Việt Nam có thắng
-                    nổi Malaysia?</a
+                  <a
+                    href="#"
+                    >Cầm tiền chờ giá nhà năm 2023 giảm để bắt đáy, chuyên gia
+                    khuyên gì?</a
                   >
                 </h3>
                 <div class="article-excerpt">
-                  <a href="#">
-                    Do chấn thương trong trận gặp Lào, Quang Hải chưa thể tập
-                    lại ở buổi tập đầu tiên của đội tuyển Việt Nam sau khi về
-                    nước từ Vientiane. Khả năng ra sân của Quang Hải trước
-                    Malaysia vẫn còn bỏ ngỏ.
+                  <a
+                    href="#"
+                  >
+                    Chủ tịch Hiệp hội Nhà thầu Xây dựng Việt Nam cho rằng không
+                    thể hy vọng giá nhà xuống được, giá nhà chỉ có tăng lên.
                   </a>
                 </div>
               </div>
@@ -3253,11 +2826,13 @@
               data-track-content=""
             >
               <div class="article-thumb">
-                <a href="#">
+                <a
+                  href="#"
+                >
                   <img
-                    alt="Báo Indonesia: &#34;HLV Park bị stress trước trận gặp Malaysia&#34;"
-                    data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/22/vn1k22-12-22-1671686995202.jpg"
-                    data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/22/vn1k22-12-22-1671686995202.jpg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/22/vn1k22-12-22-1671686995202.jpg 2x"
+                    alt="Giá rao bán nhà đất hỗn loạn, người mua lưỡng lự xuống tiền"
+                    data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/17/dji0813-crop-1671291056957.jpeg"
+                    data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/17/dji0813-crop-1671291056957.jpeg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/17/dji0813-crop-1671291056957.jpeg 2x"
                     height="168"
                     src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
                     width="252"
@@ -3266,16 +2841,19 @@
               </div>
               <div class="article-content">
                 <h3 class="article-title">
-                  <a href="#"
-                    >Báo Indonesia: &quot;HLV Park bị stress trước trận gặp
-                    Malaysia&quot;</a
+                  <a
+                    href="#"
+                    >Giá rao bán nhà đất hỗn loạn, người mua lưỡng lự xuống
+                    tiền</a
                   >
                 </h3>
                 <div class="article-excerpt">
-                  <a href="#">
-                    Truyền thông Indonesia cho rằng HLV Park Hang Seo dường như
-                    bị căng thẳng quá mức trước trận đấu với Malaysia tại AFF
-                    Cup.
+                  <a
+                    href="#"
+                  >
+                    Trong bối cảnh thị trường bất động sản có nhiều biến động,
+                    thông tin rao bán nhà đất dày đặc, hỗn loạn càng khiến người
+                    mua lưỡng lự chốt giao dịch.
                   </a>
                 </div>
               </div>
@@ -3287,11 +2865,13 @@
               data-track-content=""
             >
               <div class="article-thumb">
-                <a href="#">
+                <a
+                  href="#"
+                >
                   <img
-                    alt="Đại gia xuất hiện, hỏi mua chiếc áo choàng của Messi 1 triệu USD"
-                    data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/65884459-0-image-a-141671803415274-1671856063077.jpg"
-                    data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/65884459-0-image-a-141671803415274-1671856063077.jpg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/24/65884459-0-image-a-141671803415274-1671856063077.jpg 2x"
+                    alt="Đại gia xây dựng không mặn mà dự án đầu tư công, chuyên gia hé lộ lý do"
+                    data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/17/dau-tu-cong-crop-crop-1671251306573.jpeg"
+                    data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/17/dau-tu-cong-crop-crop-1671251306573.jpeg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/17/dau-tu-cong-crop-crop-1671251306573.jpeg 2x"
                     height="168"
                     src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
                     width="252"
@@ -3300,363 +2880,50 @@
               </div>
               <div class="article-content">
                 <h3 class="article-title">
-                  <a href="#"
-                    >Đại gia xuất hiện, hỏi mua chiếc áo choàng của Messi 1
-                    triệu USD</a
+                  <a
+                    href="#"
+                    >Đại gia xây dựng không mặn mà dự án đầu tư công, chuyên gia
+                    hé lộ lý do</a
                   >
                 </h3>
                 <div class="article-excerpt">
-                  <a href="#">
-                    Một thành viên trong Quốc hội Oman đã đề nghị mua lại chiếc
-                    áo choàng mà Messi mặc trong lúc giương cao chức vô địch
-                    World Cup 2022.
-                  </a>
-                </div>
-              </div>
-            </article>
-            <article
-              class="article-item"
-              data-content-name="category-timeline_page_1"
-              data-content-piece="category-timeline_page_1-position_5"
-              data-track-content=""
-            >
-              <div class="article-thumb">
-                <a href="#">
-                  <img
-                    alt="Trọng tài đáp trả nghi vấn thiên vị, ưu ái bàn thắng &#34;phạm luật&#34; của Messi"
-                    data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/16718038763166-1671854250137.jpg"
-                    data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/16718038763166-1671854250137.jpg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/24/16718038763166-1671854250137.jpg 2x"
-                    height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
-                    width="252"
-                  />
-                </a>
-              </div>
-              <div class="article-content">
-                <h3 class="article-title">
-                  <a href="#"
-                    >Trọng tài đáp trả nghi vấn thiên vị, ưu ái bàn thắng
-                    &quot;phạm luật&quot; của Messi</a
+                  <a
+                    href="#"
                   >
-                </h3>
-                <div class="article-excerpt">
-                  <a href="#">
-                    Phá vỡ sự im lặng, trọng tài điều khiển trận chung kết World
-                    Cup, Szymon Marciniak đã lên tiếng làm rõ nghi ngờ về việc
-                    ông thiên vị Argentina khi công nhận bàn thắng bị nghi là
-                    phạm luật của Messi.
+                    Nhà thầu không mặn mà với dự án đầu tư công. Đơn giá nhân
+                    công 235.000 đồng/công trong khi giá thuê khoán
+                    450.000-600.000 đồng, lương kỹ sư 2 bậc 6 triệu đồng nhưng
+                    thực tế 20 triệu đồng/tháng...
                   </a>
                 </div>
               </div>
-            </article>
-            <article
-              class="article-item"
-              data-content-name="category-timeline_page_1"
-              data-content-piece="category-timeline_page_1-position_6"
-              data-content-target="/the-thao/angel-di-maria-nha-vo-dich-song-hanh-cung-lionel-messi-20221224081256106.htm"
-              data-track-content=""
-            >
-              <div class="article-thumb">
-                <a href="#">
-                  <img
-                    alt="Angel Di Maria: Nhà vô địch song hành cùng Lionel Messi"
-                    data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/dimaria1-1671844130695.jpg"
-                    data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/dimaria1-1671844130695.jpg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/24/dimaria1-1671844130695.jpg 2x"
-                    height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
-                    width="252"
-                  />
-                </a>
-              </div>
-              <div class="article-content">
-                <h3 class="article-title">
-                  <a href="#"
-                    >Angel Di Maria: Nhà vô địch song hành cùng Lionel Messi</a
-                  >
-                </h3>
-                <div class="article-excerpt">
-                  <a href="#">
-                    Sau chức vô địch World Cup 2022, Di Maria không được nhắc
-                    đến quá nhiều nhưng anh chính là ngôi sao có duyên với các
-                    danh hiệu cao quý và song hành cùng Lionel Messi ở giải đấu
-                    lớn.
-                  </a>
-                </div>
-              </div>
-            </article>
-            <article
-              class="article-item"
-              data-content-name="category-timeline_page_1"
-              data-content-piece="category-timeline_page_1-position_7"
-              data-content-target="/the-thao/richarlison-gianh-giai-ban-thang-dep-nhat-world-cup-2022-20221224095840798.htm"
-              data-track-content=""
-            >
-              <div class="article-thumb">
-                <a href="#">
-                  <img
-                    alt="Richarlison giành giải bàn thắng đẹp nhất World Cup 2022"
-                    data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/richarlison-crop-1671850618561.jpeg"
-                    data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/richarlison-crop-1671850618561.jpeg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/24/richarlison-crop-1671850618561.jpeg 2x"
-                    height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
-                    width="252"
-                  />
-                  <div class="article-ico"><i class="video"></i></div>
-                </a>
-              </div>
-              <div class="article-content">
-                <h3 class="article-title">
-                  <a href="#"
-                    >Richarlison giành giải bàn thắng đẹp nhất World Cup 2022</a
-                  >
-                </h3>
-                <div class="article-excerpt">
-                  <a href="#">
-                    Pha lập công vào lưới Serbia ở vòng bảng của Richarlison
-                    (Brazil) đã giành giải bàn thắng đẹp nhất World Cup 2022.
-                  </a>
-                </div>
-              </div>
-            </article>
-            <article
-              class="article-item"
-              data-content-name="category-timeline_page_1"
-              data-content-piece="category-timeline_page_1-position_8"
-              data-content-target="/the-thao/hlv-shin-tae-yong-noi-gian-sau-chien-thang-cua-indonesia-20221224065547582.htm"
-              data-track-content=""
-            >
-              <div class="article-thumb">
-                <a href="#">
-                  <img
-                    alt="HLV Shin Tae Yong nổi giận sau chiến thắng của Indonesia"
-                    data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/hlv-shindocx-1671839564820.jpeg"
-                    data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/hlv-shindocx-1671839564820.jpeg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/24/hlv-shindocx-1671839564820.jpeg 2x"
-                    height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
-                    width="252"
-                  />
-                </a>
-              </div>
-              <div class="article-content">
-                <h3 class="article-title">
-                  <a href="#"
-                    >HLV Shin Tae Yong nổi giận sau chiến thắng của Indonesia</a
-                  >
-                </h3>
-                <div class="article-excerpt">
-                  <a href="#">
-                    HLV trưởng người Hàn Quốc Shin Tae Yong đã không hài lòng
-                    với các học trò sau trận thắng với tỷ số 2-1 của Indonesia
-                    trước Campuchia ở bảng A AFF Cup 2022.
-                  </a>
-                </div>
-              </div>
-            </article>
-            <article
-              class="article-item"
-              data-content-name="category-timeline_page_1"
-              data-content-piece="category-timeline_page_1-position_9"
-              data-content-target="/the-thao/gan-200000-nguoi-ky-don-yeu-cau-fifa-cho-da-lai-tran-chung-ket-world-cup-20221224002404201.htm"
-              data-track-content=""
-            >
-              <div class="article-thumb">
-                <a href="#">
-                  <img
-                    alt="Gần 200.000 người ký đơn yêu cầu FIFA cho đá lại trận chung kết World Cup"
-                    data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/fbimg1671391520716-16713916023161628891984-1671816081900.jpg"
-                    data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/fbimg1671391520716-16713916023161628891984-1671816081900.jpg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/24/fbimg1671391520716-16713916023161628891984-1671816081900.jpg 2x"
-                    height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
-                    width="252"
-                  />
-                </a>
-              </div>
-              <div class="article-content">
-                <h3 class="article-title">
-                  <a href="#"
-                    >Gần 200.000 người ký đơn yêu cầu FIFA cho đá lại trận chung
-                    kết World Cup</a
-                  >
-                </h3>
-                <div class="article-excerpt">
-                  <a href="#">
-                    Theo cuộc thăm dò trên trang web MesOpinions, có khoảng
-                    195.000 người đã đồng loạt ký đơn yêu cầu FIFA tổ chức lại
-                    trận chung kết World Cup 2022 giữa Pháp và Argentina.
-                  </a>
-                </div>
-              </div>
-            </article>
-            <article
-              class="article-item"
-              data-content-name="category-timeline_page_1"
-              data-content-piece="category-timeline_page_1-position_10"
-              data-content-target="/the-thao/nhung-ky-luc-cho-messi-chinh-phuc-sau-chuc-vo-dich-world-cup-2022-20221223224629717.htm"
-              data-track-content=""
-            >
-              <div class="article-thumb">
-                <a href="#">
-                  <img
-                    alt="Những kỷ lục chờ Messi chinh phục sau chức vô địch World Cup 2022"
-                    data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/23/messi6-crop-1671810189696.jpeg"
-                    data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/23/messi6-crop-1671810189696.jpeg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/23/messi6-crop-1671810189696.jpeg 2x"
-                    height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
-                    width="252"
-                  />
-                </a>
-              </div>
-              <div class="article-content">
-                <h3 class="article-title">
-                  <a href="#"
-                    >Những kỷ lục chờ Messi chinh phục sau chức vô địch World
-                    Cup 2022</a
-                  >
-                </h3>
-                <div class="article-excerpt">
-                  <a href="#">
-                    Lionel Messi đã có đầy đủ những danh hiệu cao quý nhất sau
-                    khi vô địch World Cup 2022. Tuy nhiên, ngôi sao người
-                    Argentina vẫn còn nhiều cột mốc đỉnh cao để chinh phục trong
-                    tương lai.
-                  </a>
-                </div>
-              </div>
-            </article>
-            <article
-              class="article-item"
-              data-content-name="category-timeline_page_1"
-              data-content-piece="category-timeline_page_1-position_11"
-              data-track-content=""
-            >
-              <div class="article-thumb">
-                <a href="#">
-                  <img
-                    alt="Vé AFF Cup ở Việt Nam đắt nhất Đông Nam Á"
-                    data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/21/dtvn-edited-1671631813936.jpeg"
-                    data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/21/dtvn-edited-1671631813936.jpeg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/21/dtvn-edited-1671631813936.jpeg 2x"
-                    height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
-                    width="252"
-                  />
-                </a>
-              </div>
-              <div class="article-content">
-                <h3 class="article-title">
-                  <a href="#">Vé AFF Cup ở Việt Nam đắt nhất Đông Nam Á</a>
-                </h3>
-                <div class="article-excerpt">
-                  <a href="#">
-                    Giá vé cao nhất trong các trận đấu ở vòng bảng AFF Cup 2022
-                    thuộc về sân nhà của đội tuyển Việt Nam. Trong khi đó giá vé
-                    ở sân của đội tuyển Lào là rẻ nhất.
-                  </a>
-                </div>
-              </div>
-            </article>
-            <article
-              class="article-item"
-              data-content-name="category-timeline_page_1"
-              data-content-piece="category-timeline_page_1-position_12"
-              data-track-content=""
-            >
-              <div class="article-thumb">
-                <a href="#">
-                  <img
-                    alt="Bà xã Lionel Messi: Thành tích học tập khủng, sở hữu nhan sắc như hoa hậu"
-                    data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/19/messi-78-1671431075671.jpg"
-                    data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/19/messi-78-1671431075671.jpg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/19/messi-78-1671431075671.jpg 2x"
-                    height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
-                    width="252"
-                  />
-                </a>
-              </div>
-              <div class="article-content">
-                <h3 class="article-title">
-                  <a href="#"
-                    >Bà xã Lionel Messi: Thành tích học tập khủng, sở hữu nhan
-                    sắc như hoa hậu</a
-                  >
-                </h3>
-                <div class="article-excerpt">
-                  <a href="#">
-                    Messi đang là cái tên được nhắc đến nhiều nhất trong những
-                    ngày qua sau khi Argentina vô địch World Cup 2022. Để đạt
-                    tới thành công, anh luôn cảm ơn người bạn đời xinh đẹp
-                    Antonela Roccuzzo.
-                  </a>
-                </div>
-              </div>
-            </article>
-            <article
-              class="article-item"
-              data-content-name="category-timeline_page_1"
-              data-content-piece="category-timeline_page_1-position_13"
-              data-track-content=""
-            >
-              <div class="article-thumb">
-                <a href="#">
-                  <img
-                    alt="HLV Malaysia tuyên bố thắng đậm Lào để vượt qua đội tuyển Việt Nam"
-                    data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/23/hlv-malaysiadocx-1671802226899.jpeg"
-                    data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/23/hlv-malaysiadocx-1671802226899.jpeg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/23/hlv-malaysiadocx-1671802226899.jpeg 2x"
-                    height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
-                    width="252"
-                  />
-                </a>
-              </div>
-              <div class="article-content">
-                <h3 class="article-title">
-                  <a href="#"
-                    >HLV Malaysia tuyên bố thắng đậm Lào để vượt qua đội tuyển
-                    Việt Nam</a
-                  >
-                </h3>
-                <div class="article-excerpt">
-                  <a href="#">
-                    HLV Kim Pan Gon cho biết Malaysia sẽ làm hết sức để ghi thật
-                    nhiều bàn thắng vào lưới đội tuyển Lào ở lượt trận thứ 2
-                    bảng B AFF Cup 2022, nhằm so hiệu số với đội tuyển Việt Nam.
-                  </a>
-                </div>
-              </div>
-            </article>
+
+
           </div>
-<<<<<<< HEAD
-=======
-          <div class="pagination">
-            <a class="page-item active" href="the-thao.html" rel="nofollow">1</a
-            ><a class="page-item" href="#" rel="nofollow">2</a
-            ><a class="page-item" href="#" rel="nofollow">3</a
-            ><a class="page-item" href="#" rel="nofollow">4</a
-            ><a class="page-item" href="#" rel="nofollow">5</a
-            ><a
-              class="page-item next"
-              href="#"
-              rel="nofollow"
-              title="Trang tiếp"
-              >❯</a
-            >
-          </div>
->>>>>>> origin/master
+          
         </div>
         <div class="sidebar">
+          <div
+            class="dantri-widget dantri-widget--vote"
+            data-id="813"
+            data-title="Bạn tích lũy được bao nhiêu tiền sau một năm?"
+          ></div>
           <div class="article sidebar">
             <div class="title">Tiêu điểm</div>
             <article
               class="article-item"
-              data-content-name="embed_box-type_1-category_26"
-              data-content-piece="embed_box-type_1-category_26-article_20221221135510254"
+              data-content-name="embed_box-type_1-category_927"
+              data-content-piece="embed_box-type_1-category_927-article_20221210004541643"
               data-track-content=""
             >
               <div class="article-thumb">
-                <a href="#">
+                <a
+                  href="#"
+                >
                   <img
-                    alt="Dân trí tổ chức trao giải &#34;World Cup 2022: Đoán đúng - Trúng quà&#34;"
-                    data-src="https://icdn.dantri.com.vn/zoom/300_200/2022/12/21/traoqua2-1671610911122.jpg"
-                    data-srcset="https://icdn.dantri.com.vn/zoom/300_200/2022/12/21/traoqua2-1671610911122.jpg 1x, https://icdn.dantri.com.vn/zoom/600_400/2022/12/21/traoqua2-1671610911122.jpg 2x"
+                    alt="Chuyên gia bóc lý do Nguyễn Thái Luyện dễ &#34;lùa gà&#34; kiếm cả nghìn tỷ đồng"
+                    data-src="https://icdn.dantri.com.vn/zoom/300_200/2022/12/10/z39425802575264e44425ee6df512c49d9ee563b21cd1b-crop-crop-1670606477419.jpeg"
+                    data-srcset="https://icdn.dantri.com.vn/zoom/300_200/2022/12/10/z39425802575264e44425ee6df512c49d9ee563b21cd1b-crop-crop-1670606477419.jpeg 1x, https://icdn.dantri.com.vn/zoom/600_400/2022/12/10/z39425802575264e44425ee6df512c49d9ee563b21cd1b-crop-crop-1670606477419.jpeg 2x"
                     height="200"
                     src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 200'%2F%3E"
                     width="300"
@@ -3664,24 +2931,27 @@
                 </a>
               </div>
               <h3 class="article-title">
-                <a href="#"
-                  >Dân trí tổ chức trao giải &quot;World Cup 2022: Đoán đúng -
-                  Trúng quà&quot;</a
+                <a
+                  href="#"
+                  >Chuyên gia bóc lý do Nguyễn Thái Luyện dễ &quot;lùa gà&quot;
+                  kiếm cả nghìn tỷ đồng</a
                 >
               </h3>
             </article>
             <article
               class="article-item"
-              data-content-name="embed_box-type_1-category_26"
-              data-content-piece="embed_box-type_1-category_26-article_20221220222307078"
+              data-content-name="embed_box-type_1-category_927"
+              data-content-piece="embed_box-type_1-category_927-article_20221211105809783"
               data-track-content=""
             >
               <div class="article-thumb">
-                <a href="#">
+                <a
+                  href="#"
+                >
                   <img
-                    alt="Ông vua đi bộ Messi và chức vô địch World Cup của Argentina"
-                    data-src="https://icdn.dantri.com.vn/zoom/90_60/2022/12/20/thumb-1671533806888.jpg"
-                    data-srcset="https://icdn.dantri.com.vn/zoom/90_60/2022/12/20/thumb-1671533806888.jpg 1x, https://icdn.dantri.com.vn/zoom/180_120/2022/12/20/thumb-1671533806888.jpg 2x"
+                    alt="Sang tên sổ đỏ cho con cái, anh chị em: Nên bán hay tặng, cho?"
+                    data-src="https://icdn.dantri.com.vn/zoom/90_60/2022/12/11/nam-2021-nguoi-dan-co-the-lam-thu-tuc-cap-so-do-tai-nha-2-crop-1670730921253.jpeg"
+                    data-srcset="https://icdn.dantri.com.vn/zoom/90_60/2022/12/11/nam-2021-nguoi-dan-co-the-lam-thu-tuc-cap-so-do-tai-nha-2-crop-1670730921253.jpeg 1x, https://icdn.dantri.com.vn/zoom/180_120/2022/12/11/nam-2021-nguoi-dan-co-the-lam-thu-tuc-cap-so-do-tai-nha-2-crop-1670730921253.jpeg 2x"
                     height="60"
                     src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 90 60'%2F%3E"
                     width="90"
@@ -3689,86 +2959,94 @@
                 </a>
               </div>
               <h3 class="article-title">
-                <a href="#"
-                  >Ông vua đi bộ Messi và chức vô địch World Cup của
-                  Argentina</a
+                <a
+                  href="#"
+                  >Sang tên sổ đỏ cho con cái, anh chị em: Nên bán hay tặng,
+                  cho?</a
                 >
               </h3>
             </article>
             <article
               class="article-item"
-              data-content-name="embed_box-type_1-category_26"
-              data-content-piece="embed_box-type_1-category_26-article_20221221175443741"
+              data-content-name="embed_box-type_1-category_927"
+              data-content-piece="embed_box-type_1-category_927-article_20221122011644083"
               data-track-content=""
             >
               <div class="article-thumb">
-                <a href="#">
+                <a
+                  href="#"
+                >
                   <img
-                    alt="Đội tuyển Việt Nam thắng đậm Lào ở trận mở màn AFF Cup 2022"
-                    data-src="https://icdn.dantri.com.vn/zoom/90_60/2022/12/21/dtvn-edited-1671632234024.jpeg"
-                    data-srcset="https://icdn.dantri.com.vn/zoom/90_60/2022/12/21/dtvn-edited-1671632234024.jpeg 1x, https://icdn.dantri.com.vn/zoom/180_120/2022/12/21/dtvn-edited-1671632234024.jpeg 2x"
+                    alt="Cận cảnh dự án tại Đồng Nai vào diện &#34;Trung ương theo dõi&#34;"
+                    data-src="https://icdn.dantri.com.vn/zoom/90_60/2022/11/22/kdctanthinhdongnaibatdongsanhuukhoa-7-edited-1669050872288.jpeg"
+                    data-srcset="https://icdn.dantri.com.vn/zoom/90_60/2022/11/22/kdctanthinhdongnaibatdongsanhuukhoa-7-edited-1669050872288.jpeg 1x, https://icdn.dantri.com.vn/zoom/180_120/2022/11/22/kdctanthinhdongnaibatdongsanhuukhoa-7-edited-1669050872288.jpeg 2x"
                     height="60"
                     src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 90 60'%2F%3E"
                     width="90"
                   />
-                  <div class="article-ico"><i class="video"></i></div>
                 </a>
               </div>
               <h3 class="article-title">
-                <a href="#"
-                  >Đội tuyển Việt Nam thắng đậm Lào ở trận mở màn AFF Cup
-                  2022</a
+                <a
+                  href="#"
+                  >Cận cảnh dự án tại Đồng Nai vào diện &quot;Trung ương theo
+                  dõi&quot;</a
                 >
               </h3>
             </article>
             <article
               class="article-item"
-              data-content-name="embed_box-type_1-category_26"
-              data-content-piece="embed_box-type_1-category_26-article_20221220121827101"
+              data-content-name="embed_box-type_1-category_927"
+              data-content-piece="embed_box-type_1-category_927-article_20221122232915270"
               data-track-content=""
             >
               <div class="article-thumb">
-                <a href="#">
+                <a
+                  href="#"
+                >
                   <img
-                    alt="Messi hạnh phúc cầm cúp vàng World Cup, biển người vây quanh nghẹt thở"
-                    data-src="https://icdn.dantri.com.vn/zoom/90_60/2022/12/20/messi-1671524069341.jpg"
-                    data-srcset="https://icdn.dantri.com.vn/zoom/90_60/2022/12/20/messi-1671524069341.jpg 1x, https://icdn.dantri.com.vn/zoom/180_120/2022/12/20/messi-1671524069341.jpg 2x"
+                    alt="&#34;Đất vàng&#34; xí nghiệp xe buýt Hà Nội rời đi, chung cư liên tiếp mọc lên"
+                    data-src="https://icdn.dantri.com.vn/zoom/90_60/2022/11/22/dji0597-crop-1669133750201.jpeg"
+                    data-srcset="https://icdn.dantri.com.vn/zoom/90_60/2022/11/22/dji0597-crop-1669133750201.jpeg 1x, https://icdn.dantri.com.vn/zoom/180_120/2022/11/22/dji0597-crop-1669133750201.jpeg 2x"
                     height="60"
                     src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 90 60'%2F%3E"
                     width="90"
                   />
-                  <div class="article-ico"><i class="video"></i></div>
                 </a>
               </div>
               <h3 class="article-title">
-                <a href="#"
-                  >Messi hạnh phúc cầm cúp vàng World Cup, biển người vây quanh
-                  nghẹt thở</a
+                <a
+                  href="#"
+                  >&quot;Đất vàng&quot; xí nghiệp xe buýt Hà Nội rời đi, chung
+                  cư liên tiếp mọc lên</a
                 >
               </h3>
             </article>
             <article
               class="article-item"
-              data-content-name="embed_box-type_1-category_26"
-              data-content-piece="embed_box-type_1-category_26-article_20221221081249332"
+              data-content-name="embed_box-type_1-category_927"
+              data-content-piece="embed_box-type_1-category_927-article_20221119224818739"
               data-track-content=""
             >
               <div class="article-thumb">
-                <a href="#">
+                <a
+                  href="#"
+                >
                   <img
-                    alt="Những hình ảnh ấn tượng của thể thao thế giới năm 2022"
-                    data-src="https://icdn.dantri.com.vn/zoom/90_60/2022/12/21/ukraine-14-1671555568607-1671587495103.jpg"
-                    data-srcset="https://icdn.dantri.com.vn/zoom/90_60/2022/12/21/ukraine-14-1671555568607-1671587495103.jpg 1x, https://icdn.dantri.com.vn/zoom/180_120/2022/12/21/ukraine-14-1671555568607-1671587495103.jpg 2x"
+                    alt="&#34;Chuồng cọp&#34; mọc lôm nhôm trong dự án được quảng cáo hiện đại bậc nhất nam Thủ đô"
+                    data-src="https://icdn.dantri.com.vn/zoom/90_60/2022/11/19/4-edited-1668869677191.jpeg"
+                    data-srcset="https://icdn.dantri.com.vn/zoom/90_60/2022/11/19/4-edited-1668869677191.jpeg 1x, https://icdn.dantri.com.vn/zoom/180_120/2022/11/19/4-edited-1668869677191.jpeg 2x"
                     height="60"
                     src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 90 60'%2F%3E"
                     width="90"
                   />
-                  <div class="article-ico"><i class="photo"></i></div>
                 </a>
               </div>
               <h3 class="article-title">
-                <a href="#"
-                  >Những hình ảnh ấn tượng của thể thao thế giới năm 2022</a
+                <a
+                  href="#"
+                  >&quot;Chuồng cọp&quot; mọc lôm nhôm trong dự án được quảng
+                  cáo hiện đại bậc nhất nam Thủ đô</a
                 >
               </h3>
             </article>
@@ -3777,111 +3055,6 @@
         </div>
       </div>
       <div id="desktop-center-1" class="mdbl"></div>
-
-      <div id="desktop-center-2" class="mdbl"></div>
-    </main>
-<<<<<<< HEAD
-=======
-
-    <script>
-      window.DT_GLOBAL = window.DT_GLOBAL || {};
-      window.DT_GLOBAL.trackingNames = {
-        BANNER: "banners-position_{0}-zone_{1}",
-        HOME_EVENTS: "home-events",
-        HOME_HIGHLIGHTS: "home-highlights",
-        HOME_SPECIALS: "home-specials",
-        HOME_CATEGORY_HIGHLIGHTS: "home-category_highlights",
-        HOME_TOP_SPOTLIGHTS: "home-top-spotlights",
-        HOME_CATEGORY: "home-category_{0}",
-        HOME_SPOTLIGHTS: "home-spotlights",
-        HOME_MEDIA: "home-media",
-        CATEGORY_HIGHLIGHTS: "category-highlights",
-        CATEGORY_TIMELINE: "category-timeline_page_{0}",
-        CATEGORY_CHILDREN: "category-children",
-        CATEGORY_MEDIA: "category-media",
-        CATEGORY_POPULAR: "category-popular",
-        ARTICLE_ACTIONS: "article-actions",
-        ARTICLE_BREADCRUMB: "article-breadcrumb",
-        ARTICLE_TAGS: "article-tags",
-        ARTICLE_RELATED: "article-related",
-        ARTICLE_POPULAR: "article-popular",
-        ARTICLE_RECOMMEND: "article-recommend",
-        ARTICLE_RECOMMEND_2: "article-recommend-2",
-        ARTICLE_CONTENT_IMAGE: "article-content-image",
-        ARTICLE_CONTENT_AUTOLINK: "article-content-autolink",
-        EMBEDBOX_HOME: "embed_box-type_{0}-home",
-        EMBEDBOX_CATEGORY: "embed_box-type_{0}-category_{1}",
-        THREAD_EMBEDBOX_HOME: "thread-embed_box-type_{0}-home",
-        THREAD_EMBEDBOX_CATEGORY: "thread-embed_box-type_{0}-category_{1}",
-      };
-      window.DT_GLOBAL.trackingPieces = {
-        BANNER: "banners-banner_{0}",
-        HOME_EVENTS: "home-events-position_{0}",
-        HOME_HIGHLIGHTS: "home-highlights-position_{0}",
-        HOME_SPECIALS: "home-specials-position_{0}",
-        HOME_CATEGORY_HIGHLIGHTS: "home-category_highlights-position_{0}",
-        HOME_TOP_SPOTLIGHTS: "home-top-spotlights-position_{0}",
-        HOME_CATEGORY: "home-category_{0}-position_{1}",
-        HOME_SPOTLIGHTS: "home-spotlights-position_{0}",
-        HOME_MEDIA: "home-media-position_{0}",
-        CATEGORY_HIGHLIGHTS: "category-highlights-position_{0}",
-        CATEGORY_TIMELINE: "category-timeline_page_{0}-position_{1}",
-        CATEGORY_CHILDREN: "category-children-position_{0}_{1}",
-        CATEGORY_MEDIA: "category-media-position_{0}",
-        CATEGORY_POPULAR: "category-popular-position_{0}",
-        ARTICLE_CONTENT_IMAGE: "article-content-image_{0}",
-        ARTICLE_CONTENT_AUTOLINK: "article-content-autolink_{0}",
-        ARTICLE_ACTIONS: "article-actions-{0}",
-        ARTICLE_BREADCRUMB: "article-breadcrumb-position_{0}",
-        ARTICLE_TAGS: "article-tags-position_{0}",
-        ARTICLE_RELATED: "article-related-position_{0}",
-        ARTICLE_POPULAR: "article-popular-position_{0}",
-        ARTICLE_RECOMMEND: "article-recommend-position_{0}",
-        ARTICLE_RECOMMEND_2: "article-recommend-2-position_{0}",
-        EMBEDBOX_HOME: "embed_box-type_{0}-home-article_{1}",
-        EMBEDBOX_CATEGORY: "embed_box-type_{0}-category_{1}-article_{2}",
-        THREAD_EMBEDBOX_HOME: "thread-embed_box-type_{0}-home-thread_{1}",
-        THREAD_EMBEDBOX_CATEGORY:
-          "thread-embed_box-type_{0}-category_{1}-thread_{2}",
-      };
-      window.DT_GLOBAL.ForceDisableVideoAds = 0;
-      window.DT_GLOBAL.vastUrl =
-        "https://pubads.g.doubleclick.net/gampad/ads?iu=/21899300285/dtadnetwork/desktop_video&amp;description_url=[placeholder]&amp;tfcd=0&amp;npa=0&amp;ad_type=audio_video&amp;sz=400x300%7C640x360%7C640x480&amp;ciu_szs=970x90%2C728x90%2C300x50%2C320x50%2C468x60&amp;gdfp_req=1&amp;output=vast&amp;unviewed_position_start=1&amp;env=vp&amp;impl=s&amp;correlator=";
-      window.DT_GLOBAL.wConfigCustomLazyLoad = null;
-    </script>
-    <script defer src="../cdnweb/dist/common.js"></script>
-    <script defer src="../localhost_3004/hot-reload.js"></script>
-    <script defer src="../localhost_3004/chuyen-muc.js"></script>
-    <script type="application/ld+json">
-      {
-        "@context": "http://schema.org",
-        "@type": "Organization",
-        "name": "Báo Dân Trí",
-        "url": "https://dantri.com.vn",
-        "slogan": "Tin tức Việt Nam và quốc tế nóng, nhanh, cập nhật 24h",
-        "logo": "https://cdnweb.dantri.com.vn/images/logo.svg",
-        "email": "info@dantri.com.vn",
-        "additionalType": "https://vi.wikipedia.org/wiki/B%C3%A1o_%C4%91i%E1%BB%87n_t%E1%BB%AD",
-        "sameAs": [
-          "https://www.facebook.com/baodantridientu",
-          "https://vi.wikipedia.org/wiki/D%C3%A2n_tr%C3%AD_(b%C3%A1o)"
-        ],
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "Nhà 48, ngõ 2 Giảng Võ, Cát Linh, Đống Đa",
-          "addressLocality": "Hà Nội"
-        },
-        "contactPoint": [
-          {
-            "@type": "ContactPoint",
-            "telephone": "+842437366491",
-            "contactOption": "TollFree",
-            "contactType": "customer service",
-            "areaServed": "VN"
-          }
-        ]
-      }
-    </script>
->>>>>>> origin/master
+      
   </body>
 </html>
