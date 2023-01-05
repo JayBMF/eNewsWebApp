@@ -22,12 +22,21 @@ public class AccountServlet extends HttpServlet {
             case "/Register":
                 ServletUtils.forward("/Views/vwAccount/Register.jsp", request, response);
                 break;
+            case "/forgot":
+                ServletUtils.forward("/Views/vwAccount/Forgot.jsp", request, response);
+                break;
             case "/login":
                 ServletUtils.forward("/Views/vwAccount/login.jsp", request, response);
                 break;
+
+            case "/changepass":
+                ServletUtils.forward("/Views/vwAccount/ChangePass.jsp", request, response);
+                break;
+
             case "/profile":
                 ServletUtils.forward("/Views/vwAccount/profile.jsp", request, response);
                 break;
+
             case "/IsAvailable":
                 String username = request.getParameter("user");
                 User user = UserModel.findByUsername(username);

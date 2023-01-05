@@ -82,10 +82,9 @@
         </c:otherwise>
     </c:choose>
     <div class="flex-fill ml-1">
-        <button type="submit" class="btn btn-lg btn-info btn-block">
-            <i class="fa fa-sign-in" aria-hidden="true"></i>
+        <a class="btn btn-lg btn-info btn-block" href="${pageContext.request.contextPath}/Account/changepass" role="button">
             Đổi mật khẩu
-        </button>
+        </a>
     </div>
 
 </div>

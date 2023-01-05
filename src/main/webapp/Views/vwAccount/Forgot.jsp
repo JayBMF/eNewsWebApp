@@ -15,19 +15,19 @@
     </style>
 </head>
 <body>
+<div>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ">
+                <li class="nav-item active d-flex btn btn-lg btn-info btn-block">
+                    <i class="fa fa-home mt-3" aria-hidden="true"></i>
+                    <a class="nav-link" href="${pageContext.request.contextPath}/Home">Home <span class="sr-only">(current)</span></a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</div>
 <div class="container-fluid h-100">
-    <div>
-        <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ">
-                    <li class="nav-item active d-flex btn btn-lg btn-info btn-block">
-                        <i class="fa fa-home mt-3" aria-hidden="true"></i>
-                        <a class="nav-link" href="${pageContext.request.contextPath}/Home">Home <span class="sr-only">(current)</span></a>
-                    </li>
-                </ul>
-            </div>
-        </nav>
-    </div>
     <div class="row h-100 justify-content-center align-items-center">
         <div class="col-sm-4">
             <form action="" method="post">
@@ -43,9 +43,9 @@
                     </div>
                 </div>
                 <div class="form-group">
-                    <label class="sr-only" for="txtPassword">Mật khẩu cũ</label>
+                    <label class="sr-only" for="txt_Password">Mật khẩu mới</label>
                     <div class="input-group">
-                        <input type="password" class="form-control form-control-lg border-right-0" id="txtPassword" name="password" placeholder="Mật khẩu cũ">
+                        <input type="password" class="form-control form-control-lg border-right-0" id="txt_Password" name="password" placeholder="Mật khẩu mới">
                         <div class="input-group-append">
                             <span class="input-group-text bg-white">
                               <i class="fa fa-key" aria-hidden="true"></i>
@@ -54,15 +54,20 @@
                     </div>
                 </div>
                 <div class="form-group">
-                    <label class="sr-only" for="txtPassword">Nhập lại mật khẩu</label>
+                    <label class="sr-only" for="txtcodeotp">Mã OTP</label>
                     <div class="input-group">
-                        <input type="password" class="form-control form-control-lg border-right-0" id="txtnew_Password" name="password" placeholder="Nhập lại mật khẩu">
+                        <input type="text" class="form-control form-control-lg border-right-0" id="txtcodeotp" name="Code_opt" placeholder="Mã OTP">
                         <div class="input-group-append">
                             <span class="input-group-text bg-white">
                               <i class="fa fa-key" aria-hidden="true"></i>
                             </span>
                         </div>
                     </div>
+                </div>
+                <div class="flex-fill ml-1 mb-2">
+                    <a class="btn btn-lg btn-info btn-block" href="${pageContext.request.contextPath}/*" role="button">
+                        Lấy mã
+                    </a>
                 </div>
                 <div class="form-group d-flex">
                     <div class="flex-fill ml-1">

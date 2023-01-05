@@ -68,7 +68,7 @@
                         </a>
                     </div>
                     <div class="flex-fill ml-1">
-                        <a class="btn btn-lg btn-info btn-block" href="${pageContext.request.contextPath}/*" role="button">
+                        <a class="btn btn-lg btn-info btn-block" href="${pageContext.request.contextPath}/Account/forgot" role="button">
                             Quên Mật Khẩu
                         </a>
                     </div>
