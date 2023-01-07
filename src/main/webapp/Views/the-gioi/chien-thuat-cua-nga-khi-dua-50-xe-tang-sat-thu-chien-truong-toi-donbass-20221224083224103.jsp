@@ -2,7 +2,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <!DOCTYPE html>
 <html lang="vi" xmlns="http://www.w3.org/1999/xhtml">
-  <meta http-equiv="content-type" content="text/html;charset=utf-8" />
   <head>
     <meta charset="UTF-8" />
     <meta
@@ -3209,7 +3208,7 @@
                 <li><a href="xa-hoi/giao-thong.html">Giao thông</a></li>
                 <li><a href="xa-hoi/nong-tren-mang.html">Nóng trên mạng</a></li>
                 <li>
-                  <a href="https://sangkienatgt.dantri.com.vn/"
+                  <a href="#"
                     >Sáng kiến an toàn giao thông</a
                   >
                 </li>
