@@ -13,6 +13,7 @@ import java.io.PrintWriter;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
+    //Thang
 @WebServlet(name = "AccountServlet", value = "/Account/*")
 public class AccountServlet extends HttpServlet {
     @Override
@@ -66,7 +67,7 @@ public class AccountServlet extends HttpServlet {
 
 
             default:
-                ServletUtils.forward("/Home", request, response);
+                ServletUtils.forward("/Views/404.jsp", request, response);
                 break;
         }
     }

@@ -6,6 +6,7 @@ import org.sql2o.Connection;
 
 import java.util.List;
 
+    //Thang
 public class UserModel {
     public static User findByUsername(String username) {
         final String query = "select * from user where username = :username";

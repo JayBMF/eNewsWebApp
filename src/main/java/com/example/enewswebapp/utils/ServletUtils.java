@@ -6,6 +6,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
+    //Thang
 public class ServletUtils {
     public static void forward(String url, HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException{
         RequestDispatcher rd =request.getRequestDispatcher(url);

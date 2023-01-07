@@ -7,6 +7,7 @@ import javax.servlet.http.*;
 import javax.servlet.annotation.*;
 import java.io.IOException;
 
+//Thang
 @WebServlet(name = "DefaultServlet", value = "/")
 public class DefaultServlet extends HttpServlet {
     @Override
