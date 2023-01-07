@@ -1,9 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <!DOCTYPE html>
-
 <html>
-<%--<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>--%>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -3076,7 +3074,7 @@
                                 data-src="https://icdn.dantri.com.vn/zoom/233_155/2022/11/11/z3872881902110dbc5f49927d3ddcbff0dbfe18253ce8c-1668164142838.jpg"
                                 data-srcset="https://icdn.dantri.com.vn/zoom/233_155/2022/11/11/z3872881902110dbc5f49927d3ddcbff0dbfe18253ce8c-1668164142838.jpg 1x, https://icdn.dantri.com.vn/zoom/466_310/2022/11/11/z3872881902110dbc5f49927d3ddcbff0dbfe18253ce8c-1668164142838.jpg 2x"
                                 height="155"
-                                src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 233 155'%2F%3E"
+                                src="https://icdn.dantri.com.vn/zoom/233_155/2022/11/11/z3872881902110dbc5f49927d3ddcbff0dbfe18253ce8c-1668164142838.jpg"
                                 width="233"
                         />
                     </a>
