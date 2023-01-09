@@ -1,5 +1,9 @@
 package com.example.enewswebapp.controllers;
 
+import com.example.enewswebapp.beans.User;
+import com.example.enewswebapp.beans.Writer;
+import com.example.enewswebapp.models.UserModel;
+import com.example.enewswebapp.models.WriterModel;
 import com.example.enewswebapp.utils.ServletUtils;
 
 import javax.servlet.*;
@@ -51,8 +55,15 @@ public class MiscServlet extends HttpServlet {
         }
     }
     private void postUpload(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        System.out.println(request.getParameter("ProName"));
-        String menu=request.getParameter("menu");
+
+        String tieu_de = request.getParameter("tieude");
+        String chu_de = request.getParameter("chude");
+        String noi_dung = request.getParameter("noidung");
+
+        Writer c = new Writer(tieu_de,chu_de,noi_dung);
+        WriterModel.add(c);
+
+
         for (Part part : request.getParts()) {
 
             if (part.getName().equals("fuMain")) {
@@ -64,7 +75,7 @@ public class MiscServlet extends HttpServlet {
                         int idx = tmp.indexOf("=") + 2;
                         String filename = tmp.substring(idx, tmp.length() - 1);
 
-                        String targetDir = this.getServletContext().getRealPath("img/");
+                        String targetDir = this.getServletContext().getRealPath("/img");
                         File dir = new File(targetDir);
                         if (!dir.exists()) {
                             dir.mkdir();
@@ -76,6 +87,6 @@ public class MiscServlet extends HttpServlet {
             }
         }
 
-        ServletUtils.forward("/views/vwMisc/Upload.jsp", request, response);
+        ServletUtils.forward("/Views/vwMisc/Upload.jsp", request, response);
     }
 }

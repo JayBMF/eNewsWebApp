@@ -2,7 +2,6 @@
 <%@ taglib prefix="t" tagdir="/WEB-INF/tags" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 
-    #Thang
 <t:main>
   <jsp:attribute name="css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-datetimepicker/2.5.20/jquery.datetimepicker.min.css" integrity="sha512-f0tzWhCwVFS3WeYaofoLWkTP62ObhewQ1EZn65oSYDZUg1+CyywGKkWzm8BxaJj5HGKI72PnMH9jYyIFz+GH7g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -18,14 +17,14 @@
           alert('Invalid username.');
           return;
         }
-        $('#frmRegister').off('submit').submit();
-        <%--$.getJSON('${pageContext.request.contextPath}/Account/IsAvailable?user=' + username, function (data) {--%>
-        <%--  if (data === true) {--%>
-        <%--    $('#frmRegister').off('submit').submit();--%>
-        <%--  } else {--%>
-        <%--    alert('Username is not available.');--%>
-        <%--  }--%>
-        <%--});--%>
+        // $('#frmRegister').off('submit').submit();
+        $.getJSON('${pageContext.request.contextPath}/Account/IsAvailable?user=' + username, function (data) {
+          if (data === true) {
+            $('#frmRegister').off('submit').submit();
+          } else {
+            alert('Username is available.');
+          }
+        });
       });
       $('#txtDOB').datetimepicker({
         format: 'd/m/Y',

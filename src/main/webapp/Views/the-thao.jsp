@@ -2,8 +2,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 =======
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
->>>>>>> origin/master
+<%--<%@ page contentType="text/html;charset=UTF-8" language="java" %>--%>
 <!DOCTYPE html>
 <html>
   <meta http-equiv="content-type" content="text/html;charset=utf-8" />
@@ -98,15 +97,14 @@
     <meta http-equiv="audience" content="General" />
     <meta http-equiv="content-language" content="vi" />
     <meta name="revisit-after" content="1 days" />
-<<<<<<< HEAD
     <link rel="alternate" href="the-thao.jsp" hreflang="vi-vn" />
     <link href="https://amp.dantri.com.vn/the-thao.htm" rel="amphtml" />
     <link rel="canonical" href="the-thao.jsp" />
-=======
+
     <link rel="alternate" href="the-thao.html" hreflang="vi-vn" />
     <link href="https://amp.dantri.com.vn/the-thao.htm" rel="amphtml" />
     <link rel="canonical" href="the-thao.html" />
->>>>>>> origin/master
+
     <meta http-equiv="x-dns-prefetch-control" content="on" />
 
     <style>
@@ -250,22 +248,18 @@
       }
       .international {
         height: 37px;
-<<<<<<< HEAD
+        HEAD
         padding: 4px 12px 4px 15px;
-=======
+
         padding: 4px 12px 4px 5px;
->>>>>>> origin/master
         border: 1px solid #ccc;
         border-radius: 18px;
         font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI",
           "Helvetica Neue", "Arial", "Apple Color Emoji", "Segoe UI Emoji",
           "Segoe UI Symbol", sans-serif;
         margin: 0 30px 0 0;
-<<<<<<< HEAD
         font-weight: 600;
-=======
         font-weight: 400;
->>>>>>> origin/master
         line-height: 1;
       }
       .international img {

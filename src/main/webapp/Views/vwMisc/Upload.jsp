@@ -5,7 +5,6 @@
   Time: 8:54 PM
   To change this template use File | Settings | File Templates.
 --%>
-    #Thang
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib prefix="t" tagdir="/WEB-INF/tags" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
@@ -27,7 +26,7 @@
         // $('#txtInf').height(
         //     350
         // );
-        $('#menu').width(
+        $('#chude').width(
             1448
         )
     </script>
@@ -41,22 +40,22 @@
                 <div class="card-body">
                     <div class="form-group">
                         <label for="txtProName">Tiêu đề</label>
-                        <input type="text" class="form-control" id="txtProName" name="ProName" autofocus>
+                        <input type="text" class="form-control" id="txtProName" name="tieude" autofocus>
                     </div>
                     <div class="form-group">
                         <label for="txtProName">Chủ đề</label>
 
-                        <select id="menu" name="nemu">
-                            <option value="xa_hoi">XÃ HỘI</option>
-                            <option value="the_gioi">THẾ GIỚI</option>
-                            <option value="kinh_doanh">KINH DOANH</option>
-                            <option value="bat_dong_san">BẤT ĐỘNG SẢN</option>
-                            <option value="the_thao">THỂ THAO</option>
+                        <select id="chu_de" name="chude">
+                            <option value="XÃ HỘI">XÃ HỘI</option>
+                            <option value="THẾ GIỚI">THẾ GIỚI</option>
+                            <option value="KINH DOANH">KINH DOANH</option>
+                            <option value="BẤT ĐỘNG SẢN">BẤT ĐỘNG SẢN</option>
+                            <option value="THỂ THAO">THỂ THAO</option>
                         </select>
                     </div>
                     <div class="form-group ">
                         <label for="txtProName">Nội dung</label>
-                        <textarea class="d-block" name="Inf" rows="20" cols="190" id="txtInf">
+                        <textarea class="d-block" name="noidung" rows="20" cols="190" id="noidung">
                         </textarea>
 
                     </div>

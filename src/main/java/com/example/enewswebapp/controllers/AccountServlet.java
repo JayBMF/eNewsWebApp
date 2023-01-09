@@ -37,9 +37,21 @@ public class AccountServlet extends HttpServlet {
             case "/profile":
                 ServletUtils.forward("/Views/vwAccount/profile.jsp", request, response);
                 break;
+            case "/MailAvailable":
+                String email = request.getParameter("mail");
+                User mail=UserModel.findByUsername(email);
+                boolean MailAvailable=(mail==null);
+
+                PrintWriter out1 = response.getWriter();
+                response.setContentType("application/json");
+                response.setCharacterEncoding("utf-8");
+
+                out1.print(MailAvailable);
+                out1.flush();
+                break;
 
             case "/IsAvailable":
-                String username = request.getParameter("user");
+                String username = request.getParameter("username");
                 User user = UserModel.findByUsername(username);
                 boolean isAvailable = (user == null);
 
@@ -85,7 +97,8 @@ public class AccountServlet extends HttpServlet {
 
         User c = new User( username,name ,bcryptHashString , email, dob);
         UserModel.add(c);
-        ServletUtils.forward("/Views/vwAccount/Register.jsp", request, response);    }
+        ServletUtils.forward("/Views/vwAccount/login.jsp", request, response);
+    }
 
     private void login(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         String username = request.getParameter("username");

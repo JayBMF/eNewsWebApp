@@ -1,7 +1,6 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 
-    #Thang
 <%--<jsp:useBean id="authUser" scope="session" type="com.example.enewswebapp.beans.User"/>--%>
 <!DOCTYPE html>
 <html lang="en">

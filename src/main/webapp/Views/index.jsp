@@ -2383,7 +2383,7 @@
                 <img
                         alt="Báo điện tử - Tin tức cập nhật liên tục 24/7"
                         height="40"
-                        src="../icdn/2022/12/14/2-1671004462496.png"
+                        src="../img/ute.png"
                         width="0"
                 />
             </a>
@@ -2485,7 +2485,7 @@
             </ol>
         </li>
         <li class="has-child">
-            <a href="kinh-doanh.jsp">Kinh doanh</a>
+            <a href="${pageContext.request.contextPath}/Views/kinh-doanh.jsp">Kinh doanh</a>
             <ol class="submenu">
                 <li><a href="#">Tài chính</a></li>
 

@@ -2,7 +2,6 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 
 
-    #Thang
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -32,7 +31,7 @@
 <div class="container-fluid h-100">
     <div class="row h-100 justify-content-center align-items-center">
         <div class="col-sm-4">
-            <form action="" method="post">
+            <form action="../Views/vwAccount/otp/process.jsp" method="post">
                 <div class="form-group">
                     <label class="sr-only" for="txtUsername">Username</label>
                     <div class="input-group">
@@ -45,12 +44,12 @@
                     </div>
                 </div>
                 <div class="form-group">
-                    <label class="sr-only" for="txt_Password">Mật khẩu mới</label>
+                    <label class="sr-only" for="txtUsername">Email</label>
                     <div class="input-group">
-                        <input type="password" class="form-control form-control-lg border-right-0" id="txt_Password" name="password" placeholder="Mật khẩu mới">
+                        <input type="email" class="form-control form-control-lg border-right-0" id="txtEmail" name="email" autofocus placeholder="Email">
                         <div class="input-group-append">
                             <span class="input-group-text bg-white">
-                              <i class="fa fa-key" aria-hidden="true"></i>
+                              <i class="fa fa-user" aria-hidden="true"></i>
                             </span>
                         </div>
                     </div>
@@ -66,16 +65,11 @@
                         </div>
                     </div>
                 </div>
-                <div class="flex-fill ml-1 mb-2">
-                    <a class="btn btn-lg btn-info btn-block" href="${pageContext.request.contextPath}/*" role="button">
-                        Lấy mã
-                    </a>
-                </div>
                 <div class="form-group d-flex">
                     <div class="flex-fill ml-1">
                         <button type="submit" class="btn btn-lg btn-info btn-block">
                             <i class="fa fa-sign-in" aria-hidden="true"></i>
-                            Đổi mật khẩu
+                            Lấy mã
                         </button>
                     </div>
 
