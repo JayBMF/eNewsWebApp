@@ -2496,7 +2496,7 @@
             </ol>
         </li>
         <li class="has-child">
-            <a href="bat-dong-san.jsp">Bất động sản</a>
+            <a href="${pageContext.request.contextPath}/Views/bat-dong-san.jsp">Bất động sản</a>
             <ol class="submenu">
                 <li><a href="#">Dự án</a></li>
                 <li><a href="#">Thị trường</a></li>
@@ -2509,7 +2509,7 @@
             </ol>
         </li>
         <li class="has-child">
-            <a href="the-thao.jsp">Thể thao</a>
+            <a href="${pageContext.request.contextPath}/Views/the-thao.jsp">Thể thao</a>
             <ol class="submenu">
                 <li><a href="#">AFF Cup 2022</a></li>
                 <li><a href="#">World Cup 2022</a></li>

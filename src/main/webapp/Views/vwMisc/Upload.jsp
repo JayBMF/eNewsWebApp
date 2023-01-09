@@ -21,7 +21,7 @@
             theme: 'fa',
             language: 'vi',
             dropZoneEnabled: false,
-            allowedFileExtensions: ['jpg', 'png', 'gif']
+            allowedFileExtensions: ['jpg', 'png', 'gif','mp4']
         });
         // $('#txtInf').height(
         //     350
