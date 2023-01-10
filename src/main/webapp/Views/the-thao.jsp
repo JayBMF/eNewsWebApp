@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 =======
@@ -2970,7 +2970,7 @@
               data-track-content=""
             >
               <div class="article-thumb">
-                <a href="#">
+                <a href="${pageContext.request.contextPath}/Views/the-thao/quang-hai-chay-dua-voi-thoi-gian-truoc-tran-gap-malaysia-20221224200553135.jsp">
                   <img
                     alt="Quang Hải chạy đua với thời gian trước trận gặp Malaysia"
                     height="344"
@@ -2985,7 +2985,7 @@
               </div>
               <div class="article-content">
                 <h3 class="article-title">
-                  <a href="#"
+                  <a <a href="${pageContext.request.contextPath}/Views/the-thao/quang-hai-chay-dua-voi-thoi-gian-truoc-tran-gap-malaysia-20221224200553135.jsp">
                     >Quang Hải chạy đua với thời gian trước trận gặp Malaysia</a
                   >
                 </h3>
@@ -3006,7 +3006,7 @@
               data-track-content=""
             >
               <div class="article-thumb">
-                <a href="#">
+                <a href="${pageContext.request.contextPath}/Views/the-thao/top-10-ngoi-sao-tang-gia-manh-nhat-sau-world-cup-2022-20221224195638512.jsp">
                   <img
                     alt="Top 10 ngôi sao tăng giá mạnh nhất sau World Cup 2022"
                     height="168"
@@ -3020,7 +3020,7 @@
                 </a>
               </div>
               <h3 class="article-title">
-                <a href="#"
+                <a href="${pageContext.request.contextPath}/Views/the-thao/top-10-ngoi-sao-tang-gia-manh-nhat-sau-world-cup-2022-20221224195638512.jsp">
                   >Top 10 ngôi sao tăng giá mạnh nhất sau World Cup 2022</a
                 >
               </h3>
@@ -3032,7 +3032,7 @@
               data-track-content=""
             >
               <div class="article-thumb">
-                <a href="#">
+                <a href="${pageContext.request.contextPath}/Views/the-thao/dai-thang-5-0-truoc-lao-malaysia-gui-loi-thach-thuc-toi-viet-nam-20221224192103764.jsp">
                   <img
                     alt="Đại thắng 5-0 trước Lào, Malaysia gửi lời thách thức tới Việt Nam"
                     height="168"
@@ -3047,7 +3047,7 @@
                 </a>
               </div>
               <h3 class="article-title">
-                <a href="#"
+                <a <a href="${pageContext.request.contextPath}/Views/the-thao/dai-thang-5-0-truoc-lao-malaysia-gui-loi-thach-thuc-toi-viet-nam-20221224192103764.jsp">
                   >Đại thắng 5-0 trước Lào, Malaysia gửi lời thách thức tới Việt
                   Nam</a
                 >

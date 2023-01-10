@@ -2892,7 +2892,7 @@
             >
               <div class="article-thumb">
                 <a
-                  href="#"
+                  href="${pageContext.request.contextPath}/Views/the-gioi/trung-quoc-phan-doi-dao-luat-ngan-sach-quoc-phong-moi-cua-my-20221224190411575.jsp"
                 >
                   <img
                     alt="Trung Quốc phản đối Đạo luật ngân sách quốc phòng mới của Mỹ"
@@ -2909,7 +2909,7 @@
               <div class="article-content">
                 <h3 class="article-title">
                   <a
-                    href="#"
+                    href="${pageContext.request.contextPath}/Views/the-gioi/trung-quoc-phan-doi-dao-luat-ngan-sach-quoc-phong-moi-cua-my-20221224190411575.jsp"
                     >Trung Quốc phản đối Đạo luật ngân sách quốc phòng mới của
                     Mỹ</a
                   >
@@ -2933,7 +2933,7 @@
             >
               <div class="article-thumb">
                 <a
-                  href="#"
+                  href="${pageContext.request.contextPath}/Views/the-gioi/5-vu-khi-dang-chu-y-trong-goi-vien-tro-moi-cua-my-cho-ukraine-20221223144734383.jsp"
                 >
                   <img
                     alt="5 vũ khí đáng chú ý trong gói viện trợ mới của Mỹ cho Ukraine"
@@ -2949,7 +2949,7 @@
               </div>
               <h3 class="article-title">
                 <a
-                  href="#"
+                        href="${pageContext.request.contextPath}/Views/the-gioi/5-vu-khi-dang-chu-y-trong-goi-vien-tro-moi-cua-my-cho-ukraine-20221223144734383.jsp"
                   >5 vũ khí đáng chú ý trong gói viện trợ mới của Mỹ cho
                   Ukraine</a
                 >
@@ -2995,7 +2995,7 @@
             >
               <div class="article-thumb">
                 <a
-                  href="the-gioi/chien-thuat-cua-nga-khi-dua-50-xe-tang-sat-thu-chien-truong-toi-donbass-20221224083224103.jsp"
+                  href="${pageContext.request.contextPath}/Views/the-gioi/chien-thuat-cua-nga-khi-dua-50-xe-tang-sat-thu-chien-truong-toi-donbass-20221224083224103.jsp"
                 >
                   <img
                     alt="Chiến thuật của Nga khi đưa 50 xe tăng &#34;sát thủ chiến trường&#34; tới Donbass"
@@ -3084,7 +3084,7 @@
             >
               <div class="article-thumb">
                 <a
-                  href="#"
+                  href="${pageContext.request.contextPath}/Views/the-gioi/phi-cong-ukraine-noi-co-cach-bat-bai-ten-lua-sieu-vuot-am-sat-thu-cua-nga-20221224161000810.jsp"
                 >
                   <img
                     alt="Phi công Ukraine nói có cách bắt bài tên lửa siêu vượt âm sát thủ của Nga"
@@ -3100,7 +3100,7 @@
               </div>
               <h3 class="article-title">
                 <a
-                  href="#"
+                        href="${pageContext.request.contextPath}/Views/the-gioi/phi-cong-ukraine-noi-co-cach-bat-bai-ten-lua-sieu-vuot-am-sat-thu-cua-nga-20221224161000810.jsp"
                   >Phi công Ukraine nói có cách bắt bài tên lửa siêu vượt âm sát
                   thủ của Nga</a
                 >

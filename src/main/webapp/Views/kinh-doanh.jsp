@@ -4028,7 +4028,7 @@
             >
               <div class="article-thumb">
                 <a
-                  href="#"
+                  href="${pageContext.request.contextPath}/Views/kinh-doanh/thanh-tra-xang-dau-vach-ra-mot-loat-sai-pham-co-ca-loi-cua-nha-quan-ly-20221224100422289.jsp"
                 >
                   <img
                     alt="Thanh tra xăng dầu: Vạch ra một loạt sai phạm, có cả lỗi của nhà quản lý"
@@ -4044,8 +4044,7 @@
               </div>
               <div class="article-content">
                 <h3 class="article-title">
-                  <a
-                    href="#"
+                  <a href="${pageContext.request.contextPath}/Views/kinh-doanh/thanh-tra-xang-dau-vach-ra-mot-loat-sai-pham-co-ca-loi-cua-nha-quan-ly-20221224100422289.jsp"
                     >Thanh tra xăng dầu: Vạch ra một loạt sai phạm, có cả lỗi
                     của nhà quản lý</a
                   >
@@ -4070,7 +4069,7 @@
             >
               <div class="article-thumb">
                 <a
-                  href="#"
+                  href="${pageContext.request.contextPath}/Views/kinh-doanh/thu-tuong-chi-dao-bo-cong-thuong-khong-de-thieu-hut-xang-dau-dip-tet-20221224162858354.jsp"
                 >
                   <img
                     alt="Thủ tướng chỉ đạo Bộ Công Thương không để thiếu hụt xăng dầu dịp Tết"
@@ -4100,7 +4099,7 @@
             >
               <div class="article-thumb">
                 <a
-                  href="#"
+                  href="${pageContext.request.contextPath}/Views/kinh-doanh/khach-bat-ngo-bi-rut-tien-khoi-the-tin-dung-chuyen-gia-chi-meo-phong-tranh-20221223123311491.jsp"
                 >
                   <img
                     alt="Khách bất ngờ bị rút tiền khỏi thẻ tín dụng, chuyên gia chỉ mẹo phòng tránh"
@@ -4116,7 +4115,7 @@
               </div>
               <h3 class="article-title">
                 <a
-                  href="#"
+                        href="${pageContext.request.contextPath}/Views/kinh-doanh/khach-bat-ngo-bi-rut-tien-khoi-the-tin-dung-chuyen-gia-chi-meo-phong-tranh-20221223123311491.jsp"
                   >Khách bất ngờ bị rút tiền khỏi thẻ tín dụng, chuyên gia chỉ
                   mẹo phòng tránh</a
                 >
@@ -4132,7 +4131,7 @@
             >
               <div class="article-thumb">
                 <a
-                  href="#"
+                  href="${pageContext.request.contextPath}/Views/kinh-doanh/nam-khung-khiep-cua-tien-dien-tu-bitcoin-danh-bai-moi-du-doan-20221224084259560.jsp"
                 >
                   <img
                     alt="Năm khủng khiếp của tiền điện tử: Bitcoin đánh bại mọi dự đoán"
@@ -4147,8 +4146,7 @@
                 </a>
               </div>
               <h3 class="article-title">
-                <a
-                  href="#"
+                <a href="${pageContext.request.contextPath}/Views/kinh-doanh/nam-khung-khiep-cua-tien-dien-tu-bitcoin-danh-bai-moi-du-doan-20221224084259560.jsp"
                   >Năm khủng khiếp của tiền điện tử: Bitcoin đánh bại mọi dự
                   đoán</a
                 >
@@ -4162,7 +4160,7 @@
             >
               <div class="article-thumb">
                 <a
-                  href="#"
+                  href="${pageContext.request.contextPath}/Views/kinh-doanh/gia-vang-giam-sau-dau-hieu-kha-quan-cua-kinh-te-my-20221224012650880.jsp"
                 >
                   <img
                     alt="Giá vàng giảm sau dấu hiệu khả quan của kinh tế Mỹ"
@@ -4178,7 +4176,7 @@
               </div>
               <h3 class="article-title">
                 <a
-                  href="#"
+                        href="${pageContext.request.contextPath}/Views/kinh-doanh/gia-vang-giam-sau-dau-hieu-kha-quan-cua-kinh-te-my-20221224012650880.jsp"
                   >Giá vàng giảm sau dấu hiệu khả quan của kinh tế Mỹ</a
                 >
               </h3>

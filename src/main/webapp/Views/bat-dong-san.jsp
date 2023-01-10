@@ -2522,7 +2522,7 @@
             >
               <div class="article-thumb">
                 <a
-                  href="#"
+                  href="${pageContext.request.contextPath}/Views/bat-dong-san/can-ho-chung-cu-di-nguoc-lan-song-cat-lo-20221224095943188.jsp"
                 >
                   <img
                     alt="Căn hộ chung cư đi ngược làn sóng cắt lỗ"
@@ -2539,7 +2539,7 @@
               <div class="article-content">
                 <h3 class="article-title">
                   <a
-                    href="#"
+                    href="${pageContext.request.contextPath}/Views/bat-dong-san/can-ho-chung-cu-di-nguoc-lan-song-cat-lo-20221224095943188.jsp"
                     >Căn hộ chung cư đi ngược làn sóng cắt lỗ</a
                   >
                 </h3>
@@ -2563,7 +2563,7 @@
             >
               <div class="article-thumb">
                 <a
-                  href="#"
+                  href="${pageContext.request.contextPath}/Views/bat-dong-san/cao-toc-tuyen-quang-phu-tho-dieu-chinh-dau-tu-can-them-hon-4000-ty-dong-20221223180348340.jsp"
                 >
                   <img
                     alt="Cao tốc Tuyên Quang - Phú Thọ: Điều chỉnh đầu tư cần thêm hơn 4.000 tỷ đồng"
@@ -2579,7 +2579,7 @@
               </div>
               <h3 class="article-title">
                 <a
-                  href="#"
+                  href="${pageContext.request.contextPath}/Views/bat-dong-san/cao-toc-tuyen-quang-phu-tho-dieu-chinh-dau-tu-can-them-hon-4000-ty-dong-20221223180348340.jsp"
                   >Cao tốc Tuyên Quang - Phú Thọ: Điều chỉnh đầu tư cần thêm hơn
                   4.000 tỷ đồng</a
                 >
@@ -2593,7 +2593,7 @@
             >
               <div class="article-thumb">
                 <a
-                  href="#"
+                  href="${pageContext.request.contextPath}/Views/bat-dong-san/dat-nen-giam-gia-hang-loat-chu-nha-dat-trong-pho-van-het-gia-cao-20221223140955840.jsp"
                 >
                   <img
                     alt="Đất nền giảm giá hàng loạt, chủ nhà đất trong phố vẫn hét giá cao"
@@ -2609,8 +2609,8 @@
               </div>
               <h3 class="article-title">
                 <a
-                  href="#"
-                  >Đất nền giảm giá hàng loạt, chủ nhà đất trong phố vẫn hét giá
+                        href="${pageContext.request.contextPath}/Views/bat-dong-san/dat-nen-giam-gia-hang-loat-chu-nha-dat-trong-pho-van-het-gia-cao-20221223140955840.jsp"
+                >Đất nền giảm giá hàng loạt, chủ nhà đất trong phố vẫn hét giá
                   cao</a
                 >
               </h3>

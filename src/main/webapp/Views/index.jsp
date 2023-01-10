@@ -1,4 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ taglib prefix="t" tagdir="/WEB-INF/tags" %>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <!DOCTYPE html>
 <html>
@@ -2365,6 +2367,7 @@
     </style>
 </head>
 <body>
+
 <div data-module="google-one-tap"></div>
 <div id="bannerMasthead" class="ads-masthead">
     <style>
@@ -2617,14 +2620,15 @@
                 <div class="article-content">
                     <h3 class="article-title">
                         <a
-                                href="#"
+                                href="${pageContext.request.contextPath}/Views/the-gioi/chien-thuat-cua-nga-khi-dua-50-xe-tang-sat-thu-chien-truong-toi-donbass-20221224083224103.jsp"
                         >Chiến thuật của Nga khi đưa 50 xe tăng &quot;sát thủ chiến
                             trường&quot; tới Donbass</a
                         >
                     </h3>
                     <div class="article-excerpt">
                         <a
-                                href="#"
+                                href="${pageContext.request.contextPath}/Views/the-gioi/chien-thuat-cua-nga-khi-dua-50-xe-tang-sat-thu-chien-truong-toi-donbass-20221224083224103.jsp"
+
                         >
                             Các nguồn tin từ hiện trường nói rằng Nga đã đưa 50 chiếc T-90
                             - xe tăng hiện đại hàng đầu - tới một khu vực tương đối nhỏ ở
