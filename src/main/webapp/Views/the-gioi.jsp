@@ -3128,7 +3128,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/covid-1671858769975.jpg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/covid-1671858769975.jpg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/24/covid-1671858769975.jpg 2x"
                     height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/covid-1671858769975.jpg"
                     width="252"
                   />
                 </a>
@@ -3166,7 +3166,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/afp1219190081671839948-1671866990288.jpg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/afp1219190081671839948-1671866990288.jpg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/24/afp1219190081671839948-1671866990288.jpg 2x"
                     height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/afp1219190081671839948-1671866990288.jpg"
                     width="252"
                   />
                 </a>

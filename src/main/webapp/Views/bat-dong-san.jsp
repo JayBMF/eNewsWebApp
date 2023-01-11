@@ -2757,7 +2757,8 @@
                     data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/20/z3973686325505484587caa243112136c56258dd06c9df-crop-1671528422743.jpeg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/20/z3973686325505484587caa243112136c56258dd06c9df-crop-1671528422743.jpeg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/20/z3973686325505484587caa243112136c56258dd06c9df-crop-1671528422743.jpeg 2x"
                     height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
+
+                    src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/20/z3973686325505484587caa243112136c56258dd06c9df-crop-1671528422743.jpeg"
                     width="252"
                   />
                 </a>
@@ -2796,7 +2797,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/15/chung-cu-khu-phia-tay-ha-noi-15-crop-1671064974248.jpeg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/15/chung-cu-khu-phia-tay-ha-noi-15-crop-1671064974248.jpeg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/15/chung-cu-khu-phia-tay-ha-noi-15-crop-1671064974248.jpeg 2x"
                     height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/15/chung-cu-khu-phia-tay-ha-noi-15-crop-1671064974248.jpeg"
                     width="252"
                   />
                 </a>
@@ -2834,7 +2835,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/17/dji0813-crop-1671291056957.jpeg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/17/dji0813-crop-1671291056957.jpeg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/17/dji0813-crop-1671291056957.jpeg 2x"
                     height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/17/dji0813-crop-1671291056957.jpeg"
                     width="252"
                   />
                 </a>
@@ -2873,7 +2874,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/17/dau-tu-cong-crop-crop-1671251306573.jpeg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/17/dau-tu-cong-crop-crop-1671251306573.jpeg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/17/dau-tu-cong-crop-crop-1671251306573.jpeg 2x"
                     height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/17/dau-tu-cong-crop-crop-1671251306573.jpeg"
                     width="252"
                   />
                 </a>
@@ -2925,7 +2926,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/300_200/2022/12/10/z39425802575264e44425ee6df512c49d9ee563b21cd1b-crop-crop-1670606477419.jpeg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/300_200/2022/12/10/z39425802575264e44425ee6df512c49d9ee563b21cd1b-crop-crop-1670606477419.jpeg 1x, https://icdn.dantri.com.vn/zoom/600_400/2022/12/10/z39425802575264e44425ee6df512c49d9ee563b21cd1b-crop-crop-1670606477419.jpeg 2x"
                     height="200"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 200'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/300_200/2022/12/10/z39425802575264e44425ee6df512c49d9ee563b21cd1b-crop-crop-1670606477419.jpeg"
                     width="300"
                   />
                 </a>
@@ -2953,7 +2954,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/90_60/2022/12/11/nam-2021-nguoi-dan-co-the-lam-thu-tuc-cap-so-do-tai-nha-2-crop-1670730921253.jpeg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/90_60/2022/12/11/nam-2021-nguoi-dan-co-the-lam-thu-tuc-cap-so-do-tai-nha-2-crop-1670730921253.jpeg 1x, https://icdn.dantri.com.vn/zoom/180_120/2022/12/11/nam-2021-nguoi-dan-co-the-lam-thu-tuc-cap-so-do-tai-nha-2-crop-1670730921253.jpeg 2x"
                     height="60"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 90 60'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/90_60/2022/12/11/nam-2021-nguoi-dan-co-the-lam-thu-tuc-cap-so-do-tai-nha-2-crop-1670730921253.jpeg"
                     width="90"
                   />
                 </a>
@@ -2981,7 +2982,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/90_60/2022/11/22/kdctanthinhdongnaibatdongsanhuukhoa-7-edited-1669050872288.jpeg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/90_60/2022/11/22/kdctanthinhdongnaibatdongsanhuukhoa-7-edited-1669050872288.jpeg 1x, https://icdn.dantri.com.vn/zoom/180_120/2022/11/22/kdctanthinhdongnaibatdongsanhuukhoa-7-edited-1669050872288.jpeg 2x"
                     height="60"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 90 60'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/90_60/2022/11/22/kdctanthinhdongnaibatdongsanhuukhoa-7-edited-1669050872288.jpeg"
                     width="90"
                   />
                 </a>
@@ -3009,7 +3010,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/90_60/2022/11/22/dji0597-crop-1669133750201.jpeg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/90_60/2022/11/22/dji0597-crop-1669133750201.jpeg 1x, https://icdn.dantri.com.vn/zoom/180_120/2022/11/22/dji0597-crop-1669133750201.jpeg 2x"
                     height="60"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 90 60'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/90_60/2022/11/22/dji0597-crop-1669133750201.jpeg"
                     width="90"
                   />
                 </a>
@@ -3037,7 +3038,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/90_60/2022/11/19/4-edited-1668869677191.jpeg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/90_60/2022/11/19/4-edited-1668869677191.jpeg 1x, https://icdn.dantri.com.vn/zoom/180_120/2022/11/19/4-edited-1668869677191.jpeg 2x"
                     height="60"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 90 60'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/90_60/2022/11/19/4-edited-1668869677191.jpeg"
                     width="90"
                   />
                 </a>

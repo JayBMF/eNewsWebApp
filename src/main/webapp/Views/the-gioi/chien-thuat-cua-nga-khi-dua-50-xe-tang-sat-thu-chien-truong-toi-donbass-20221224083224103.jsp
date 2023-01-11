@@ -3494,7 +3494,7 @@
                 <figure class="image align-center" contenteditable="false">
                   <img
                     title="Chiến thuật của Nga khi đưa 50 xe tăng sát thủ chiến trường tới Donbass - 1"
-                    src="https://icdn.dantri.com.vn/thumb_w/680/2022/12/24/t90-1505122875203-1671845032576.jpg"
+                    src="https://icdn.dantri.com.vn/2022/12/24/t90-1505122875203-1671845032576.jpg"
                     alt="Chiến thuật của Nga khi đưa 50 xe tăng sát thủ chiến trường tới Donbass - 1"
                     data-width="640"
                     data-height="346"
@@ -3554,7 +3554,7 @@
                 <figure class="image align-center" contenteditable="false">
                   <img
                     title="Chiến thuật của Nga khi đưa 50 xe tăng sát thủ chiến trường tới Donbass - 2"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 600 610'%2F%3E"
+                    src="https://icdn.dantri.com.vn/2022/12/24/20220917eum974-edited-edited-1671845263832.jpeg"
                     alt="Chiến thuật của Nga khi đưa 50 xe tăng sát thủ chiến trường tới Donbass - 2"
                     data-width="600"
                     data-height="610"
@@ -3641,7 +3641,7 @@
                       data-src="https://icdn.dantri.com.vn/zoom/135_90/2022/12/24/phaotuhanhbakhmutukraineap-1670487482006-1671840461036.jpg"
                       data-srcset="https://icdn.dantri.com.vn/zoom/135_90/2022/12/24/phaotuhanhbakhmutukraineap-1670487482006-1671840461036.jpg 1x, https://icdn.dantri.com.vn/zoom/270_180/2022/12/24/phaotuhanhbakhmutukraineap-1670487482006-1671840461036.jpg 2x"
                       height="90"
-                      src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 135 90'%2F%3E"
+                      src="https://icdn.dantri.com.vn/zoom/135_90/2022/12/24/phaotuhanhbakhmutukraineap-1670487482006-1671840461036.jpg"
                       width="135"
                     />
                   </a>
@@ -3681,7 +3681,7 @@
                       data-src="https://icdn.dantri.com.vn/zoom/135_90/2022/12/16/canhophahuydoneskreuters-crop-1671189422217.jpeg"
                       data-srcset="https://icdn.dantri.com.vn/zoom/135_90/2022/12/16/canhophahuydoneskreuters-crop-1671189422217.jpeg 1x, https://icdn.dantri.com.vn/zoom/270_180/2022/12/16/canhophahuydoneskreuters-crop-1671189422217.jpeg 2x"
                       height="90"
-                      src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 135 90'%2F%3E"
+                      src="https://icdn.dantri.com.vn/zoom/135_90/2022/12/16/canhophahuydoneskreuters-crop-1671189422217.jpeg"
                       width="135"
                     />
                   </a>
@@ -3720,7 +3720,7 @@
                       data-src="https://icdn.dantri.com.vn/zoom/135_90/2022/12/15/nga-tap-kich-doan-xe-quan-su-crop-1671076559346.jpeg"
                       data-srcset="https://icdn.dantri.com.vn/zoom/135_90/2022/12/15/nga-tap-kich-doan-xe-quan-su-crop-1671076559346.jpeg 1x, https://icdn.dantri.com.vn/zoom/270_180/2022/12/15/nga-tap-kich-doan-xe-quan-su-crop-1671076559346.jpeg 2x"
                       height="90"
-                      src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 135 90'%2F%3E"
+                      src="https://icdn.dantri.com.vn/zoom/135_90/2022/12/15/nga-tap-kich-doan-xe-quan-su-crop-1671076559346.jpeg"
                       width="135"
                     />
                   </a>

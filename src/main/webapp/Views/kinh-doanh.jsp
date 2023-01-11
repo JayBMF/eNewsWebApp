@@ -4085,7 +4085,7 @@
               </div>
               <h3 class="article-title">
                 <a
-                  href="#"
+                  href="${pageContext.request.contextPath}/Views/kinh-doanh/thu-tuong-chi-dao-bo-cong-thuong-khong-de-thieu-hut-xang-dau-dip-tet-20221224162858354.jsp"
                   >Thủ tướng chỉ đạo Bộ Công Thương không để thiếu hụt xăng dầu
                   dịp Tết</a
                 >
@@ -4261,7 +4261,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/23/may-bay-1671783640970.jpg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/23/may-bay-1671783640970.jpg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/23/may-bay-1671783640970.jpg 2x"
                     height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/23/may-bay-1671783640970.jpg"
                     width="252"
                   />
                 </a>
@@ -4299,7 +4299,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/04/01/chung-khoanckhsxhnxhuu-khoa5-crop-crop-1648824937700.jpeg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/04/01/chung-khoanckhsxhnxhuu-khoa5-crop-crop-1648824937700.jpeg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/04/01/chung-khoanckhsxhnxhuu-khoa5-crop-crop-1648824937700.jpeg 2x"
                     height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/252_168/2022/04/01/chung-khoanckhsxhnxhuu-khoa5-crop-crop-1648824937700.jpeg"
                     width="252"
                   />
                 </a>
@@ -4337,7 +4337,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/23/nmq1144-edited-1671779536230.jpeg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/23/nmq1144-edited-1671779536230.jpeg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/23/nmq1144-edited-1671779536230.jpeg 2x"
                     height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/23/nmq1144-edited-1671779536230.jpeg"
                     width="252"
                   />
                 </a>
