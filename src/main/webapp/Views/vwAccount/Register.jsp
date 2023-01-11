@@ -57,7 +57,7 @@
 
           <h5 class="mt-4">Personal Information</h5>
           <div class="form-group">
-            <label for="txtName">Name</label>
+            <label for="txtName">Bút Danh</label>
             <input type="text" class="form-control" id="txtName" name="name">
           </div>
           <div class="form-group">

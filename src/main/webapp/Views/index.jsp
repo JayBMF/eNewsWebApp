@@ -2646,7 +2646,7 @@
             >
                 <div class="article-thumb">
                     <a
-                            href="#"
+                            href="${pageContext.request.contextPath}/Views/xa-hoi/khong-khi-nguoi-dan-don-giang-sinh-vui-tuoi-am-ap-tren-khap-ca-nuoc-20221224200034706.jsp"
                     >
                         <img
                                 alt="Không khí người dân đón Giáng sinh vui tươi, ấm áp trên khắp cả nước"
@@ -2662,7 +2662,7 @@
                 </div>
                 <h3 class="article-title">
                     <a
-                            href="#"
+                            href="${pageContext.request.contextPath}/Views/xa-hoi/khong-khi-nguoi-dan-don-giang-sinh-vui-tuoi-am-ap-tren-khap-ca-nuoc-20221224200034706.jsp"
                     >Không khí người dân đón Giáng sinh vui tươi, ấm áp trên khắp cả
                         nước</a
                     >
@@ -2681,7 +2681,7 @@
                     <div class="article-content">
                         <h3 class="article-title">
                             <a
-                                    href="#"
+                                    href="${pageContext.request.contextPath}/Views/xa-hoi/truyen-thong-ve-nguoi-tot-viec-tot-la-mot-su-menh-lon-lao-cua-bao-chi-20221224191050762.jsp"
                             >Truyền thông về người tốt, việc tốt là một sứ mệnh lớn lao
                                 của báo chí</a
                             >
@@ -2689,7 +2689,7 @@
                     </div>
                     <div class="article-thumb">
                         <a
-                                href="#"
+                                href="${pageContext.request.contextPath}/Views/xa-hoi/truyen-thong-ve-nguoi-tot-viec-tot-la-mot-su-menh-lon-lao-cua-bao-chi-20221224191050762.jsp"
                         >
                             <img
                                     alt="Truyền thông về người tốt, việc tốt là một sứ mệnh lớn lao của báo chí"
@@ -2714,8 +2714,7 @@
                 <div class="article-container">
                     <div class="article-content">
                         <h3 class="article-title">
-                            <a
-                                    href="#"
+                            <a href="${pageContext.request.contextPath}/Views/the-gioi/5-vu-khi-dang-chu-y-trong-goi-vien-tro-moi-cua-my-cho-ukraine-20221223144734383.jsp"
                             >5 vũ khí đáng chú ý trong gói viện trợ mới của Mỹ cho
                                 Ukraine</a
                             >
@@ -2723,7 +2722,7 @@
                     </div>
                     <div class="article-thumb">
                         <a
-                                href="#"
+                                href="${pageContext.request.contextPath}/Views/the-gioi/5-vu-khi-dang-chu-y-trong-goi-vien-tro-moi-cua-my-cho-ukraine-20221223144734383.jsp"
                         >
                             <img
                                     alt="5 vũ khí đáng chú ý trong gói viện trợ mới của Mỹ cho Ukraine"
@@ -2750,14 +2749,14 @@
                     <div class="article-content">
                         <h3 class="article-title">
                             <a
-                                    href="#"
+                                    href="${pageContext.request.contextPath}/Views/xa-hoi/khoi-cong-nha-ga-t3-san-bay-tan-son-nhat-20221224192522724.jsp"
                             >Khởi công Nhà ga T3 sân bay Tân Sơn Nhất</a
                             >
                         </h3>
                     </div>
                     <div class="article-thumb">
                         <a
-                                href="#"
+                                href="${pageContext.request.contextPath}/Views/xa-hoi/khoi-cong-nha-ga-t3-san-bay-tan-son-nhat-20221224192522724.jsp"
                         >
                             <img
                                     alt="Khởi công Nhà ga T3 sân bay Tân Sơn Nhất"
@@ -2901,7 +2900,7 @@
             >
                 <div class="article-thumb">
                     <a
-                            href="#"
+                            href="${pageContext.request.contextPath}/Views/the-thao/dai-thang-5-0-truoc-lao-malaysia-gui-loi-thach-thuc-toi-viet-nam-20221224192103764.jsp"
                     >
                         <img
                                 alt="Đại thắng 5-0 trước Lào, Malaysia gửi lời thách thức tới Việt Nam"
@@ -2916,7 +2915,7 @@
                 </div>
                 <h3 class="article-title">
                     <a
-                            href="#"
+                            href="${pageContext.request.contextPath}/Views/the-thao/dai-thang-5-0-truoc-lao-malaysia-gui-loi-thach-thuc-toi-viet-nam-20221224192103764.jsp"
                     >Đại thắng 5-0 trước Lào, Malaysia gửi lời thách thức tới Việt
                         Nam</a
                     >
@@ -2930,7 +2929,7 @@
             >
                 <div class="article-thumb">
                     <a
-                            href="#"
+                            href="${pageContext.request.contextPath}/Views/the-gioi/phi-cong-ukraine-noi-co-cach-bat-bai-ten-lua-sieu-vuot-am-sat-thu-cua-nga-20221224161000810.jsp"
                     >
                         <img
                                 alt="Phi công Ukraine nói có cách bắt bài tên lửa siêu vượt âm sát thủ của Nga"
@@ -2944,7 +2943,7 @@
                 </div>
                 <h3 class="article-title">
                     <a
-                            href="#"
+                            href="${pageContext.request.contextPath}/Views/the-gioi/phi-cong-ukraine-noi-co-cach-bat-bai-ten-lua-sieu-vuot-am-sat-thu-cua-nga-20221224161000810.jsp"
                     >Phi công Ukraine nói có cách bắt bài tên lửa siêu vượt âm sát
                         thủ của Nga</a
                     >
@@ -2959,7 +2958,7 @@
             >
                 <div class="article-thumb">
                     <a
-                            href="#"
+                            href="${pageContext.request.contextPath}/Views/the-thao/top-10-ngoi-sao-tang-gia-manh-nhat-sau-world-cup-2022-20221224195638512.jsp"
                     >
                         <img
                                 alt="Top 10 ngôi sao tăng giá mạnh nhất sau World Cup 2022"
@@ -2973,7 +2972,7 @@
                 </div>
                 <h3 class="article-title">
                     <a
-                            href="#"
+                            href="${pageContext.request.contextPath}/Views/the-thao/top-10-ngoi-sao-tang-gia-manh-nhat-sau-world-cup-2022-20221224195638512.jsp"
                     >Top 10 ngôi sao tăng giá mạnh nhất sau World Cup 2022</a
                     >
                 </h3>
@@ -3324,14 +3323,14 @@
                 <div class="article-content">
                     <h3 class="article-title">
                         <a
-                                href="#"
+                                href="${pageContext.request.contextPath}/Views/the-gioi/the-tran-giang-co-tren-chien-truong-ukraine-sau-10-thang-xung-dot-khoc-liet-20221223160208680.jsp"
                         >Thế trận giằng co trên chiến trường Ukraine sau 10 tháng xung
                             đột khốc liệt</a
                         >
                     </h3>
                     <div class="article-excerpt">
                         <a
-                                href="#"
+                                    href="${pageContext.request.contextPath}/Views/the-gioi/the-tran-giang-co-tren-chien-truong-ukraine-sau-10-thang-xung-dot-khoc-liet-20221223160208680.jsp"
                         >
                             Khi xung đột sắp bước sang năm thứ hai, Kiev sẽ gặp nhiều
                             thách thức hơn trong việc giành lại lãnh thổ, trong bối...
@@ -3491,8 +3490,7 @@
                             data-track-content=""
                     >
                         <div class="article-thumb">
-                            <a
-                                    href="#"
+                            <a href="${pageContext.request.contextPath}/Views/xa-hoi/khong-khi-nguoi-dan-don-giang-sinh-vui-tuoi-am-ap-tren-khap-ca-nuoc-20221224200034706.jsp"
                             >
                                 <img
                                         alt="Không khí người dân đón Giáng sinh vui tươi, ấm áp trên khắp cả nước"
@@ -3505,8 +3503,7 @@
                             </a>
                         </div>
                         <h3 class="article-title">
-                            <a
-                                    href="#"
+                            <a href="${pageContext.request.contextPath}/Views/xa-hoi/khong-khi-nguoi-dan-don-giang-sinh-vui-tuoi-am-ap-tren-khap-ca-nuoc-20221224200034706.jsp"
                             >Không khí người dân đón Giáng sinh vui tươi, ấm áp trên
                                 khắp cả nước</a
                             >
@@ -4212,7 +4209,7 @@
                     >
                         <div class="spotlight-thumb">
                             <a
-                                    href="#"
+                                    href="${pageContext.request.contextPath}/Views/xa-hoi/khong-khi-nguoi-dan-don-giang-sinh-vui-tuoi-am-ap-tren-khap-ca-nuoc-20221224200034706.jsp"
                             >
                                 <img
                                         alt="Không khí người dân đón Giáng sinh vui tươi, ấm áp trên khắp cả nước"
@@ -4231,7 +4228,7 @@
                         </div>
                         <h3 class="spotlight-title">
                             <a
-                                    href="#"
+                                    href="${pageContext.request.contextPath}/Views/xa-hoi/khong-khi-nguoi-dan-don-giang-sinh-vui-tuoi-am-ap-tren-khap-ca-nuoc-20221224200034706.jsp"
                             >Không khí người dân đón Giáng sinh vui tươi, ấm áp trên
                                 khắp cả nước</a
                             >
