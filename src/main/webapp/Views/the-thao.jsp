@@ -3163,7 +3163,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/martinez-3-1671854500963.jpg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/martinez-3-1671854500963.jpg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/24/martinez-3-1671854500963.jpg 2x"
                     height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/martinez-3-1671854500963.jpg"
                     width="252"
                   />
                 </a>
@@ -3198,7 +3198,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/21/vn-lao1k21-12-22-1671638826149.jpg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/21/vn-lao1k21-12-22-1671638826149.jpg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/21/vn-lao1k21-12-22-1671638826149.jpg 2x"
                     height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/21/vn-lao1k21-12-22-1671638826149.jpg"
                     width="252"
                   />
                 </a>
@@ -3233,7 +3233,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/22/vn1k22-12-22-1671686995202.jpg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/22/vn1k22-12-22-1671686995202.jpg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/22/vn1k22-12-22-1671686995202.jpg 2x"
                     height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/22/vn1k22-12-22-1671686995202.jpg"
                     width="252"
                   />
                 </a>
@@ -3267,7 +3267,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/65884459-0-image-a-141671803415274-1671856063077.jpg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/65884459-0-image-a-141671803415274-1671856063077.jpg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/24/65884459-0-image-a-141671803415274-1671856063077.jpg 2x"
                     height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/65884459-0-image-a-141671803415274-1671856063077.jpg"
                     width="252"
                   />
                 </a>
@@ -3301,7 +3301,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/16718038763166-1671854250137.jpg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/16718038763166-1671854250137.jpg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/24/16718038763166-1671854250137.jpg 2x"
                     height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/16718038763166-1671854250137.jpg"
                     width="252"
                   />
                 </a>
@@ -3337,7 +3337,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/dimaria1-1671844130695.jpg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/dimaria1-1671844130695.jpg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/24/dimaria1-1671844130695.jpg 2x"
                     height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/dimaria1-1671844130695.jpg"
                     width="252"
                   />
                 </a>
@@ -3372,7 +3372,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/richarlison-crop-1671850618561.jpeg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/richarlison-crop-1671850618561.jpeg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/24/richarlison-crop-1671850618561.jpeg 2x"
                     height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/richarlison-crop-1671850618561.jpeg"
                     width="252"
                   />
                   <div class="article-ico"><i class="video"></i></div>
@@ -3406,7 +3406,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/hlv-shindocx-1671839564820.jpeg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/hlv-shindocx-1671839564820.jpeg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/24/hlv-shindocx-1671839564820.jpeg 2x"
                     height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/hlv-shindocx-1671839564820.jpeg"
                     width="252"
                   />
                 </a>
@@ -3440,7 +3440,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/fbimg1671391520716-16713916023161628891984-1671816081900.jpg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/fbimg1671391520716-16713916023161628891984-1671816081900.jpg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/24/fbimg1671391520716-16713916023161628891984-1671816081900.jpg 2x"
                     height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/24/fbimg1671391520716-16713916023161628891984-1671816081900.jpg"
                     width="252"
                   />
                 </a>
@@ -3475,7 +3475,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/23/messi6-crop-1671810189696.jpeg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/23/messi6-crop-1671810189696.jpeg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/23/messi6-crop-1671810189696.jpeg 2x"
                     height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/23/messi6-crop-1671810189696.jpeg"
                     width="252"
                   />
                 </a>
@@ -3510,7 +3510,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/21/dtvn-edited-1671631813936.jpeg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/21/dtvn-edited-1671631813936.jpeg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/21/dtvn-edited-1671631813936.jpeg 2x"
                     height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/21/dtvn-edited-1671631813936.jpeg"
                     width="252"
                   />
                 </a>
@@ -3541,7 +3541,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/19/messi-78-1671431075671.jpg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/19/messi-78-1671431075671.jpg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/19/messi-78-1671431075671.jpg 2x"
                     height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/19/messi-78-1671431075671.jpg"
                     width="252"
                   />
                 </a>
@@ -3576,7 +3576,8 @@
                     data-src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/23/hlv-malaysiadocx-1671802226899.jpeg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/252_168/2022/12/23/hlv-malaysiadocx-1671802226899.jpeg 1x, https://icdn.dantri.com.vn/zoom/504_336/2022/12/23/hlv-malaysiadocx-1671802226899.jpeg 2x"
                     height="168"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 252 168'%2F%3E"
+
+                    src="https://icdn.dantri.com.vn/zoom/252_168/2022/12/23/hlv-malaysiadocx-1671802226899.jpeg"
                     width="252"
                   />
                 </a>
@@ -3632,7 +3633,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/300_200/2022/12/21/traoqua2-1671610911122.jpg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/300_200/2022/12/21/traoqua2-1671610911122.jpg 1x, https://icdn.dantri.com.vn/zoom/600_400/2022/12/21/traoqua2-1671610911122.jpg 2x"
                     height="200"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 200'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/300_200/2022/12/21/traoqua2-1671610911122.jpg"
                     width="300"
                   />
                 </a>
@@ -3657,7 +3658,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/90_60/2022/12/20/thumb-1671533806888.jpg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/90_60/2022/12/20/thumb-1671533806888.jpg 1x, https://icdn.dantri.com.vn/zoom/180_120/2022/12/20/thumb-1671533806888.jpg 2x"
                     height="60"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 90 60'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/90_60/2022/12/20/thumb-1671533806888.jpg"
                     width="90"
                   />
                 </a>
@@ -3682,7 +3683,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/90_60/2022/12/21/dtvn-edited-1671632234024.jpeg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/90_60/2022/12/21/dtvn-edited-1671632234024.jpeg 1x, https://icdn.dantri.com.vn/zoom/180_120/2022/12/21/dtvn-edited-1671632234024.jpeg 2x"
                     height="60"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 90 60'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/90_60/2022/12/21/dtvn-edited-1671632234024.jpeg"
                     width="90"
                   />
                   <div class="article-ico"><i class="video"></i></div>
@@ -3708,7 +3709,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/90_60/2022/12/20/messi-1671524069341.jpg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/90_60/2022/12/20/messi-1671524069341.jpg 1x, https://icdn.dantri.com.vn/zoom/180_120/2022/12/20/messi-1671524069341.jpg 2x"
                     height="60"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 90 60'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/90_60/2022/12/20/messi-1671524069341.jpg"
                     width="90"
                   />
                   <div class="article-ico"><i class="video"></i></div>
@@ -3734,7 +3735,7 @@
                     data-src="https://icdn.dantri.com.vn/zoom/90_60/2022/12/21/ukraine-14-1671555568607-1671587495103.jpg"
                     data-srcset="https://icdn.dantri.com.vn/zoom/90_60/2022/12/21/ukraine-14-1671555568607-1671587495103.jpg 1x, https://icdn.dantri.com.vn/zoom/180_120/2022/12/21/ukraine-14-1671555568607-1671587495103.jpg 2x"
                     height="60"
-                    src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 90 60'%2F%3E"
+                    src="https://icdn.dantri.com.vn/zoom/90_60/2022/12/21/ukraine-14-1671555568607-1671587495103.jpg"
                     width="90"
                   />
                   <div class="article-ico"><i class="photo"></i></div>
@@ -3754,108 +3755,7 @@
 
       <div id="desktop-center-2" class="mdbl"></div>
     </main>
-<<<<<<< HEAD
-=======
 
-    <script>
-      window.DT_GLOBAL = window.DT_GLOBAL || {};
-      window.DT_GLOBAL.trackingNames = {
-        BANNER: "banners-position_{0}-zone_{1}",
-        HOME_EVENTS: "home-events",
-        HOME_HIGHLIGHTS: "home-highlights",
-        HOME_SPECIALS: "home-specials",
-        HOME_CATEGORY_HIGHLIGHTS: "home-category_highlights",
-        HOME_TOP_SPOTLIGHTS: "home-top-spotlights",
-        HOME_CATEGORY: "home-category_{0}",
-        HOME_SPOTLIGHTS: "home-spotlights",
-        HOME_MEDIA: "home-media",
-        CATEGORY_HIGHLIGHTS: "category-highlights",
-        CATEGORY_TIMELINE: "category-timeline_page_{0}",
-        CATEGORY_CHILDREN: "category-children",
-        CATEGORY_MEDIA: "category-media",
-        CATEGORY_POPULAR: "category-popular",
-        ARTICLE_ACTIONS: "article-actions",
-        ARTICLE_BREADCRUMB: "article-breadcrumb",
-        ARTICLE_TAGS: "article-tags",
-        ARTICLE_RELATED: "article-related",
-        ARTICLE_POPULAR: "article-popular",
-        ARTICLE_RECOMMEND: "article-recommend",
-        ARTICLE_RECOMMEND_2: "article-recommend-2",
-        ARTICLE_CONTENT_IMAGE: "article-content-image",
-        ARTICLE_CONTENT_AUTOLINK: "article-content-autolink",
-        EMBEDBOX_HOME: "embed_box-type_{0}-home",
-        EMBEDBOX_CATEGORY: "embed_box-type_{0}-category_{1}",
-        THREAD_EMBEDBOX_HOME: "thread-embed_box-type_{0}-home",
-        THREAD_EMBEDBOX_CATEGORY: "thread-embed_box-type_{0}-category_{1}",
-      };
-      window.DT_GLOBAL.trackingPieces = {
-        BANNER: "banners-banner_{0}",
-        HOME_EVENTS: "home-events-position_{0}",
-        HOME_HIGHLIGHTS: "home-highlights-position_{0}",
-        HOME_SPECIALS: "home-specials-position_{0}",
-        HOME_CATEGORY_HIGHLIGHTS: "home-category_highlights-position_{0}",
-        HOME_TOP_SPOTLIGHTS: "home-top-spotlights-position_{0}",
-        HOME_CATEGORY: "home-category_{0}-position_{1}",
-        HOME_SPOTLIGHTS: "home-spotlights-position_{0}",
-        HOME_MEDIA: "home-media-position_{0}",
-        CATEGORY_HIGHLIGHTS: "category-highlights-position_{0}",
-        CATEGORY_TIMELINE: "category-timeline_page_{0}-position_{1}",
-        CATEGORY_CHILDREN: "category-children-position_{0}_{1}",
-        CATEGORY_MEDIA: "category-media-position_{0}",
-        CATEGORY_POPULAR: "category-popular-position_{0}",
-        ARTICLE_CONTENT_IMAGE: "article-content-image_{0}",
-        ARTICLE_CONTENT_AUTOLINK: "article-content-autolink_{0}",
-        ARTICLE_ACTIONS: "article-actions-{0}",
-        ARTICLE_BREADCRUMB: "article-breadcrumb-position_{0}",
-        ARTICLE_TAGS: "article-tags-position_{0}",
-        ARTICLE_RELATED: "article-related-position_{0}",
-        ARTICLE_POPULAR: "article-popular-position_{0}",
-        ARTICLE_RECOMMEND: "article-recommend-position_{0}",
-        ARTICLE_RECOMMEND_2: "article-recommend-2-position_{0}",
-        EMBEDBOX_HOME: "embed_box-type_{0}-home-article_{1}",
-        EMBEDBOX_CATEGORY: "embed_box-type_{0}-category_{1}-article_{2}",
-        THREAD_EMBEDBOX_HOME: "thread-embed_box-type_{0}-home-thread_{1}",
-        THREAD_EMBEDBOX_CATEGORY:
-          "thread-embed_box-type_{0}-category_{1}-thread_{2}",
-      };
-      window.DT_GLOBAL.ForceDisableVideoAds = 0;
-      window.DT_GLOBAL.vastUrl =
-        "https://pubads.g.doubleclick.net/gampad/ads?iu=/21899300285/dtadnetwork/desktop_video&amp;description_url=[placeholder]&amp;tfcd=0&amp;npa=0&amp;ad_type=audio_video&amp;sz=400x300%7C640x360%7C640x480&amp;ciu_szs=970x90%2C728x90%2C300x50%2C320x50%2C468x60&amp;gdfp_req=1&amp;output=vast&amp;unviewed_position_start=1&amp;env=vp&amp;impl=s&amp;correlator=";
-      window.DT_GLOBAL.wConfigCustomLazyLoad = null;
-    </script>
-    <script defer src="../cdnweb/dist/common.js"></script>
-    <script defer src="../localhost_3004/hot-reload.js"></script>
-    <script defer src="../localhost_3004/chuyen-muc.js"></script>
-    <script type="application/ld+json">
-      {
-        "@context": "http://schema.org",
-        "@type": "Organization",
-        "name": "Báo Dân Trí",
-        "url": "https://dantri.com.vn",
-        "slogan": "Tin tức Việt Nam và quốc tế nóng, nhanh, cập nhật 24h",
-        "logo": "https://cdnweb.dantri.com.vn/images/logo.svg",
-        "email": "info@dantri.com.vn",
-        "additionalType": "https://vi.wikipedia.org/wiki/B%C3%A1o_%C4%91i%E1%BB%87n_t%E1%BB%AD",
-        "sameAs": [
-          "https://www.facebook.com/baodantridientu",
-          "https://vi.wikipedia.org/wiki/D%C3%A2n_tr%C3%AD_(b%C3%A1o)"
-        ],
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "Nhà 48, ngõ 2 Giảng Võ, Cát Linh, Đống Đa",
-          "addressLocality": "Hà Nội"
-        },
-        "contactPoint": [
-          {
-            "@type": "ContactPoint",
-            "telephone": "+842437366491",
-            "contactOption": "TollFree",
-            "contactType": "customer service",
-            "areaServed": "VN"
-          }
-        ]
-      }
-    </script>
->>>>>>> origin/master
+
   </body>
 </html>
