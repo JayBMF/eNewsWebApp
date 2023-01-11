@@ -2361,18 +2361,18 @@
     <header class="header container bg-wrap">
       <div class="header-top flex-jcb">
         <h1 class="header-logo dtnewyear flex-jcc">
-<<<<<<< HEAD
+
           <a aria-label="" href="index.jsp">
             <img
               alt=""
-=======
+
           <a
             aria-label="Báo điện tử - Tin tức cập nhật liên tục 24/7"
             href="index.html"
           >
             <img
               alt="Báo điện tử - Tin tức cập nhật liên tục 24/7"
->>>>>>> origin/master
+
               height="40"
               src="../icdn/2022/12/14/2-1671004462496.png"
               width="0"
@@ -2380,23 +2380,21 @@
           </a>
         </h1>
         <div class="header-area flex-jcb">
-<<<<<<< HEAD
+
           <a class="international flex-jcc" href="#" target="_blank">
             Đăng Nhập
-=======
-          <a
-            class="international flex-jcc"
-            href="http://dtinews.vn/Default.aspx?lang=en"
-            target="_blank"
-          >
-            <img
-              height="26"
-              src="../cdnweb/dist/static-avatar-default.1-0-1.b474c6ca2d1abee5b89b.png"
-              width="26"
-            />
-            International Version
->>>>>>> origin/master
-          </a>
+
+<%--          <a--%>
+<%--            class="international flex-jcc"--%>
+<%--            href="http://dtinews.vn/Default.aspx?lang=en"--%>
+<%--            target="_blank"--%>
+<%--          >--%>
+<%--            <img--%>
+<%--              height="26"--%>
+<%--              src="../cdnweb/dist/static-avatar-default.1-0-1.b474c6ca2d1abee5b89b.png"--%>
+<%--              width="26"--%>
+<%--            />--%>
+<%--          </a>--%>
 
           <div data-module="authen-header"></div>
           <a class="search-link" href="#">
@@ -2429,13 +2427,13 @@
       <ol class="menu-wrap bg-wrap">
         <li class="home">
           <a
-<<<<<<< HEAD
+
             aria-label="Báo điện tử - Tin tức cập nhật liên tục 24/7"
             href="index.jsp"
-=======
-            aria-label="Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"
-            href="index.html"
->>>>>>> origin/master
+
+<%--            aria-label="Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7"--%>
+<%--            href="index.html"--%>
+
           >
             <svg
               aria-hidden="true"
@@ -2476,11 +2474,8 @@
           </ol>
         </li>
         <li class="has-child">
-<<<<<<< HEAD
           <a href="the-gioi.jsp">Thế giới</a>
-=======
-          <a href="the-gioi.html">Thế giới</a>
->>>>>>> origin/master
+<%--          <a href="the-gioi.html">Thế giới</a>--%>
           <ol class="submenu">
             <li><a href="#">Quân sự</a></li>
             <li>
@@ -2494,11 +2489,8 @@
           </ol>
         </li>
         <li class="has-child">
-<<<<<<< HEAD
           <a href="kinh-doanh.jsp">Kinh doanh</a>
-=======
-          <a href="kinh-doanh.html">Kinh doanh</a>
->>>>>>> origin/master
+<%--          <a href="kinh-doanh.html">Kinh doanh</a>--%>
           <ol class="submenu">
             <li><a href="#">Tài chính</a></li>
 
@@ -2508,11 +2500,8 @@
           </ol>
         </li>
         <li class="has-child">
-<<<<<<< HEAD
           <a href="bat-dong-san.jsp">Bất động sản</a>
-=======
-          <a href="bat-dong-san.html">Bất động sản</a>
->>>>>>> origin/master
+<%--          <a href="bat-dong-san.html">Bất động sản</a>--%>
           <ol class="submenu">
             <li><a href="#">Dự án</a></li>
             <li><a href="#">Thị trường</a></li>
@@ -2525,11 +2514,8 @@
           </ol>
         </li>
         <li class="has-child">
-<<<<<<< HEAD
           <a href="the-thao.jsp">Thể thao</a>
-=======
-          <a href="the-thao.html">Thể thao</a>
->>>>>>> origin/master
+<%--          <a href="the-thao.html">Thể thao</a>--%>
           <ol class="submenu">
             <li><a href="#">AFF Cup 2022</a></li>
             <li><a href="#">World Cup 2022</a></li>
@@ -2545,8 +2531,6 @@
           </ol>
         </li>
       </ol>
-<<<<<<< HEAD
-=======
       <div class="nav-full bg-wrap">
         <div class="nf-wrap container">
           <ol class="nf-menu">
@@ -2947,16 +2931,12 @@
           </div>
         </div>
       </div>
->>>>>>> origin/master
     </nav>
     <main class="body container">
       <div class="title-container flex-jcb">
         <div class="title-breadcrumbs">
-<<<<<<< HEAD
           <h1 class="title-page"><a href="the-thao.jsp">Thể thao</a></h1>
-=======
           <h1 class="title-page"><a href="the-thao.html">Thể thao</a></h1>
->>>>>>> origin/master
         </div>
       </div>
 
@@ -2985,7 +2965,7 @@
               </div>
               <div class="article-content">
                 <h3 class="article-title">
-                  <a <a href="${pageContext.request.contextPath}/Views/the-thao/quang-hai-chay-dua-voi-thoi-gian-truoc-tran-gap-malaysia-20221224200553135.jsp">
+                  <a href="${pageContext.request.contextPath}/Views/the-thao/quang-hai-chay-dua-voi-thoi-gian-truoc-tran-gap-malaysia-20221224200553135.jsp">
                     >Quang Hải chạy đua với thời gian trước trận gặp Malaysia</a
                   >
                 </h3>
