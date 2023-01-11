@@ -3047,7 +3047,7 @@
                 </a>
               </div>
               <h3 class="article-title">
-                <a <a href="${pageContext.request.contextPath}/Views/the-thao/dai-thang-5-0-truoc-lao-malaysia-gui-loi-thach-thuc-toi-viet-nam-20221224192103764.jsp">
+                 <a href="${pageContext.request.contextPath}/Views/the-thao/dai-thang-5-0-truoc-lao-malaysia-gui-loi-thach-thuc-toi-viet-nam-20221224192103764.jsp">
                   >Đại thắng 5-0 trước Lào, Malaysia gửi lời thách thức tới Việt
                   Nam</a
                 >
@@ -3062,7 +3062,7 @@
               data-track-content=""
             >
               <div class="article-thumb">
-                <a href="#">
+                <a href="${pageContext.request.contextPath}/Views/the-thao/khung-thanh-san-my-dinh-duoc-bat-vit-chac-chan-truoc-tran-gap-malaysia-20221224181223256.jsp">
                   <img
                     alt="Khung thành sân Mỹ Đình được bắt vít chắc chắn trước trận gặp Malaysia"
                     height="124"
@@ -3076,7 +3076,7 @@
                 </a>
               </div>
               <h3 class="article-title">
-                <a href="#"
+                <a href="${pageContext.request.contextPath}/Views/the-thao/khung-thanh-san-my-dinh-duoc-bat-vit-chac-chan-truoc-tran-gap-malaysia-20221224181223256.jsp"
                   >Khung thành sân Mỹ Đình được bắt vít chắc chắn trước trận gặp
                   Malaysia</a
                 >
@@ -3116,7 +3116,7 @@
               data-track-content=""
             >
               <div class="article-thumb">
-                <a href="#">
+                <a href="${pageContext.request.contextPath}/Views/the-thao/dong-thai-bat-ngo-cua-hlv-ten-hag-voi-nha-vo-dich-world-cup-20221224114853215.jsp">
                   <img
                     alt="Động thái bất ngờ của HLV Ten Hag với nhà vô địch World Cup"
                     height="124"
@@ -3130,7 +3130,7 @@
                 </a>
               </div>
               <h3 class="article-title">
-                <a href="#"
+                <a href="${pageContext.request.contextPath}/Views/the-thao/dong-thai-bat-ngo-cua-hlv-ten-hag-voi-nha-vo-dich-world-cup-20221224114853215.jsp"
                   >Động thái bất ngờ của HLV Ten Hag với nhà vô địch World
                   Cup</a
                 >

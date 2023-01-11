@@ -2655,7 +2655,7 @@
             >
               <div class="article-thumb">
                 <a
-                  href="#"
+                  href="${pageContext.request.contextPath}/Views/bat-dong-san/gia-chung-cu-van-neo-cao-nguoi-mua-kho-voi-20221223135201919.jsp"
                 >
                   <img
                     alt="Giá chung cư vẫn neo cao, người mua khó với"
@@ -2671,7 +2671,7 @@
               </div>
               <h3 class="article-title">
                 <a
-                  href="#"
+                  href="${pageContext.request.contextPath}/Views/bat-dong-san/gia-chung-cu-van-neo-cao-nguoi-mua-kho-voi-20221223135201919.jsp"
                   >Giá chung cư vẫn neo cao, người mua khó với</a
                 >
               </h3>
